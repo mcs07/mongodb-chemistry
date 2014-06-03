@@ -1,0 +1,3303 @@
+Query: CHEMBL129715 - O=C(O)CCCn1cnc(-c2ccc(F)cc2)c1-c1ccncc1
+Results (1)
+CHEMBL129715
+Query: CHEMBL1906145 - Cc1cc(C)c2c3c(cn2n1)c(=O)n(C)c(=O)n3C
+Results (1)
+CHEMBL1906145
+Query: CHEMBL551275 - O=C(/C=C/c1ccc(Cl)cc1Cl)NCCO
+Results (1)
+CHEMBL551275
+Query: CHEMBL2386972 - Cc1nc(-c2cn3c(n2)-c2ccc(-c4cnn(CCN5CCOCC5)c4)cc2OCC3)n(C(C)C)n1
+Results (1)
+CHEMBL2386972
+Query: CHEMBL1899063 - CCc1ccc(N2C(=O)N(CC(=O)C(C)(C)C)c3ccccc3S2(=O)=O)cc1
+Results (1)
+CHEMBL1899063
+Query: CHEMBL1618426 - CCCCCCCCCCC(N)C(=O)N(O)CC[N+](C)(C)C
+Results (1)
+CHEMBL1618426
+Query: CHEMBL1990584 - c1cnn(CN(Cc2ccccn2)Cc2ccccn2)c1
+Results (1)
+CHEMBL1990584
+Query: CHEMBL229304 - c1ccc2c(c1)C=C(c1ccc3c(c1)OCO3)CC2
+Results (1)
+CHEMBL229304
+Query: CHEMBL1322309 - CC(=O)O.O=c1c(=Cc2cccc(O)c2)sc2nc(-c3ccccc3)c(-c3ccccc3)n12
+Results (1)
+CHEMBL1322309
+Query: CHEMBL1560934 - CC(C)(C)NC(=O)c1nc2nc(-c3ccccc3)cc(C(F)(F)F)n2n1
+Results (1)
+CHEMBL1560934
+Query: CHEMBL1587570 - CCOc1ccc(NC(=O)CSc2nc3cccnc3n2CC)cc1
+Results (1)
+CHEMBL1587570
+Query: CHEMBL1730123 - O=C(Nc1ccccc1)Nc1ccc(O)c2ccccc12
+Results (1)
+CHEMBL1730123
+Query: CHEMBL2331979 - CN(O)C(=O)CCCCc1nnn[nH]1
+Results (1)
+CHEMBL2331979
+Query: CHEMBL132497 - O=C(NNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])c1cc([N+](=O)[O-])cc2c1-c1ccc([N+](=O)[O-])cc1C2=O
+Results (1)
+CHEMBL132497
+Query: CHEMBL1383522 - Cc1noc2ncnc(Oc3ccccc3)c12
+Results (1)
+CHEMBL1383522
+Query: CHEMBL1520610 - CC1(C)CC[C@]2(C(=O)O)CC[C@]3(CO)C(=CCC4[C@@]5(C)C[C@H](O)[C@H](O)[C@@](C)(C(=O)O)C5CC[C@]43C)[C@@H]2C1
+Results (1)
+CHEMBL1520610
+Query: CHEMBL2392139 - C[C@]12CC[C@H]3[C@@H](CCC4=CC(C)(O)CC[C@@]43C)[C@@H]1CC=C2n1cnc2ccccc21
+Results (1)
+CHEMBL2392139
+Query: CHEMBL550020 - O=C(c1cccc([N+](=O)[O-])c1)c1c(O)oc2ccccc2c1=O
+Results (1)
+CHEMBL550020
+Query: CHEMBL2437213 - Cl.NC1=NC(C23CC4CC2CC(C3)C4)N(c2ccc(Cl)cc2)C(N)=N1
+Results (2)
+CHEMBL2437213
+CHEMBL3040559
+Query: CHEMBL535881 - O=C(O)C(F)(F)F.OCC1CCN(Cc2cccc(-c3ccc(-c4nc5cc(C(F)(F)F)ccc5[nH]4)s3)c2)CC1
+Results (1)
+CHEMBL535881
+Query: CHEMBL1536347 - Cc1nn(-c2ccccc2)c(C)c1C=NN1CCN(c2ccc(Cl)cc2)CC1
+Results (1)
+CHEMBL1536347
+Query: CHEMBL1565839 - CCCS(=O)(=O)N1CCN(CCN2C(=O)c3cccc4cccc(c43)C2=O)CC1
+Results (1)
+CHEMBL1565839
+Query: CHEMBL1326035 - Cc1ccccc1NC(=O)C1COc2ccccc2O1
+Results (1)
+CHEMBL1326035
+Query: CHEMBL2074932 - O=CC[C@@H](O)[C@H](O)[C@H](O)CO
+Results (1)
+CHEMBL2074932
+Query: CHEMBL1324964 - O=[S+]([O-])(NCCCN[S+](=O)([O-])c1c(F)cccc1F)c1ccc2c(c1)OCCO2
+Results (1)
+CHEMBL1324964
+Query: CHEMBL378585 - C[C@H]1C(=O)O[C@H]2CC(CO)=CCCC(CO)=CC[C@H]12
+Results (1)
+CHEMBL378585
+Query: CHEMBL1401247 - COc1cccc(CNC(=O)C2CCN(S(=O)(=O)N3CCCC3)CC2)c1
+Results (2)
+CHEMBL1342226
+CHEMBL1401247
+Query: CHEMBL84180 - Nc1ncc(C(=O)c2ccccn2)s1
+Results (1)
+CHEMBL84180
+Query: CHEMBL1999636 - Cc1ccc(/C=N/NC(=O)c2cc3ccccc3cc2O)o1
+Results (1)
+CHEMBL1999636
+Query: CHEMBL92142 - c1ccc(CN2CCC(CCc3nccc4ccccc43)CC2)cc1
+Results (1)
+CHEMBL92142
+Query: CHEMBL1469945 - Cc1ccc(N(CC(=O)N=Nc2c(O)[nH]c3ccccc32)S(C)(=O)=O)c(C)c1
+Results (1)
+CHEMBL1469945
+Query: CHEMBL1543926 - COc1ccc(N=C2SC(CC(=O)Nc3ccc(OC)cc3OC)C(=O)N2C)cc1
+Results (1)
+CHEMBL1543926
+Query: CHEMBL2164555 - Clc1ccc(-c2nc(-c3ccccn3)no2)cc1
+Results (1)
+CHEMBL2164555
+Query: CHEMBL2221099 - CC[n+]1ccc(-c2cc[n+](Cc3cc(C[n+]4ccc(-c5cc[n+](CC)cc5)cc4)cc(C[n+]4ccc(-c5cc[n+](Cc6cc(C[n+]7ccc(-c8cc[n+](Cc9cc(C[n+]%10ccc(-c%11cc[n+](CC)cc%11)cc%10)cc(C[n+]%10ccc(-c%11cc[n+](CC)cc%11)cc%10)c9)cc8)cc7)cc(C[n+]7ccc(-c8cc[n+](Cc9cc(C[n+]%10ccc(-c%11cc[n+](CC)cc%11)cc%10)cc(C[n+]%10ccc(-c%11cc[n+](CC)cc%11)cc%10)c9)cc8)cc7)c6)cc5)cc4)c3)cc2)cc1
+Results (1)
+CHEMBL2221099
+Query: CHEMBL206307 - N#Cc1ccccc1S(=O)(=O)N1CCC(CCc2ccc(F)cc2F)CC1
+Results (1)
+CHEMBL206307
+Query: CHEMBL573195 - O=C(O)CNC(=O)C(=O)C(=O)c1ccccc1
+Results (1)
+CHEMBL573195
+Query: CHEMBL2152465 - CC1(C)CCC[C@]2(C)[C@@H](C(=O)O)[C@](C)(O)CC[C@@H]12
+Results (1)
+CHEMBL2152465
+Query: CHEMBL2372234 - Cc1ccc(C(=O)N[C@@H]2C(=O)N[C@H](C(C)C)C(=O)N3CCC[C@H]3C(=O)N(C)CC(=O)N[C@H](Cc3ccccc3)C(=O)O[C@@H]2C)c2nc3c(C(=O)N[C@@H]4C(=O)N[C@H](C(C)C)C(=O)N5CCC[C@H]5C(=O)N(C)CC(=O)N[C@H](Cc5ccccc5)C(=O)O[C@@H]4C)c(N)c(=O)c(C)c-3oc12
+Results (2)
+CHEMBL2372234
+CHEMBL2372240
+Query: CHEMBL517915 - CN1C[C@@H](c2ccco2)[C@@]2(Cc3ccccc3C2=O)[C@@]12C(=O)Nc1ccccc12
+Results (1)
+CHEMBL517915
+Query: CHEMBL2409818 - COc1cc2ncnc(Nc3ccccc3[N+](=O)[O-])c2c(OC)c1OC
+Results (1)
+CHEMBL2409818
+Query: CHEMBL1900656 - CCN(CC)C(=O)c1[nH]cnc1C(=O)N1CCc2ccccc2C1
+Results (1)
+CHEMBL1900656
+Query: CHEMBL1927332 - COc1cc(OC)c2c(c1)C(=O)c1cc(C)c(Cn3cc(F)c(=O)n(CC=C(C)C)c3=O)c(OC)c1C2=O
+Results (1)
+CHEMBL1927332
+Query: CHEMBL16430 - COc1cccc(C2CC(=O)c3cc4c(cc3N2)OCO4)c1
+Results (3)
+CHEMBL16116
+CHEMBL16430
+CHEMBL16227
+Query: CHEMBL1503235 - CCOC(=O)N(C)c1ccc(C(O)(C(=O)OCC)C(F)(F)F)cc1
+Results (1)
+CHEMBL1503235
+Query: CHEMBL1412987 - Cc1cccc(Nc2nc(-c3cccs3)cs2)n1
+Results (1)
+CHEMBL1412987
+Query: CHEMBL1587760 - CC12CN3CC(C)(CN(C1)C3c1ccc(Br)cc1O)C2
+Results (1)
+CHEMBL1587760
+Query: CHEMBL1272105 - CSc1nc(-c2ccc(F)cc2)c(-c2ccnc(NC(C)=O)c2)n1C(CO)CO
+Results (1)
+CHEMBL1272105
+Query: CHEMBL476894 - CN(CC[C@H](N)CC(=O)N[C@H]1C=C[C@H](n2ccc(N)nc2=O)O[C@@H]1C(=O)O)C(=N)N
+Results (5)
+CHEMBL511116
+CHEMBL476894
+CHEMBL1480558
+CHEMBL1622944
+CHEMBL1743761
+Query: CHEMBL433932 - CC(C)(C)c1nc2ccccc2c(=O)o1
+Results (1)
+CHEMBL433932
+Query: CHEMBL2414401 - O=C1C=CC2(C=C1)OCC(c1ccc(-c3cccc(Cl)c3)cc1)O2
+Results (1)
+CHEMBL2414401
+Query: CHEMBL1582102 - COc1ccc(CCNC(=O)c2coc3ccccc3c2=O)cc1
+Results (1)
+CHEMBL1582102
+Query: CHEMBL231349 - CC(C)Oc1cc2c(cc1NS(=O)(=O)c1ccc(-c3ccc(Cl)cc3)cc1)CCN(C)CC2
+Results (2)
+CHEMBL231349
+CHEMBL548450
+Query: CHEMBL318981 - CCC[C@H]1COC2OC3(C)CC[C@H]4[C@H](C)CCC1C24OO3
+Results (2)
+CHEMBL133354
+CHEMBL318981
+Query: CHEMBL1406092 - Cc1c(N=C(S)N=Nc2c(O)[nH]c3ccccc32)c(=O)n(-c2ccccc2)n1C
+Results (1)
+CHEMBL1406092
+Query: CHEMBL212272 - COc1cccc(NC(=O)NC2CC(C)(C)Oc3ccc(Cl)cc32)c1
+Results (1)
+CHEMBL212272
+Query: CHEMBL1972182 - CC1(C)O[C@@H](CP(c2ccccc2)c2ccccc2)[C@H](CP(c2ccccc2)c2ccccc2)O1
+Results (2)
+CHEMBL1968764
+CHEMBL1972182
+Query: CHEMBL1801946 - CC(=O)N[C@@H](CCCNC(=O)C[C@@H](N)CCCNC(=O)C[C@@H](N)CCCN)CC(=O)N[C@H]1[C@H](NC2=N[C@@H]3C(=O)NC[C@@H](O)[C@H]3N2)O[C@H](CO)[C@H](OC(N)=O)[C@H]1O
+Results (1)
+CHEMBL1801946
+Query: CHEMBL1869168 - CC(=O)OC[C@@H]1CN(Cc2ccccc2)C[C@H](n2cnc3c2ncnc3NCc2ccc(F)cc2)O1
+Results (1)
+CHEMBL1869168
+Query: CHEMBL1327165 - COc1cccc(S(=O)(=O)Nc2ccc(C(=O)NCc3ccco3)cc2)c1
+Results (1)
+CHEMBL1327165
+Query: CHEMBL1428200 - Cc1nc2ccccc2c(=O)n1NC(=O)c1ccc(Cl)c(Cl)c1
+Results (1)
+CHEMBL1428200
+Query: CHEMBL1873599 - CN(C)C(=O)CCc1ccc2c(c1)[nH]c1c2CCN2C(=O)[C@@H](CC(=O)NCCc3ccccn3)C[C@H](C(=O)N3CCOCC3)[C@@]12CCC1CCCC1
+Results (1)
+CHEMBL1873599
+Query: CHEMBL575329 - O=C(/C=C/c1ccc(F)cc1)Nc1ccc(-c2nc3ccc([N+](=O)[O-])cc3n2O)cc1
+Results (1)
+CHEMBL575329
+Query: CHEMBL1977041 - COC(=O)c1c(C)n2ncnc(N)c2c1-c1ccc(NC(=O)Nc2ccccc2)cc1
+Results (1)
+CHEMBL1977041
+Query: CHEMBL1353028 - COc1ccccc1NC(=O)Nc1ccc(C)cn1
+Results (1)
+CHEMBL1353028
+Query: CHEMBL366251 - O=C1[C@H](CCC(O)c2ccc(F)cc2)[C@@H](c2ccc(OS(=O)(=O)CC3OC(CO)C(OC4OC(CO)C(O)C(O)C4O)C(O)C3O)cc2)N1c1ccc(F)cc1
+Results (1)
+CHEMBL366251
+Query: CHEMBL186999 - C=C[C@@H]1OC(c2ccc(F)cc2)=N[C@H]1CO
+Results (1)
+CHEMBL186999
+Query: CHEMBL1209570 - O=C(O)c1ccc(NC(=O)c2cc3cc(O)ccc3oc2=O)cc1
+Results (1)
+CHEMBL1209570
+Query: CHEMBL278704 - CCNC(=O)[C@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CCc1ccc(OC)cc1
+Results (1)
+CHEMBL278704
+Query: CHEMBL2058240 - COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2S(=O)(=O)c2cc(Br)cc(C(F)(F)F)c2)c2cccc(OCC(=O)O)c2)cc1OC
+Results (1)
+CHEMBL2058240
+Query: CHEMBL413668 - CCNC1COC(OC2C(O)C(NOC3CC(O)C(SC(=O)c4c(C)c(I)c(OC5OC(C)C(O)C(OC)C5O)c(OC)c4OC)C(C)O3)C(C)OC2O[C@H]2C#CC=CC#C[C@@](C)(O)C(=C/CSC(C)=O)/C2=C(/NC(=O)OC)C(C)=O)CC1OC
+Results (1)
+CHEMBL413668
+Query: CHEMBL2206277 - CN1C(C)(C)CC(Oc2ccc(C(=O)Nc3ccc(NC(=O)Nc4cc(C(C)(C)C)on4)cc3)nc2)CC1(C)C
+Results (1)
+CHEMBL2206277
+Query: CHEMBL1353742 - CSc1ccc(C=NNC(=O)COc2ccc(Cl)cc2Br)cc1
+Results (1)
+CHEMBL1353742
+Query: CHEMBL1784567 - Cc1cc(Nc2ccc(S(F)(F)(F)(F)F)cc2)n2ncnc2n1
+Results (1)
+CHEMBL1784567
+Query: CHEMBL1312558 - C=CCOC(=O)N1CCN(c2cccc(C(F)(F)F)c2)CC1
+Results (1)
+CHEMBL1312558
+Query: CHEMBL448229 - N#CN=C(Nc1ccc2ccc(S(=O)(=O)Nc3ccc(Cl)c(C(=O)O)c3)cc2c1)Nc1ccc2ccc(S(=O)(=O)Nc3ccc(Cl)c(C(=O)O)c3)cc2c1
+Results (1)
+CHEMBL448229
+Query: CHEMBL1998891 - COc1cc(C(=O)N(C(=S)OCc2ccccn2)c2ccccc2)cc(OC)c1OC
+Results (1)
+CHEMBL1998891
+Query: CHEMBL55831 - CC(C)(C)c1ccc2c(c1)C(=O)c1ccc(C3=NCCN3)cc1S2(=O)=O
+Results (1)
+CHEMBL55831
+Query: CHEMBL9269 - CN(C)/C=C\[N+](=O)[O-]
+Results (1)
+CHEMBL9269
+Query: CHEMBL582019 - Nc1nc(Nc2ccc(Cl)cc2)nc2ccccc12
+Results (2)
+CHEMBL546344
+CHEMBL582019
+Query: CHEMBL266969 - O=C1NC(=O)c2cc(NC3CCCCC3)c(NC3CCCCC3)cc21
+Results (1)
+CHEMBL266969
+Query: CHEMBL326900 - C=CC1CN2CCc3c4ccccc4[nH]c3C2C[C@@H]1/C(=C\OC)C(=O)OC
+Results (1)
+CHEMBL326900
+Query: CHEMBL1289081 - O=C(c1ccco1)N1CCOC2(CCN(Cc3ccc(Cl)cc3)CC2)C1
+Results (1)
+CHEMBL1289081
+Query: CHEMBL399527 - COc1ccc(Cc2[nH]/c(=N\C3=NC(=O)N(C)C3=O)n(C)c2Cc2cc(OC)c(O)c(OC)c2)cc1
+Results (1)
+CHEMBL399527
+Query: CHEMBL1394384 - COc1ccc(Br)c2c1-c1nc(NC(=O)c3ccccc3SC)sc1C2
+Results (1)
+CHEMBL1394384
+Query: CHEMBL440022 - CCOC(=O)c1cn(Cc2ccccc2)c(C)c1C
+Results (1)
+CHEMBL440022
+Query: CHEMBL1504443 - CNc1nc(N)c([N+](=O)[O-])c(Nc2cccc(Cl)c2)n1
+Results (1)
+CHEMBL1504443
+Query: CHEMBL1437627 - O=C(Cc1ccc(F)cc1)NCCc1csc2nc(-c3ccccc3F)nn12
+Results (1)
+CHEMBL1437627
+Query: CHEMBL2324150 - C=C(C)[C@@H]1CC[C@]2(C(=O)NCCCCCCCCNC(=O)[C@H](CCC#N)NC(=O)OC(C)(C)C)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12
+Results (1)
+CHEMBL2324150
+Query: CHEMBL1702511 - Cc1ccc(S(=O)(=O)Nc2ccccc2C(=O)N2CCCC2)cc1
+Results (2)
+CHEMBL1393811
+CHEMBL1702511
+Query: CHEMBL2041564 - O=C(O)c1ccc(Nc2cccc([N+](=O)[O-])c2)cc1
+Results (1)
+CHEMBL2041564
+Query: CHEMBL1730602 - Oc1nc(Nc2ccc3c(c2)OCCO3)nnc1Cc1ccc(Cl)cc1
+Results (1)
+CHEMBL1730602
+Query: CHEMBL21329 - NNC(=NCCC(=O)O)NN
+Results (1)
+CHEMBL21329
+Query: CHEMBL2403780 - CC(O)Cn1c(/C=C/c2ccc3ccccc3c2)ncc1[N+](=O)[O-]
+Results (1)
+CHEMBL2403780
+Query: CHEMBL478387 - [Na+].COC(=O)C1=CC[C@]23CC[C@H]([C@@]2(OC(C)=O)CC1)[C@@](C)(/C=C/C=C(\C)C(=O)[O-])OC3=O
+Results (2)
+CHEMBL469926
+CHEMBL478387
+Query: CHEMBL1401843 - CCOc1cccc(C(=O)Nc2ccc3oc(-c4cccnc4)nc3c2)c1
+Results (1)
+CHEMBL1401843
+Query: CHEMBL1716322 - COc1ccc(OC)c(S(=O)(=O)N2CCCC(C(=O)N3CCOCC3)C2)c1
+Results (1)
+CHEMBL1716322
+Query: CHEMBL2094196 - Cc1n[nH]c(C)c1CC(=O)N[C@H]1CCCc2ccccc21
+Results (1)
+CHEMBL2094196
+Query: CHEMBL2008945 - NC(N)=NC(P(=O)(O)O)P(=O)(O)O
+Results (1)
+CHEMBL2008945
+Query: CHEMBL2425030 - C[C@H](COC(=O)c1ccc(Cl)cc1)[C@H]1CC[C@H]2[C@@H](O)CCC[C@]12C
+Results (1)
+CHEMBL2425030
+Query: CHEMBL1402386 - O=C(Nc1ccc2ccccc2c1)c1cccc(F)c1
+Results (1)
+CHEMBL1402386
+Query: CHEMBL2371787 - CC[C@@H]1NC(=O)[C@H]([C@H](O)C(C)CCCc2ccccc2)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O
+Results (1)
+CHEMBL2371787
+Query: CHEMBL1276021 - CCOC(=O)/C(=N/Nc1cccc(-n2nc(C(=O)Nc3nnc(S(N)(=O)=O)s3)c(C(=O)OCC)c2-c2ccccc2)c1)C(C)=O
+Results (1)
+CHEMBL1276021
+Query: CHEMBL1511901 - Cc1ccc(Sc2ncnc(N)c2[N+](=O)[O-])cc1
+Results (1)
+CHEMBL1511901
+Query: CHEMBL2059484 - O=c1c(OC2CCCC2)c(N2CCN(S(=O)(=O)Cc3cccc(Cl)c3)CC2)cnn1-c1cccc(Cl)c1
+Results (1)
+CHEMBL2059484
+Query: CHEMBL2220674 - CC1NC(=O)c2cccnc2-n2c(=O)c3cc(F)c(F)cc3nc21
+Results (1)
+CHEMBL2220674
+Query: CHEMBL1609446 - N#CC(NCCO)=C1C(=O)c2ccccc2C1=O
+Results (1)
+CHEMBL1609446
+Query: CHEMBL1713327 - Cc1cc(O)nc(NN=Cc2cc(Br)ccc2O)n1
+Results (1)
+CHEMBL1713327
+Query: CHEMBL1477299 - Cc1ccc(SCCCn2cnc3ccccc3c2=O)cc1
+Results (1)
+CHEMBL1477299
+Query: CHEMBL1542283 - CCOCC(=O)Nc1nnc(COCC)s1
+Results (1)
+CHEMBL1542283
+Query: CHEMBL1387526 - Cc1noc(C)c1COC(=O)c1ccccc1NC(=O)Cc1ccccc1
+Results (1)
+CHEMBL1387526
+Query: CHEMBL1796512 - CC(=O)Nc1sc2c(c1Cc1nnc(SCC(=O)NNC(=O)c3ccccc3)n1NC(=O)c1ccccc1)CCCC2
+Results (1)
+CHEMBL1796512
+Query: CHEMBL1890721 - COc1ccc(C=NNC(=O)c2ccc(Cl)cc2)cc1COC(C)=O
+Results (1)
+CHEMBL1890721
+Query: CHEMBL1363016 - COc1ccc2[nH]c(C)c(CCN=C(S)Nc3ccccc3C)c2c1
+Results (1)
+CHEMBL1363016
+Query: CHEMBL21779 - COC1CN=CNC1
+Results (1)
+CHEMBL21779
+Query: CHEMBL226732 - COC(=O)[C@@H]1C[C@H](OC(C)=O)C(=O)[C@H]2[C@@]1(C)CC[C@H]1C(=O)O[C@H](C3=C[C@@H](OC)O[C@@H]3OC)C[C@@]12C
+Results (3)
+CHEMBL387557
+CHEMBL226732
+CHEMBL434746
+Query: CHEMBL2365627 - N=C(N)Nc1ccc(Nc2ccc(NC(=O)CCCN)cc2)cc1
+Results (2)
+CHEMBL2316533
+CHEMBL2365627
+Query: CHEMBL2036635 - C[C@@H]1CCCN1CCCOc1ccc(C(=O)CN2CCN(C(=O)c3ccccc3)CC2)cc1
+Results (1)
+CHEMBL2036635
+Query: CHEMBL1596678 - O=C(NC12CC3CC(CC(C3)C1)C2)N(Cc1ccccc1)Cc1ccncc1
+Results (1)
+CHEMBL1596678
+Query: CHEMBL1185098 - C[N+](C)(C)[C@H](C(=O)NCCCCCCCCOc1ccc(OCc2ccccc2)cc1)c1ccccc1
+Results (2)
+CHEMBL389015
+CHEMBL1185098
+Query: CHEMBL461384 - CC(C)c1noc(C2CCN(c3ncnc(Nc4ccc(S(C)(=O)=O)cc4F)c3[N+](=O)[O-])CC2)n1
+Results (1)
+CHEMBL461384
+Query: CHEMBL399042 - COC(=O)c1cccc2[nH]c(-c3n[nH]c4ncc(-c5cncc6ccccc65)cc43)nc21
+Results (1)
+CHEMBL399042
+Query: CHEMBL1367612 - O=C(CSc1nc(O)cc(-c2ccccc2)n1)Nc1ccc(F)c(F)c1
+Results (1)
+CHEMBL1367612
+Query: CHEMBL489806 - Cn1c2cc(Cl)c(Cl)cc2nc1C1CCC2(CC1)OC(=O)c1ccccc12
+Results (1)
+CHEMBL489806
+Query: CHEMBL2140716 - C[C@H](CO)N1C[C@@H](C)[C@H](CN(C)S(=O)(=O)c2cccc(C#N)c2)OCc2cn(nn2)CCCC1=O
+Results (2)
+CHEMBL2140716
+CHEMBL2142210
+Query: CHEMBL610860 - CC(=O)NC1C(O)C(O)C(COC2OCC(O)C(O)C2OC2OCC(O)C(O)C2O)OC1O[C@H]1CC[C@@]2(C)[C@@H](CC[C@]3(C)[C@@H]2CC=C2[C@@H]4CC(C)(C)[C@@H](OC(=O)/C=C/c5ccccc5)C[C@]4(C(=O)OC4OC(CO)C(O)C(O)C4OC4OC(C)C(OC5O[C@@H](CO)[C@@H](O)[C@H]5O)C(OC5OC(CO)C(O)C(O)C5O)C4O)CC[C@]23C)C1(C)C
+Results (1)
+CHEMBL610860
+Query: CHEMBL271896 - CCCC1([C@H](O)C/C=C/[C@H]2[C@H](O)CC(=O)[C@@H]2CCCCCCC(=O)OC)CCC1
+Results (2)
+CHEMBL271896
+CHEMBL432522
+Query: CHEMBL595947 - N=C(Cc1c(C(=O)NCc2ccc(F)cc2)nn(-c2ccccc2Cl)c1-c1ccc(Cl)cc1)NO
+Results (1)
+CHEMBL595947
+Query: CHEMBL112658 - NCCCP(=O)(O)CC1CC1
+Results (1)
+CHEMBL112658
+Query: CHEMBL1643671 - c1cc2nc3c(c(N4CCCC4)n2n1)CCNCC3
+Results (2)
+CHEMBL1643671
+CHEMBL1643672
+Query: CHEMBL522298 - COc1cc(OC)c(Cl)c2c1C(=O)[C@@]1(O2)C(OCc2ccccc2)=C/C(=N\O)C[C@H]1C
+Results (1)
+CHEMBL522298
+Query: CHEMBL1170088 - O=S(=O)(c1nnn2c3ccsc3c(Nc3ccccc3)nc12)c1ccccc1
+Results (1)
+CHEMBL1170088
+Query: CHEMBL2177346 - CC[C@H]1C[C@@H]1c1cncc(OC[C@@H]2CCN2)c1.O=C(O)C(F)(F)F
+Results (1)
+CHEMBL2177346
+Query: CHEMBL307771 - [I-].CCCCCOc1c(OC)cc(C(=O)OCCCC[N+](C)(C)C)cc1OC
+Results (3)
+CHEMBL1183616
+CHEMBL66495
+CHEMBL307771
+Query: CHEMBL1194657 - CN(C(=O)c1ccc(Br)cc1)[C@H]1CCCC[C@@]12CCCN2C
+Results (2)
+CHEMBL553062
+CHEMBL1194657
+Query: CHEMBL255569 - Cc1cc(C)n(-c2cc(NC(=O)Cc3ccc(F)c(F)c3)nc(-c3ccc(C)o3)n2)n1
+Results (1)
+CHEMBL255569
+Query: CHEMBL63561 - COc1cccc2c3c(ccn(Cc4ccccc4OC)c3=O)n(CCN3CCOCC3)c21
+Results (1)
+CHEMBL63561
+Query: CHEMBL194474 - Cc1c2[nH]c3ccc(Br)cc3c2c(C)c2cnccc12
+Results (1)
+CHEMBL194474
+Query: CHEMBL472091 - S=C(Nc1ccccc1)OCc1c(Cl)cccc1Cl
+Results (1)
+CHEMBL472091
+Query: CHEMBL1089224 - CCCCOc1nc2c([nH]c(=O)n2Cc2cccc(CC(=O)OC)c2)c(N)n1
+Results (1)
+CHEMBL1089224
+Query: CHEMBL493767 - NC(=S)Nc1cccc(OCCc2ccccc2)c1
+Results (1)
+CHEMBL493767
+Query: CHEMBL1382832 - CCC(=O)Nc1ccccc1Sc1ncnc2scc(-c3ccccc3)c21
+Results (1)
+CHEMBL1382832
+Query: CHEMBL518969 - Cc1cc2nc(Nc3nc(O)c4ccccc4n3)nc(C)c2cc1C
+Results (1)
+CHEMBL518969
+Query: CHEMBL1906245 - CN1C(C)(C)CC(NC(=O)CCC(=O)NC2CC(C)(C)N(C)C(C)(C)C2)CC1(C)C
+Results (1)
+CHEMBL1906245
+Query: CHEMBL2068691 - CCc1cc(C)c(Oc2c(I)c(C)c(CC(N)C(=O)O)c(C)c2I)c(C)c1C(C)(C)C
+Results (1)
+CHEMBL2068691
+Query: CHEMBL1567672 - CN(c1ccc(C(=O)NCc2cccnc2)cc1)S(=O)(=O)c1ccc(Cl)cc1
+Results (1)
+CHEMBL1567672
+Query: CHEMBL2338280 - COc1cc2c(cc1OC)[C@H](CNC(=O)/C=C/c1ccc(N)cc1)N1[C@@H](C#N)[C@@H]3Cc4cc(OC)c(OC)cc4[C@H]([C@@H]1C2)N3C
+Results (1)
+CHEMBL2338280
+Query: CHEMBL1377272 - O=C(NC1CCCCCCC1)c1cc(-c2ccccn2)nc2ccccc21
+Results (2)
+CHEMBL1377272
+CHEMBL1443213
+Query: CHEMBL423018 - COc1cc2nc3c(c(N)c2cc1OC)CC(CNC(=O)c1ccco1)C3
+Results (1)
+CHEMBL423018
+Query: CHEMBL594911 - O=C(CONC(=O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1)Nc1ccc(Cl)cc1
+Results (1)
+CHEMBL594911
+Query: CHEMBL494811 - O=C(Nc1ccc(C(O)CO)cn1)c1cc2cc(Cl)ccc2[nH]1
+Results (1)
+CHEMBL494811
+Query: CHEMBL581438 - COC1CCC(C(=O)Nc2ccc(-c3cccc(-c4nc5cc(C(F)(F)F)ccc5[nH]4)c3)cc2)CC1
+Results (1)
+CHEMBL581438
+Query: CHEMBL278733 - O=c1[nH][nH]c(=O)c2c(O)c3sccc3nc12
+Results (1)
+CHEMBL278733
+Query: CHEMBL541628 - O.Cl.CC(=N)N1CC[C@H](Oc2ccc(C(Cc3ccc4ccc(C(=N)N)cc4c3)C(=O)O)cc2)C1
+Results (6)
+CHEMBL539053
+CHEMBL541628
+CHEMBL314535
+CHEMBL19902
+CHEMBL19365
+CHEMBL19660
+Query: CHEMBL304262 - CNC12CC=CCC1CC(C)(C)c1ccccc12
+Results (1)
+CHEMBL304262
+Query: CHEMBL1324956 - CCc1nnc(NC(=O)CSc2nc3ccccc3o2)s1
+Results (1)
+CHEMBL1324956
+Query: CHEMBL2138939 - Cc1cc(OCC(=O)OCC(=O)NCC2CCCO2)ccc1Cl
+Results (1)
+CHEMBL2138939
+Query: CHEMBL1338909 - COC1=CC(=O)OC(CCc2ccccc2)C1
+Results (2)
+CHEMBL569329
+CHEMBL1338909
+Query: CHEMBL1189205 - N#CCCCCC1(Cc2ccncc2)c2ccccc2N(c2ccccc2)C1=O
+Results (3)
+CHEMBL538267
+CHEMBL1189205
+CHEMBL1193999
+Query: CHEMBL104900 - CN(C)CCNC(=O)c1ccc(NCCN(C)C)c2c(=O)c3ccccc3[nH]c12
+Results (1)
+CHEMBL104900
+Query: CHEMBL1591941 - COc1cc(Cl)c(C)cc1NC(=O)C1CCN(c2nc3ccccc3n3cccc23)CC1
+Results (1)
+CHEMBL1591941
+Query: CHEMBL560437 - [O-][n+]1nc2c(I)cnn2c2cc(OCc3ccccc3)ccc21
+Results (1)
+CHEMBL560437
+Query: CHEMBL1078985 - Clc1ncn2c1Cn1ncnc1-c1cc(Br)ccc1-2
+Results (1)
+CHEMBL1078985
+Query: CHEMBL1834118 - Nc1c(F)c(NCCNc2cccc3ccccc32)c(F)c2c1c(=O)c(C(=O)O)cn2C1CC1
+Results (1)
+CHEMBL1834118
+Query: CHEMBL1331290 - COc1ccc(Nc2nc3cc(C)ccc3cc2C#N)c(OC)c1
+Results (1)
+CHEMBL1331290
+Query: CHEMBL453102 - O=[N+]([O-])c1cn2c(n1)OC[C@@H](NCCCCCc1ccc(OC(F)(F)F)cc1)C2
+Results (2)
+CHEMBL508258
+CHEMBL453102
+Query: CHEMBL1765498 - CN(Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(=O)c1c(CCl)nccc1-c1ccccc1
+Results (1)
+CHEMBL1765498
+Query: CHEMBL2408684 - CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3[C@H](NCCn4ccnc4)C[C@H]4C[C@H](NCCn5ccnc5)CC[C@]4(C)[C@H]3CC[C@]12C
+Results (1)
+CHEMBL2408684
+Query: CHEMBL607515 - C=C(C)[C@@H]1CC[C@]2(C(=O)O)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)n6ccnc6)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12
+Results (1)
+CHEMBL607515
+Query: CHEMBL1348130 - C=C(C)Cc1c(C)c(C#N)c2nc3ccccc3n2c1NCCCN(C)C
+Results (1)
+CHEMBL1348130
+Query: CHEMBL2112129 - C=CCn1c2c(nc(N)nc2O)n([C@@H]2O[C@H](CO)[C@H]3OC(C)(CCC(=O)OCC)O[C@H]32)c1=O
+Results (1)
+CHEMBL2112129
+Query: CHEMBL1552602 - N#Cc1ccc(CSc2nc3c(c(=O)[nH]2)CCC3)cc1
+Results (1)
+CHEMBL1552602
+Query: CHEMBL526918 - NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](C(=O)Nc4ccc(-c5cn(Cc6cccc(CN7CCN(c8cc9c(cc8F)c(=O)c(C(=O)O)cn9C8CC8)CC7)c6)nn5)cc4)[C@@H](O[C@H]4O[C@@H](CN)[C@@H](O)[C@H](O)[C@H]4N)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1O
+Results (1)
+CHEMBL526918
+Query: CHEMBL1474979 - Cc1occc1C(=O)N1CCN(S(=O)(=O)c2ccc(F)cc2)CC1
+Results (1)
+CHEMBL1474979
+Query: CHEMBL2205652 - CC(C)C[C@H](NC(=O)Nc1ccccc1)C(=O)NO
+Results (1)
+CHEMBL2205652
+Query: CHEMBL10208 - CCN(c1ccc(C(C)C)cc1Br)c1nc(C)cc(-c2c(Cl)cccc2Cl)n1
+Results (1)
+CHEMBL10208
+Query: CHEMBL1836258 - CC(C)Cc1cc(C(=O)NCC2(C#N)CCN(Cc3ccccc3C(F)(F)F)CC2)nn1-c1ccccc1
+Results (1)
+CHEMBL1836258
+Query: CHEMBL2112178 - CNC(=O)[C@]12C[C@@H]1[C@@H](n1cnc3c1nc(Cl)nc3NC1C3CCC1CC3)[C@H](O)[C@@H]2O
+Results (1)
+CHEMBL2112178
+Query: CHEMBL1448255 - Cc1cccc(NC(=O)COC(=O)c2cccc(S(=O)(=O)N3CCCCCC3)c2)c1
+Results (1)
+CHEMBL1448255
+Query: CHEMBL1735459 - CCN(CC)S(=O)(=O)c1ccc(Cl)c(NC2=NCCCCC2)c1
+Results (1)
+CHEMBL1735459
+Query: CHEMBL1722581 - CCOC(=O)c1ccc(NCc2cccnc2)cc1
+Results (1)
+CHEMBL1722581
+Query: CHEMBL328709 - CCCc1nc(COc2ccc(CC3SC(=O)NC3=O)cc2)co1
+Results (1)
+CHEMBL328709
+Query: CHEMBL169622 - CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCc2ccncc2)CC1
+Results (1)
+CHEMBL169622
+Query: CHEMBL511834 - O=[N+]([O-])c1cnc(Sc2nnc(O)n2-c2ccc(F)c(F)c2)s1
+Results (1)
+CHEMBL511834
+Query: CHEMBL1570599 - COc1ccc(/C=C2/C(=N)N3N=C(CC(=O)N4CCCC4)SC3=NC2=O)cc1
+Results (2)
+CHEMBL1570599
+CHEMBL1897846
+Query: CHEMBL30505 - [K+].[K+].CCOP(=O)([O-])N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)[O-]
+Results (1)
+CHEMBL30505
+Query: CHEMBL188455 - CCCc1c2ccn(CC(C)(C)C)c2ccc1OCCOc1ccc(-c2nn[nH]n2)cc1
+Results (1)
+CHEMBL188455
+Query: CHEMBL2205646 - Cl.COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)COC(=O)CCOc1no[n+]([O-])c1S(=O)(=O)c1ccccc1)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1
+Results (2)
+CHEMBL2205646
+CHEMBL2220206
+Query: CHEMBL1411233 - CN[C@@H](C)C(=O)N[C@H](C(=O)N[C@H](C(=O)NNc1cccc(F)c1)C(C)C)C(C)C.O=CO
+Results (1)
+CHEMBL1411233
+Query: CHEMBL2355525 - COc1ccccc1CNS(=O)(=O)c1cc(Br)cc2c1N(C(=O)C1CC1)CC2
+Results (1)
+CHEMBL2355525
+Query: CHEMBL482785 - c1csc(-c2ccsc2-c2cccs2)c1
+Results (1)
+CHEMBL482785
+Query: CHEMBL129654 - CC1(C)CCCN(CCC2CCCc3ccccc32)C1
+Results (1)
+CHEMBL129654
+Query: CHEMBL376945 - c1csc(CNc2ccc3[nH]nc(-c4nc5cc(N6CCC(N7CCCCC7)CC6)ccc5[nH]4)c3c2)n1
+Results (1)
+CHEMBL376945
+Query: CHEMBL1253398 - CC[C@H](C)[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CO)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Results (1)
+CHEMBL1253398
+Query: CHEMBL441668 - COc1cc(CC2CCc3nc(N)nc(N)c32)cc(OC)c1OC
+Results (1)
+CHEMBL441668
+Query: CHEMBL35291 - CCCCCC(OC(=O)C(Cc1ccc(N(CCCl)CCCl)cc1)NC=O)c1cc(O)c2c(c1O)C(=O)c1ccccc1C2=O
+Results (4)
+CHEMBL284605
+CHEMBL35291
+CHEMBL445057
+CHEMBL36530
+Query: CHEMBL1197945 - CCCCC(O)(c1ccc(OC)cc1)C(CN1CCCCC1)c1ccccc1
+Results (2)
+CHEMBL591894
+CHEMBL1197945
+Query: CHEMBL7679 - O=C(O)Cc1nn(Cc2ccc(Br)cc2F)c(=O)c2ccccc12
+Results (1)
+CHEMBL7679
+Query: CHEMBL190800 - O=C(O)/C(=C/c1ccc(Oc2ccccc2Br)cc1)NC(=O)c1ccc(Cl)cc1
+Results (1)
+CHEMBL190800
+Query: CHEMBL491519 - CC1(C)C=Cc2c3ccc(=O)oc3cc(O)c2O1
+Results (1)
+CHEMBL491519
+Query: CHEMBL512977 - O=C1c2cc(F)ccc2N(Cc2ccc(C(F)(F)F)cc2)C1=O
+Results (1)
+CHEMBL512977
+Query: CHEMBL121302 - COc1cc(C)nc2c(-c3ccc(F)cc3)c(-c3ccc(S(C)(=O)=O)cc3)nn21
+Results (1)
+CHEMBL121302
+Query: CHEMBL611811 - CCCOC(=O)C1=C(C)NC2=C(C(=O)CC(c3ccc(OC)cc3)C2)C1c1ccc(Cl)cc1Cl
+Results (1)
+CHEMBL611811
+Query: CHEMBL1861204 - COc1ccc(Oc2ncccc2/C(=N/O)NCC2CC2)cc1
+Results (1)
+CHEMBL1861204
+Query: CHEMBL15447 - C/N=C(\NC#N)NCCSCCCn1nc(-c2ccccc2)ccc1=O
+Results (1)
+CHEMBL15447
+Query: CHEMBL1703375 - O=C(C=Cc1ccccc1)N1CCCCC1
+Results (2)
+CHEMBL1703375
+CHEMBL2000928
+Query: CHEMBL1082332 - N#Cc1c(=O)[nH]c(SCc2ccc([N+](=O)[O-])cc2)nc1-c1cccc([N+](=O)[O-])c1
+Results (1)
+CHEMBL1082332
+Query: CHEMBL1406003 - CC(C)c1ccc2[nH]c(O)c(N=NC(=O)c3cccc(S(=O)(=O)Nc4cccc(Cl)c4)c3)c2c1
+Results (1)
+CHEMBL1406003
+Query: CHEMBL1607231 - CCOC(=O)C(=NO)Nc1ccccc1
+Results (1)
+CHEMBL1607231
+Query: CHEMBL1414407 - O=C(CCCn1c(=O)c2ccccc2[nH]c1=S)N1CCC(c2ccccc2)CC1
+Results (1)
+CHEMBL1414407
+Query: CHEMBL1254898 - N#CSc1ccc(C(=O)O)c(-c2c3cc(I)c(O)c(I)c3oc3c(I)c(=O)c(I)cc2-3)c1
+Results (1)
+CHEMBL1254898
+Query: CHEMBL1835265 - Cc1ccc(S(=O)(=O)c2nc3ccccc3nc2Nc2cccc(N)c2)cc1
+Results (1)
+CHEMBL1835265
+Query: CHEMBL444445 - CC[C@H](C)[C@@H]1NC(=O)[C@@H](NC(=O)[C@@H](CC(C)C)N(C)C(=O)[C@@H]2CCCN2C(=O)[C@H](C)OC(C)=O)[C@H](C)OC(=O)[C@H](Cc2ccc(OC)cc2)N(C)C(=O)[C@@H]2CCCN2C(=O)[C@H](CC(C)C)NC(=O)[C@@H](C)C(=O)[C@H](C(C)C)OC(=O)C[C@@H]1O
+Results (1)
+CHEMBL444445
+Query: CHEMBL575506 - CCn1ccc2cc(/C(=N/O)c3ccc(OC)c(OC)c3OC)ccc21
+Results (1)
+CHEMBL575506
+Query: CHEMBL386308 - Cc1ccccc1C(=O)Nc1ccc(S(=O)(=O)NC2CCN(C(=O)[C@@H]3CCCN3)CC2)c2ccccc12
+Results (1)
+CHEMBL386308
+Query: CHEMBL1603754 - CC(C)c1ccc(NC2CCCN(C(=O)CCc3cnn(C)c3)C2)cc1
+Results (1)
+CHEMBL1603754
+Query: CHEMBL1160378 - Cc1cn([C@H]2C[C@H](OP(=O)(O)O[C@H]3O[C@@H](n4cnc5c4nc(N)[nH]c5=O)C[C@@H]3OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4nc(N)[nH]c5=O)C[C@@H]3OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4nc(N)[nH]c5=O)C[C@@H]3OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4N=CNC5N)C[C@@H]3OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c4nc(N)n(C)c5=O)C[C@@H]3OP(=O)(O)OCCO)[C@@H](COCc3ccc(OCc4ccccc4)c(OCc4ccccc4)c3)O2)c(=O)[nH]c1=O
+Results (5)
+CHEMBL1160376
+CHEMBL1160377
+CHEMBL1160378
+CHEMBL1160379
+CHEMBL1185393
+Query: CHEMBL1642728 - O[C@@H]1[C@@H](O)[C@H](c2ccc(Cl)c(Cc3ncc(-c4ccco4)s3)c2)O[C@H](Cn2cncn2)[C@H]1O
+Results (1)
+CHEMBL1642728
+Query: CHEMBL457409 - COC(=O)/C=C/[C@H](CC(C)C)NC(=O)CC[C@@H]1NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)C(=O)NC(=O)[C@H](C)NC1=O
+Results (1)
+CHEMBL457409
+Query: CHEMBL1813826 - COc1ccc2c(c1)c1cc(OC)c(OC)cc1c1c2CN2CCN(P(=O)(OC)OC)C[C@@H]2C1
+Results (1)
+CHEMBL1813826
+Query: CHEMBL1190511 - CC1(C)N=C(N)N=C(N)N1c1ccc(-c2ccc(N3C(N)=NC(N)=NC3(C)C)cc2)cc1
+Results (2)
+CHEMBL541043
+CHEMBL1190511
+Query: CHEMBL1338755 - COc1ccc(NC(=O)C(C)Sc2nnc3c4c(nc(-c5ccc(OC)cc5)n23)CC(C)(C)OC4)cc1
+Results (1)
+CHEMBL1338755
+Query: CHEMBL1451595 - Cc1ccc(-c2cc(C(=O)NN=Cc3ccccc3O)[nH]n2)o1
+Results (1)
+CHEMBL1451595
+Query: CHEMBL1982213 - CC1=NN(c2cccc(Cl)c2)C(=N/c2nc3ccccc3s2)/C1=C\C=C\c1ccccc1
+Results (1)
+CHEMBL1982213
+Query: CHEMBL2436066 - Cc1ccc(/C=C/C(=O)c2ccc(NC(=O)CN3CCN(c4cc5c(cc4F)c(=O)c(C(=O)O)cn5C4CC4)CC3)cc2)c(C)c1
+Results (1)
+CHEMBL2436066
+Query: CHEMBL2435054 - COC(=O)C1=C[C@@]2(C)OO[C@]1(C)O[C@H]2c1ccccc1
+Results (1)
+CHEMBL2435054
+Query: CHEMBL2059214 - CSc1nc(/C=C/c2cccc(O)c2)cc(/C=C/c2cccc(O)c2)n1
+Results (1)
+CHEMBL2059214
+Query: CHEMBL1512410 - COc1ccc(-n2c(C)c(C)c3c2ncnc3NCCCN(C)C)cc1
+Results (1)
+CHEMBL1512410
+Query: CHEMBL1880793 - CC1=C(C(=O)N2CCOCC2)C(c2cccs2)NC(=O)N1
+Results (1)
+CHEMBL1880793
+Query: CHEMBL1446010 - O=C(N1CCN(c2ccccc2F)CC1)C12CC3CC(CC(C3)C1)C2
+Results (1)
+CHEMBL1446010
+Query: CHEMBL1564662 - Cc1ccc(-c2nn(C)c(=O)c3ccccc32)cc1CNC(=O)CN1CCOCC1
+Results (1)
+CHEMBL1564662
+Query: CHEMBL1608779 - COc1ccc(CSC2=C(C#N)C(=O)NC3(CCCCC3)S2)cc1
+Results (1)
+CHEMBL1608779
+Query: CHEMBL358147 - O=C(NCc1cccc(Cl)c1)C(=O)c1c[nH]c2ccccc12
+Results (1)
+CHEMBL358147
+Query: CHEMBL189875 - COc1ccc(/N=C/c2cn(-c3ccc(OC)cc3)cc2/C=N/c2ccc(OC)cc2)cc1
+Results (1)
+CHEMBL189875
+Query: CHEMBL1425157 - COc1ccccc1NC(=O)OC(C)c1ccc(Cl)cc1
+Results (1)
+CHEMBL1425157
+Query: CHEMBL308024 - Cc1cc(C)c(NC(=O)c2cc3sc(NC(=O)OC(C)(C)C)nc3c(C)c2)c(C)c1
+Results (1)
+CHEMBL308024
+Query: CHEMBL193158 - I.Nc1nc2c(s1)Cc1cc(-c3ccccc3[N+](=O)[O-])ccc1-2
+Results (2)
+CHEMBL193158
+CHEMBL1626594
+Query: CHEMBL291096 - N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N1Cc2ccccc2C[C@H]1C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O
+Results (1)
+CHEMBL291096
+Query: CHEMBL456274 - Cc1ccc(O)c(NC(=O)c2cn(Cc3ccccc3Cl)nn2)c1
+Results (1)
+CHEMBL456274
+Query: CHEMBL1349655 - Cc1ccc2occ(C3C(C(=O)OC4CCCC4)=C(C)N=C4CCCC(O)=C43)c(=O)c2c1
+Results (1)
+CHEMBL1349655
+Query: CHEMBL1714604 - Cl.COc1ccccc1N1CCN(CC(O)COc2ccc(C)c(C)c2)CC1
+Results (2)
+CHEMBL1714604
+CHEMBL1740098
+Query: CHEMBL1491783 - CCOc1ccccc1NC(=O)c1ccc2c(c1)CCN2S(C)(=O)=O
+Results (1)
+CHEMBL1491783
+Query: CHEMBL1508168 - CC(=NNc1ccccc1C(=O)O)c1ccncc1
+Results (1)
+CHEMBL1508168
+Query: CHEMBL1360559 - Cl.Cc1ccccc1C(=NCCCN(C)C)c1ccccc1C
+Results (2)
+CHEMBL1360559
+CHEMBL1618505
+Query: CHEMBL2348097 - CCC(C(=O)O)N1Cc2sc(C#CCC3CCCCC3)cc2S1(=O)=O
+Results (1)
+CHEMBL2348097
+Query: CHEMBL2374148 - CCCCCC(=O)N[C@@H](c1ccccc1)[C@H](O)C(=O)O[C@H]1C[C@@]2(O)[C@@H](OC(=O)c3ccccc3)C3[C@]4(OC(C)=O)CO[C@@H]4CC(OC4OCC(O)C(O)C4O)[C@@]3(C)C(=O)[C@H](O)C(=C1C)C2(C)C
+Results (2)
+CHEMBL1596636
+CHEMBL2374148
+Query: CHEMBL194913 - [Li+].[Li+].CCCC(NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)OCC(C)C)C(C)C)C(=O)C(=O)NCC(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-]
+Results (1)
+CHEMBL194913
+Query: CHEMBL2206686 - N#CC(C#N)CC(=O)c1ccccc1
+Results (1)
+CHEMBL2206686
+Query: CHEMBL2357782 - COC(=O)[C@@]12C[C@@H](CC(=O)NCc3ccccc3)C(=O)N(Cc3ccc4c(c3)OCO4)C1=CCCCC2
+Results (1)
+CHEMBL2357782
+Query: CHEMBL1798058 - Cc1cc(C)nc(OC(C(=O)O)C(COC(=O)OC(C)C)(c2ccccc2)c2ccccc2)n1
+Results (1)
+CHEMBL1798058
+Query: CHEMBL576329 - CNc1nc(NN=Cc2cc([N+](=O)[O-])ccc2O)nc(Nc2cccc(C(F)(F)F)c2)n1
+Results (1)
+CHEMBL576329
+Query: CHEMBL2372454 - CC(C)(C)OC(=O)N[C@H](CCCN=C(N)N)C(=O)NCC(=O)N[C@H](C=O)CCCN=C(N)N
+Results (2)
+CHEMBL2372454
+CHEMBL2372455
+Query: CHEMBL1698057 - Cc1ccc(CNC(=O)c2ccccc2SCC(=O)NCC2CCCCC2)cc1
+Results (1)
+CHEMBL1698057
+Query: CHEMBL288441 - COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc32)c(Cl)cc1Cl
+Results (2)
+CHEMBL2131134
+CHEMBL288441
+Query: CHEMBL186511 - O=C(Cc1ccccc1)Nc1ncc(C2CCCC2)s1
+Results (2)
+CHEMBL186846
+CHEMBL186511
+Query: CHEMBL1465893 - CCOCCCn1c(SCc2nc3ccccc3s2)nc2ccccc2c1=O
+Results (1)
+CHEMBL1465893
+Query: CHEMBL1408312 - Cc1ccc(NC(=O)CSc2n[nH]c(-c3cccnc3)n2)c(Br)c1
+Results (1)
+CHEMBL1408312
+Query: CHEMBL1974146 - Cc1cc(NS(=O)(=O)c2ccc(Nc3c4ccccc4nc4c(C(=O)Nc5ccc(S(=O)(=O)Nc6nc(C)cc(C)n6)cc5)cccc43)cc2)no1
+Results (2)
+CHEMBL1974146
+CHEMBL1978288
+Query: CHEMBL1199191 - N#C[C@@H]1CSCN1C(=O)CN(N)C1CCN(CC(=O)Nc2ccc3c(c2)OCO3)CC1
+Results (1)
+CHEMBL1199191
+Query: CHEMBL96936 - CCCC1(CCC)C(=O)OC[C@H]1NC(=O)OCC
+Results (1)
+CHEMBL96936
+Query: CHEMBL1822531 - COc1cc2cc(NC(=O)CC/C=C/CCC(=O)Nc3cc4cc(OC)c(O[C@H]5OC(C)(C)[C@@H](OC)[C@H](O)[C@@H]5O)c(C)c4oc3=O)c(=O)oc2c(C)c1O[C@H]1OC(C)(C)[C@@H](OC)[C@H](O)[C@@H]1O
+Results (1)
+CHEMBL1822531
+Query: CHEMBL2087656 - c1ccc(-c2c(-c3ccc(OCCN4CCOCC4)cc3)oc3ncnc(NC[C@@H]4CCCO4)c32)cc1
+Results (1)
+CHEMBL2087656
+Query: CHEMBL2357746 - Cc1ccc(-c2nc3c(C)cc(Br)cn3c2Cc2cccc(F)c2)cc1
+Results (1)
+CHEMBL2357746
+Query: CHEMBL2312015 - CCCCCCCC(=O)CCCCCC/C=C/[C@H](C(=O)N[C@@H](Cc1ccc(OCCCC)cc1)C(=O)O)[C@@](O)(CC(=O)O)C(=O)O
+Results (1)
+CHEMBL2312015
+Query: CHEMBL547683 - Cl.CN(C)CCCc1cc(NC(=O)Nc2cccc(Cl)c2Cl)ccc1I
+Results (2)
+CHEMBL528615
+CHEMBL547683
+Query: CHEMBL8663 - C#CCN(C)C(C)Cc1ccccc1
+Results (5)
+CHEMBL1200904
+CHEMBL1314409
+CHEMBL8663
+CHEMBL16857
+CHEMBL972
+Query: CHEMBL319408 - O=C(N[C@@H](Cc1ccccc1)[C@@H](O)C[C@@H](Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O)O[C@H]1CCOC1
+Results (4)
+CHEMBL319408
+CHEMBL319092
+CHEMBL136146
+CHEMBL2062160
+Query: CHEMBL32557 - NC1Cc2ccc(O)c(O)c2C1
+Results (1)
+CHEMBL32557
+Query: CHEMBL1879947 - CC1C(=O)O[C@@H]2C[C@@H](C)[C@@H]3CCC(=O)[C@@]3(C)[C@@H](O)[C@H]12
+Results (5)
+CHEMBL1170900
+CHEMBL310641
+CHEMBL368256
+CHEMBL1879947
+CHEMBL1911135
+Query: CHEMBL326102 - CC(C)(C)C(=O)CN1c2ccccc2C(c2ccccn2)=N[C@@H](NC(=O)Nc2cccc(N3CCCC3)c2)C1=O
+Results (2)
+CHEMBL116300
+CHEMBL326102
+Query: CHEMBL2436769 - COc1ccc(-c2ccnc(NC3CCCCCC3)n2)cc1OCc1ccccc1
+Results (2)
+CHEMBL2436768
+CHEMBL2436769
+Query: CHEMBL1966442 - CCCCN1CN2c3c(sc4nc(SC)nc1c43)C(=O)C(C(=O)OCC)C2=O
+Results (1)
+CHEMBL1966442
+Query: CHEMBL1411942 - COC(=O)c1ccc(COC(=O)c2ccccc2C(=O)N(C)c2ccccc2)cc1
+Results (1)
+CHEMBL1411942
+Query: CHEMBL2436346 - CCOP(=O)(OCC)C(NC(=S)NC(=O)[C@]1(C)CCC[C@]2(C)c3ccc(C(C)C)cc3C(=O)C[C@@H]12)c1ccc(F)cc1
+Results (1)
+CHEMBL2436346
+Query: CHEMBL1076121 - COc1ccc([C@@H]2[C@H](CCN=[N+]=[N-])C(=O)N2c2ccccc2)cc1
+Results (1)
+CHEMBL1076121
+Query: CHEMBL1865590 - Cc1ccc2c(c1)N(CC(=O)N1CCCCC1)C(=O)C(C)O2
+Results (3)
+CHEMBL1599878
+CHEMBL1865590
+CHEMBL1897190
+Query: CHEMBL359291 - O=[N+]([O-])c1cn(CC(I)=C(I)I)cn1
+Results (1)
+CHEMBL359291
+Query: CHEMBL80535 - COc1cc2c(c3c1c(=O)c1cc4ccccc4cc1n3C)[C@@H](OC(C)=O)[C@@H](OC(C)=O)C(C)(C)O2
+Results (2)
+CHEMBL80535
+CHEMBL322248
+Query: CHEMBL38085 - [O-][S+]1c2ccccc2CCC12CCN(Cc1ccccc1)CC2
+Results (1)
+CHEMBL38085
+Query: CHEMBL295325 - CC(=O)O[C@@]1(C)CCC(C)CCC[C@@]2(C)[C@@H](CC[C@@H]2[C@H](C)CCCC(C)C)c2ccc(cc2CN2CCOCC2)C1
+Results (1)
+CHEMBL295325
+Query: CHEMBL84454 - CN(C(=O)[C@H](Cc1ccc(C(=N)NN)cc1F)NS(=O)(=O)c1ccc2c(c1)CCCC2)C1CCCC1
+Results (1)
+CHEMBL84454
+Query: CHEMBL2030285 - Cc1c(=O)c2ccccc2[nH]c1-c1ccc(Oc2cccc(OCCN3CCOCC3)c2)cc1
+Results (1)
+CHEMBL2030285
+Query: CHEMBL474842 - Cc1cc(Nc2cccc(C(F)(F)F)c2)n2ncnc2n1
+Results (1)
+CHEMBL474842
+Query: CHEMBL1985028 - O=[N+]([O-])c1cccc(C(O)/C(=N/O)c2nc3ccc(Cl)cc3nc2O)c1
+Results (1)
+CHEMBL1985028
+Query: CHEMBL27036 - O=CC(Cc1ccccc1)NC(=O)c1ccccc1OCc1ccc2ccccc2c1
+Results (1)
+CHEMBL27036
+Query: CHEMBL1188727 - Cc1ccc2[nH]c(N3CCN(c4ncccc4C(F)(F)F)CC3)nc2c1
+Results (2)
+CHEMBL537199
+CHEMBL1188727
+Query: CHEMBL2134519 - Cc1cn(CC(=O)N[C@H](C)c2cccc3ccccc32)c(=O)[nH]c1=O
+Results (1)
+CHEMBL2134519
+Query: CHEMBL374598 - C=C(C)C[C@H](OC)[C@H](O)C(=O)N[C@@H](OC)C1C[C@@H](O)C(C)(C)[C@@H](C[C@H](O)[C@@H](C)[C@@H]2Cc3c(C)c(O)cc(O)c3C(=O)O2)O1
+Results (2)
+CHEMBL374598
+CHEMBL2041750
+Query: CHEMBL587458 - Cc1nc(C)c(CC(=O)Nc2cccc(-c3cccc(-c4nc5cccc(C)c5[nH]4)c3)c2)s1
+Results (1)
+CHEMBL587458
+Query: CHEMBL2347263 - CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CCC(=O)NCCS(C)(=O)=O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1
+Results (1)
+CHEMBL2347263
+Query: CHEMBL574435 - CCCCNC(=O)c1c(NC(=O)NS(=O)(=O)c2ccccc2)sc2c1CCCCC2
+Results (1)
+CHEMBL574435
+Query: CHEMBL2386452 - O=C(CSc1nc2c3ccccc3[nH]c2c(=O)n1CCc1ccccc1)NC1CCCCC1
+Results (1)
+CHEMBL2386452
+Query: CHEMBL508557 - C=C1CC[C@@H]([C@H]2C[C@H]3C(C)(C)CCC[C@]3(C)c3cc(O)c(C(C)C)cc32)[C@]2(C)CC[C@@H](C(C)(C)O)C[C@@H]12
+Results (1)
+CHEMBL508557
+Query: CHEMBL1527334 - C/C(=C\C[Si](C)(C)C)CC[C@H](O)C1=CCCCC1=O
+Results (1)
+CHEMBL1527334
+Query: CHEMBL1563990 - C=C(C)Cn1c(CCCNC(=O)c2ccco2)nc2ccccc21
+Results (1)
+CHEMBL1563990
+Query: CHEMBL340069 - O=C1NCc2nc(Sc3ccc(F)cc3)ccc2N1c1ccccc1-c1ccccc1
+Results (1)
+CHEMBL340069
+Query: CHEMBL1427120 - O=C(NCCC1=CCCCC1)C(=O)NCC1OCCCN1S(=O)(=O)c1ccccc1
+Results (1)
+CHEMBL1427120
+Query: CHEMBL1436954 - Cc1ccc(C(=O)OCC(=O)c2ccc(S(=O)(=O)N3CCCCC3)cc2)o1
+Results (1)
+CHEMBL1436954
+Query: CHEMBL2011356 - NCCNC(=O)c1cncc(-c2cnc(Nc3cc(CN4CCOCC4)ccn3)s2)c1
+Results (1)
+CHEMBL2011356
+Query: CHEMBL1983597 - Cc1cc(NS(=O)(=O)c2ccc(NC(=O)c3ccc(Cl)c4c3nc3ccccc3c4Nc3ccc(S(N)(=O)=O)cc3)cc2)no1
+Results (1)
+CHEMBL1983597
+Query: CHEMBL1618299 - CC(=O)C1=C(O)C(=O)N(CCN2CCOCC2)C1c1ccc(N(C)C)cc1
+Results (2)
+CHEMBL1341293
+CHEMBL1618299
+Query: CHEMBL1479549 - CC(=NNS(=O)(=O)c1ccccc1)c1ccc2c(c1)OCCO2
+Results (1)
+CHEMBL1479549
+Query: CHEMBL1388682 - COc1cc(NC(=S)N2CCC(C(N)=O)CC2)cc(OC)c1
+Results (1)
+CHEMBL1388682
+Query: CHEMBL462505 - CN1CCN(c2cnc3cc(C(F)(F)F)cc(NCCc4ccccc4)c3n2)CC1
+Results (1)
+CHEMBL462505
+Query: CHEMBL1241587 - CC(C)n1nc(-c2ccc3c(c2)CCO3)c2c1ncnc2N
+Results (1)
+CHEMBL1241587
+Query: CHEMBL1510771 - CCOC(=O)NCCOC(=O)Nc1ccc(Cl)cc1
+Results (1)
+CHEMBL1510771
+Query: CHEMBL1366299 - Cc1cccc(NC(=O)CSc2ccc(C(N)=O)cc2[N+](=O)[O-])c1C
+Results (1)
+CHEMBL1366299
+Query: CHEMBL596328 - Cc1cc2c(ncnc2N2CCNCC2)o1
+Results (1)
+CHEMBL596328
+Query: CHEMBL587886 - CCOC(=O)c1ccc(NC(=O)Nc2ccc(Cn3ncc(N4CCCNCC4)c(Cl)c3=O)cc2)cc1
+Results (1)
+CHEMBL587886
+Query: CHEMBL360334 - CCCCNS(=O)(=O)c1ccc(-n2nc(C(=O)OCC)c3c2-c2c[nH]nc2CC3)cc1
+Results (1)
+CHEMBL360334
+Query: CHEMBL431421 - Cc1cc(C)[n+](CC(=O)Oc2ccc3nc(S(N)(=O)=O)sc3c2)c(C)c1.[O-][Cl+3]([O-])([O-])[O-]
+Results (1)
+CHEMBL431421
+Query: CHEMBL2142833 - Cl.Cc1cc(C)nc(N2CCN(c3nc(-c4ccccc4)nc4c5ccccc5oc43)CC2)n1
+Results (2)
+CHEMBL2142833
+CHEMBL2220658
+Query: CHEMBL433045 - CC1(C)N=C(N)N=C(N)N1c1cccc(COc2ccc3ccccc3c2)c1
+Results (1)
+CHEMBL433045
+Query: CHEMBL1593602 - CCC1=C(OC(=O)N(CC)CC)N2C(=O)O/C(=N\CCOC)[C@]2(Cc2ccccc2)[C@H]2C1=CC[C@H]1C(=O)N(CC(=O)OC)C(=O)[C@H]12
+Results (2)
+CHEMBL1367992
+CHEMBL1593602
+Query: CHEMBL199027 - CCCC(NC(=O)[C@H](CC1SCCCS1)NC(=O)[C@@H](NC(=O)OCC(C)C)C1CCCCC1)C(=O)C(=O)NCC(=O)N[C@H](C(=O)O)c1ccccc1
+Results (2)
+CHEMBL197816
+CHEMBL199027
+Query: CHEMBL61590 - COc1ccc2nc(NCCCN3CCN(CCCNc4nc5ccc(OC)nc5n5cccc45)CC3)c3cccn3c2n1
+Results (1)
+CHEMBL61590
+Query: CHEMBL17007 - CCC1C(=O)N(CCCCCCOc2ccc(Cl)cc2)/C(=N\C#N)N1c1ccncc1
+Results (3)
+CHEMBL417264
+CHEMBL417088
+CHEMBL17007
+Query: CHEMBL1607308 - CC1CN(/C=C/C(=O)C(F)(F)F)CC(C)O1
+Results (1)
+CHEMBL1607308
+Query: CHEMBL62463 - O=C(Nc1ccc(F)cc1F)Nc1cnc2ccc(Cl)cc2c1-c1ccc(Cl)cc1
+Results (1)
+CHEMBL62463
+Query: CHEMBL1326385 - CC1(C)Cc2c(C#N)c(NC(=O)c3ccco3)sc2C(C)(C)N1
+Results (1)
+CHEMBL1326385
+Query: CHEMBL1199439 - CC(C)C(Oc1ccc(Cl)cc1)C(=O)OC1CC2CCC(C1)N2C
+Results (1)
+CHEMBL1199439
+Query: CHEMBL602341 - CC(C)[C@@]12CC[C@]3(CO)CC[C@]4(C)C(=C31)[C@H](C[C@@H]1[C@@]3(C)CC[C@H](O)C(C)(C)[C@@H]3CC[C@]14C)n1c(=O)n(-c3ccccc3)c(=O)n12
+Results (1)
+CHEMBL602341
+Query: CHEMBL93926 - CCCCCC(C)C(C)c1cc(O)c2c(c1)OC(C)(C)C1=C2CN(CC(=O)NC(=O)NC)CC1
+Results (1)
+CHEMBL93926
+Query: CHEMBL1300898 - COc1ccccc1CNC(=O)CN1C(=O)c2cccc(N)c2C1=O
+Results (1)
+CHEMBL1300898
+Query: CHEMBL1950321 - COc1ccc(C(=O)/C=C/c2cc(C)c3c(c2)C2OCC(CO3)O2)cc1
+Results (1)
+CHEMBL1950321
+Query: CHEMBL245707 - C=CCc1cc(Cl)ccc1OCC(=O)O
+Results (1)
+CHEMBL245707
+Query: CHEMBL1577312 - Cc1ccc(NC(=S)N2CCN(c3ccccn3)CC2)cc1C
+Results (1)
+CHEMBL1577312
+Query: CHEMBL40209 - NCC(O)C1CC2C=CC1C2
+Results (1)
+CHEMBL40209
+Query: CHEMBL1794944 - CCC(=O)O/N=C1/CC2(CCN(C)CC2)OC1C.O=C(O)/C=C\C(=O)O.O=C(O)C(=O)O
+Results (1)
+CHEMBL1794944
+Query: CHEMBL1595214 - COc1ccc(CCNC(=O)c2nnn(-c3ccccc3OC)c2N)cc1OC
+Results (1)
+CHEMBL1595214
+Query: CHEMBL2362373 - CC(C)NC(=O)Nc1ccc2c(c1)C(=O)N([C@H](C)CO)C[C@H](C)[C@H](CN(C)S(=O)(=O)c1ccc(Cl)cc1)O2
+Results (7)
+CHEMBL2354864
+CHEMBL2356172
+CHEMBL2357656
+CHEMBL2361423
+CHEMBL2362237
+CHEMBL2362373
+CHEMBL2362556
+Query: CHEMBL68216 - C#CCN(Cc1cc2c(cc1Cl)nc(CN1CCC(O)CC1)n(C)c2=O)c1ccc(C(=O)NCc2cccnc2)cc1
+Results (1)
+CHEMBL68216
+Query: CHEMBL1191069 - Cc1ccsc1/C(=C\CCN1CCC[C@H](C(=O)O)C1)c1cccs1
+Results (4)
+CHEMBL542112
+CHEMBL538998
+CHEMBL1189554
+CHEMBL1191069
+Query: CHEMBL236842 - NCCCCCN(Cc1ccc2ccccc2c1)C(=O)Cc1c[nH]c2ccccc12
+Results (2)
+CHEMBL237687
+CHEMBL236842
+Query: CHEMBL1457823 - [I-].Cc1ccc2c(c1)S/C(=C\c1cccc[n+]1C)N2CCO
+Results (2)
+CHEMBL1457823
+CHEMBL1621586
+Query: CHEMBL1940993 - CC(=O)OC[C@H]1O[C@@H](n2[se]c3ccccc3c2=O)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@@H]1O[C@@H]1O[C@H](COC(C)=O)[C@H](OC(C)=O)[C@H](OC(C)=O)[C@H]1OC(C)=O
+Results (2)
+CHEMBL1940992
+CHEMBL1940993
+Query: CHEMBL1884884 - CN(CC(=O)Nc1cccc(F)c1)C(=O)CCCn1c(=O)oc2ccccc21
+Results (1)
+CHEMBL1884884
+Query: CHEMBL1382957 - COC(=O)c1cc(S(=O)(=O)Nc2ccc(C)cn2)c[nH]1
+Results (1)
+CHEMBL1382957
+Query: CHEMBL442612 - CC(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](Cc1ccccc1)C(=O)N1CCC[C@@H]1C(N)=O
+Results (2)
+CHEMBL442612
+CHEMBL499183
+Query: CHEMBL1361528 - CCOc1ccc(NC(=O)c2cc(S(=O)(=O)N3CCc4ccccc43)ccc2F)cc1
+Results (1)
+CHEMBL1361528
+Query: CHEMBL1601982 - C/C(C=NNC(=O)c1nnn(-c2nonc2N)c1C)=C\c1ccccc1
+Results (1)
+CHEMBL1601982
+Query: CHEMBL89999 - O=C(O)/C=C\C(=O)O.c1nc(CCCOCCCC2CCCCC2)c[nH]1
+Results (2)
+CHEMBL89999
+CHEMBL88306
+Query: CHEMBL1950625 - O=C(OCC1CCN(CCCc2ccccc2)CC1)c1ccccc1-c1ccccc1
+Results (1)
+CHEMBL1950625
+Query: CHEMBL1621139 - COc1ccc(Nc2ncnc3sc(C)cc32)cc1
+Results (2)
+CHEMBL1471300
+CHEMBL1621139
+Query: CHEMBL208983 - COc1cc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c(-c2c(C)cc(O)c3c2C(=O)c2cccc(O)c2C3=O)c(O)c1C(C)=O
+Results (1)
+CHEMBL208983
+Query: CHEMBL2138324 - C[C@H](c1ccccc1)N1C[C@@H](COCc2ccccc2)Oc2cc(N3CC[C@@H](O)C3)ccc2S1(=O)=O
+Results (8)
+CHEMBL2130518
+CHEMBL2131175
+CHEMBL2132159
+CHEMBL2134574
+CHEMBL2136674
+CHEMBL2138324
+CHEMBL2139076
+CHEMBL2140858
+Query: CHEMBL1797862 - N#CN1C(c2ccc(Cl)cc2)C(c2ccccc2)C(=O)C(c2ccccc2)C1c1ccc(Cl)cc1
+Results (1)
+CHEMBL1797862
+Query: CHEMBL266279 - CCCCNC(=O)C1CCCN(c2nc(N)c3cc(OC)c(OC)cc3n2)C1
+Results (1)
+CHEMBL266279
+Query: CHEMBL1313644 - CCOC(=O)Cc1csc(NC(=O)c2c(O)c3ccccc3n(CC(C)C)c2=O)n1
+Results (1)
+CHEMBL1313644
+Query: CHEMBL1902331 - COc1ccccc1NS(=O)(=O)c1cccc(C(=O)NNC(=O)C(NC(N)=O)C(C)C)c1
+Results (1)
+CHEMBL1902331
+Query: CHEMBL2069146 - COc1cc(/C=C\Cc2cc3sccc3c(OP(=O)(O)O)c2)cc(OC)c1OC
+Results (1)
+CHEMBL2069146
+Query: CHEMBL286683 - CCCCOP(=O)(CCCSc1cccs1)OCCCC
+Results (1)
+CHEMBL286683
+Query: CHEMBL1329092 - COc1ccc(Cl)cc1NC(=O)CC(C)=NNC(=O)c1ccc(O)cc1
+Results (1)
+CHEMBL1329092
+Query: CHEMBL560287 - NC(=O)c1ccc(-c2cc(-c3ccccc3F)n(-c3ccc4c(c3)OCO4)n2)cc1
+Results (1)
+CHEMBL560287
+Query: CHEMBL251307 - C[C@@]1(N)Cc2cccc(c2)CC[C@H](c2ccccc2)NC(=O)c2cc(cc(-c3ncco3)c2)COC1=O
+Results (1)
+CHEMBL251307
+Query: CHEMBL577783 - COc1cc([C@H]2O[C@H](c3ccc(O)c(OC)c3)[C@H](CO)[C@H]2CO)ccc1O
+Results (2)
+CHEMBL464631
+CHEMBL577783
+Query: CHEMBL494929 - O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N1CCN(c2ccccc2)CC1
+Results (1)
+CHEMBL494929
+Query: CHEMBL199711 - CC(C)(C)c1ccc(/C=C2\Oc3cc(O)cc(O)c3C2=O)cc1
+Results (1)
+CHEMBL199711
+Query: CHEMBL1836874 - Cc1cc(C(N)=O)ccc1-n1c(CCC(=O)O)ccc1-c1ccc(-n2cccc2)cc1
+Results (1)
+CHEMBL1836874
+Query: CHEMBL27761 - CO[C@H]1[C@H](O)[C@H]2[C@@H](O[C@@H]1CO)n1c3ccc(O)cc3c3c4c(c5c6cc(O)ccc6n2c5c31)C(=O)NC4=O
+Results (1)
+CHEMBL27761
+Query: CHEMBL519874 - CN(C)C(=O)n1nnnc1CNC(=O)c1cccc(-c2ccccc2)c1
+Results (1)
+CHEMBL519874
+Query: CHEMBL87568 - Nc1ccc(N)c2c1C(=O)c1c(N)ccc(N)c1C2=O
+Results (1)
+CHEMBL87568
+Query: CHEMBL1897767 - Cc1noc(C)c1NC(=O)N(C)C[C@H]1Oc2ccc(NC(=O)CCC(F)(F)F)cc2C(=O)N([C@H](C)CO)C[C@@H]1C
+Results (1)
+CHEMBL1897767
+Query: CHEMBL422679 - CCO/C(O)=C1\C(COCCNc2n[s+]([O-])nc2OC)=NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl
+Results (1)
+CHEMBL422679
+Query: CHEMBL2140728 - O=C(O)CCN1c2cccnc2Sc2ccccc2C1=O
+Results (1)
+CHEMBL2140728
+Query: CHEMBL1480013 - O=C(CSc1nccn1Cc1ccc(Cl)cc1)Nc1ccc2c(c1)OCO2
+Results (1)
+CHEMBL1480013
+Query: CHEMBL1354676 - COc1ccc(OC)c(C(=O)NC(CC(N)=O)c2ccc(NCc3ccc(F)c(F)c3)c([N+](=O)[O-])c2)c1
+Results (1)
+CHEMBL1354676
+Query: CHEMBL1688923 - CC(C)c1ccc(C(SC[C@H](N)C(=O)O)(c2ccccc2)c2ccccc2)cc1
+Results (1)
+CHEMBL1688923
+Query: CHEMBL612068 - CN1CC=C(COC(=O)Nc2cccc(Cl)c2)C1
+Results (1)
+CHEMBL612068
+Query: CHEMBL1481450 - O=C(CSc1ncccn1)NCc1ccc2c(c1)OCO2
+Results (1)
+CHEMBL1481450
+Query: CHEMBL358287 - N=C(N)c1ccc(-c2ccc(-c3ccc(C(=N)N)cn3)o2)nc1
+Results (1)
+CHEMBL358287
+Query: CHEMBL513806 - C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@]12CC=C(C)CC2
+Results (2)
+CHEMBL489749
+CHEMBL513806
+Query: CHEMBL2430556 - CC(C)(C)C(=O)N1CCc2nc3ccccc3c(C(=O)O)c2C1
+Results (1)
+CHEMBL2430556
+Query: CHEMBL252912 - Cc1cc(N2CCN(C(=O)[C@H]3NCC4(CC4)C[C@@H]3C(=O)NO)CC2)ccc1C#N
+Results (1)
+CHEMBL252912
+Query: CHEMBL1602857 - CCOC(=O)N1CCN(C(=O)CN(c2cc(Cl)ccc2OC)S(=O)(=O)c2ccccc2)CC1
+Results (1)
+CHEMBL1602857
+Query: CHEMBL1900571 - Cc1ccc(NC(=O)CN2C=NS(=O)(=O)c3ccccc32)c(C)c1
+Results (1)
+CHEMBL1900571
+Query: CHEMBL2348567 - Cc1ncc([N+](=O)[O-])n1CCSc1nnc(-c2ccnc(Cl)c2)o1
+Results (1)
+CHEMBL2348567
+Query: CHEMBL1317737 - CCOc1ccc(S(=O)(=O)N(CC(=O)Nc2ccc3c(c2)OCO3)c2ccc(C)cc2)cc1
+Results (1)
+CHEMBL1317737
+Query: CHEMBL1762725 - COc1ccc([C@H]2[C@@H](P(=O)([O-])O)[NH+](C)O[C@@H]2C(=O)c2ccccc2OC)cc1
+Results (1)
+CHEMBL1762725
+Query: CHEMBL1524039 - C[C@]12CC[C@H]3[C@@H](CCC4C[C@H](O)CC[C@@]43C)[C@@H]1CC[C@@H]2O
+Results (12)
+CHEMBL194858
+CHEMBL194532
+CHEMBL410494
+CHEMBL1317148
+CHEMBL1524039
+CHEMBL316048
+CHEMBL335062
+CHEMBL358733
+CHEMBL1736539
+CHEMBL1900413
+CHEMBL1908037
+CHEMBL77987
+Query: CHEMBL2165629 - N/C(=N\C(=O)CCCCCCCCC(=O)/N=C(\N)NCCCc1ncn[nH]1)NCCCc1ncn[nH]1
+Results (1)
+CHEMBL2165629
+Query: CHEMBL1672633 - O=C(Nc1cnc(-c2ccncc2F)c(-c2cnco2)n1)C1CC1
+Results (1)
+CHEMBL1672633
+Query: CHEMBL2338482 - CC(=O)c1cncc(Oc2c(Cl)cc(NS(=O)(=O)c3ccc(Cl)cc3Cl)cc2Cl)c1
+Results (1)
+CHEMBL2338482
+Query: CHEMBL275194 - COc1ccc(S(=O)(=O)c2c(O)n(Cc3ccccc3)c(=O)c3ccccc32)cc1
+Results (1)
+CHEMBL275194
+Query: CHEMBL1884816 - N=C(NCCc1ccccc1)NS(=O)(=O)c1cccs1
+Results (1)
+CHEMBL1884816
+Query: CHEMBL1312779 - COc1cc(C(=O)NC2=NCCS2)ccc1OCc1c(C)noc1C
+Results (1)
+CHEMBL1312779
+Query: CHEMBL469014 - Fc1ccc(N2N=C(c3ccc(Cl)cc3)[C@H](n3ccnc3)[C@H]2c2ccc(Cl)cc2)cc1
+Results (1)
+CHEMBL469014
+Query: CHEMBL299878 - O=C(O)CCCCCC[C@@H]1C2CCC(C2)C1c1cccnc1
+Results (3)
+CHEMBL51526
+CHEMBL301280
+CHEMBL299878
+Query: CHEMBL1612568 - O=C(Nc1cccn2ncnc12)c1ccc(Cl)cc1
+Results (1)
+CHEMBL1612568
+Query: CHEMBL2151063 - COc1ccc2nc3cc(Cl)ccc3c(NC3CCN(CCCc4ccccc4)CC3)c2c1
+Results (1)
+CHEMBL2151063
+Query: CHEMBL438427 - O=C1NC(c2ccccc2)(c2ccccc2)CN1[C@@H]1CCN(Cc2ccccc2)C1
+Results (2)
+CHEMBL438427
+CHEMBL223017
+Query: CHEMBL1569109 - CCOC(=O)COc1ccc2c(C)cc(=O)oc2c1C(=O)c1ccccc1
+Results (1)
+CHEMBL1569109
+Query: CHEMBL2314218 - CN(C)Cc1ccccc1Sc1ccc([123I])cc1N
+Results (1)
+CHEMBL2314218
+Query: CHEMBL431742 - NS(=O)(=O)c1ccc(C(=O)NCC(=O)NCC(=O)O)cc1
+Results (1)
+CHEMBL431742
+Query: CHEMBL1333574 - COCCCNC(=O)C1CCC(CNS(=O)(=O)c2ccc(OC)cc2)CC1
+Results (1)
+CHEMBL1333574
+Query: CHEMBL332871 - CCCCCC[C@H]([C@H](C)O)[N+]1([O-])c2ncnc(N)c2NC1=O
+Results (1)
+CHEMBL332871
+Query: CHEMBL199467 - COc1ccc(C(c2ccc(OCC(O)CN3CCCC3)cc2)c2cc3ccccc3c3ccccc32)cc1
+Results (2)
+CHEMBL199467
+CHEMBL199212
+Query: CHEMBL318349 - CC(C)[C@H](NC(=O)[C@H](NCc1ccccc1)[C@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CCC(N)=O)NC(=O)OCc1ccccc1)C(=O)NCc1ccccc1
+Results (1)
+CHEMBL318349
+Query: CHEMBL1524125 - c1cc(-c2ccc(C3=NCCN3)cc2)oc1-c1ccccc1
+Results (2)
+CHEMBL1524125
+CHEMBL1990299
+Query: CHEMBL1630053 - COc1ccc(-n2c(Nc3cc(O)[nH]c(=O)n3)nc3ccccc3c2=O)cc1
+Results (1)
+CHEMBL1630053
+Query: CHEMBL2440761 - O=C1C(Cl)C(c2ccccc2)N1c1ccc(Cl)cc1
+Results (1)
+CHEMBL2440761
+Query: CHEMBL274531 - CCC(C)[C@H]1O[C@]2(C=C[C@@H]1C)C[C@@H]1C[C@@H](CC=C(C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@H](NC(=O)OC)[C@H](C)O4)[C@H](C)O3)[C@@H](C)C=CC=C3CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2
+Results (1)
+CHEMBL274531
+Query: CHEMBL1164191 - CSc1ccc(CC(N)Cc2ccc(SC)cc2)cc1
+Results (1)
+CHEMBL1164191
+Query: CHEMBL1458652 - COc1ccc(CCNC(=O)CSc2ccc(-c3ccco3)nn2)cc1OC
+Results (1)
+CHEMBL1458652
+Query: CHEMBL1198076 - CC1(C)CO[C@H](C[N+](C)(C)C)CO1
+Results (1)
+CHEMBL1198076
+Query: CHEMBL144817 - CCCCCCCCCCc1cc2cn([C@H]3C[C@H](O)[C@@H](CO)O3)c(=O)nc2o1
+Results (5)
+CHEMBL141567
+CHEMBL138023
+CHEMBL144817
+CHEMBL146310
+CHEMBL19688
+Query: CHEMBL542058 - Cl.CCOC(=O)Nc1ccccc1C(=O)NCCCCN1CCN(c2nsc3ccccc32)CC1
+Results (2)
+CHEMBL542058
+CHEMBL1191022
+Query: CHEMBL425764 - O=C(CSCc1c(F)cccc1Cl)NCCSCc1ccco1
+Results (1)
+CHEMBL425764
+Query: CHEMBL1323815 - CCOC(=O)C1(CCCc2ccccc2)CCN(C(=O)CCOC)CC1
+Results (1)
+CHEMBL1323815
+Query: CHEMBL1429924 - CC(=O)c1cccc(NC(=O)c2ccc(CN3CCc4ccccc4C3)cc2)c1
+Results (1)
+CHEMBL1429924
+Query: CHEMBL1555307 - C[C@@H]1CC[C@@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]43C)[C@H]2[C@H]1C
+Results (11)
+CHEMBL491715
+CHEMBL1316667
+CHEMBL1555307
+CHEMBL169
+CHEMBL176234
+CHEMBL1979720
+CHEMBL2374095
+CHEMBL3039159
+CHEMBL297810
+CHEMBL56048
+CHEMBL300594
+Query: CHEMBL1448426 - CCc1ccc(CNC(=O)CSc2cc(=O)n(CC)c3ccccc23)cc1
+Results (1)
+CHEMBL1448426
+Query: CHEMBL2397428 - O=Cc1cn(-c2ccccc2)nc1-c1ccc([N+](=O)[O-])cc1
+Results (1)
+CHEMBL2397428
+Query: CHEMBL374620 - CCC(C)OC(=O)c1cnc2c(cnn2CC(Cl)c2ccccc2)c1NCCc1ccccc1
+Results (1)
+CHEMBL374620
+Query: CHEMBL1407273 - CC(=O)c1cccc(NS(=O)(=O)c2cc(-c3onc(C)c3C)ccc2C)c1
+Results (1)
+CHEMBL1407273
+Query: CHEMBL1335965 - NC(=O)c1ccsc1N
+Results (1)
+CHEMBL1335965
+Query: CHEMBL1499504 - Cc1ccc(N(CCC(=O)NC(C)(C)C)S(=O)(=O)c2ccc(C)cc2)cc1
+Results (1)
+CHEMBL1499504
+Query: CHEMBL1462544 - CCCc1nnc(NC(=O)c2cc(OC)cc(OC)c2)s1
+Results (1)
+CHEMBL1462544
+Query: CHEMBL203721 - N#Cc1cccc(C(=O)c2cnn(-c3ccc(F)cc3)c2N)c1
+Results (1)
+CHEMBL203721
+Query: CHEMBL1613075 - Cc1nnc(SC(C)C(=O)Nc2ccc(C)cc2)n1C
+Results (1)
+CHEMBL1613075
+Query: CHEMBL401987 - C=C[C@]1(C)C[C@@H](OC(=O)CSC2CCN(C(=O)CCn3cnc4c3nc(N)nc4N3CCNC(C)C3)CC2)[C@@]2(C)[C@H]3C(=O)CC[C@@]3(CC[C@H]2C)[C@@H](C)[C@@H]1O
+Results (1)
+CHEMBL401987
+Query: CHEMBL2220793 - OC(c1ccccc1)(c1ccccc1)C1CCN(CCCOc2ccc3c(c2)CCCC3)CC1
+Results (1)
+CHEMBL2220793
+Query: CHEMBL1923709 - CC(C)(C)Nc1c(-c2cccc(-c3nc4ccccc4[nH]3)c2)nc2ccccn21
+Results (1)
+CHEMBL1923709
+Query: CHEMBL384907 - CNC(=O)NC(C)C#Cc1cnc(Oc2ccc(OCC3CC3)cc2)s1
+Results (1)
+CHEMBL384907
+Query: CHEMBL1708598 - COc1cc(/C=C2\SC(=O)NC2=O)ccc1OCC(=O)N1CCOCC1
+Results (1)
+CHEMBL1708598
+Query: CHEMBL420561 - CC(=O)/C=C/c1ccccc1Cl
+Results (1)
+CHEMBL420561
+Query: CHEMBL1739561 - O=[N+]([O-])c1ccc(-c2cn3cccnc3[n+]2C2CCCCCCCCCCC2)cc1
+Results (1)
+CHEMBL1739561
+Query: CHEMBL1814458 - CCCCCn1cc(C(=O)NC23CC4CC(CC(C4)C2)C3)c(=O)c2cccc(OC)c21
+Results (1)
+CHEMBL1814458
+Query: CHEMBL1484014 - N=C(NOC(=O)Cc1ccccc1)c1ccc(Br)cc1
+Results (1)
+CHEMBL1484014
+Query: CHEMBL71786 - C[C@@H]1CCC[C@@H]2C[C@@H](NC(=O)c3ccc(N)cc3O)CCN12
+Results (1)
+CHEMBL71786
+Query: CHEMBL2018644 - COc1cc2c(c(OC)c1OC)[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OC2=O
+Results (2)
+CHEMBL517636
+CHEMBL2018644
+Query: CHEMBL1729644 - Cc1cc(NC(=O)c2cccc(S(=O)(=O)N3CCCCC3)c2)no1
+Results (3)
+CHEMBL1507730
+CHEMBL1729644
+CHEMBL1732449
+Query: CHEMBL1431051 - Cc1cc2c(N=NC3=NC(=O)CS3)c(O)[nH]c2c(C)c1
+Results (1)
+CHEMBL1431051
+Query: CHEMBL1668264 - COc1ccc(NC(=O)c2cc(C)cc3c(N)nc(C)nc23)cn1
+Results (1)
+CHEMBL1668264
+Query: CHEMBL1866160 - CCN(CC)c1cc2c(cc1F)c(=O)c(S(=O)(=O)c1ccccc1)cn2C
+Results (1)
+CHEMBL1866160
+Query: CHEMBL1626991 - [Na+].CC(=O)[C@@]1(C)[C@H](C(=O)[O-])N2C(=O)CC2S1(=O)=O.CC(C)(O/N=C(\C(=O)NC1C(=O)N2C(C(=O)[O-])=C(C[n+]3ccccc3)CSC12)c1csc(N)n1)C(=O)O
+Results (1)
+CHEMBL1626991
+Query: CHEMBL1253202 - C=C1C(C)=C(C#N)C(=O)N1c1c(C)cc(Cl)cc1Cl
+Results (1)
+CHEMBL1253202
+Query: CHEMBL1619646 - C#CCOCCOCCOCCNc1nc(OC)nc(N2CCN(C(=O)[C@H](CCC(=O)O)n3cc(C(N)CO)nn3)CC2)n1
+Results (2)
+CHEMBL1400229
+CHEMBL1619646
+Query: CHEMBL574233 - CSc1ccc2[nH]c3c(c2c1)CC(=O)Nc1ccccc1-3
+Results (1)
+CHEMBL574233
+Query: CHEMBL1967525 - CCO/C(O)=C1\C(C)=Nc2ncnn2C1/C=C/c1ccccc1
+Results (1)
+CHEMBL1967525
+Query: CHEMBL1582337 - CCc1ccc(C(=O)Nc2cccc(-c3nn[nH]n3)c2)s1
+Results (1)
+CHEMBL1582337
+Query: CHEMBL225535 - Nc1nc(OCCc2ccccc2F)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+Results (2)
+CHEMBL225535
+CHEMBL605876
+Query: CHEMBL3039241 - CC(=O)O[C@@H]1CC2C(C)(C)C(=O)CC[C@@]2(C)C2CC[C@@]3(C)C(=CC(=O)O[C@@H]3c3ccoc3)[C@]21C
+Results (2)
+CHEMBL1434390
+CHEMBL3039241
+Query: CHEMBL1739334 - CN1CCN(C(=O)C(CN)(CCCc2ccccc2)CCCc2ccccc2)CC1
+Results (1)
+CHEMBL1739334
+Query: CHEMBL1871615 - O=C(Nc1cccc(-n2cnnn2)c1)c1cc(Cl)ccc1Cl
+Results (1)
+CHEMBL1871615
+Query: CHEMBL2336182 - COc1cc(OC)c(OC)cc1/C=C/C(=O)c1cc(CC=C(C)C)c(O)cc1O
+Results (1)
+CHEMBL2336182
+Query: CHEMBL1416481 - CC(C)(C)NC(=O)[C@]1(C)CCC[C@@]2(C)C3CC[C@@]4(C)C[C@@]3(CC4=O)CCC12
+Results (1)
+CHEMBL1416481
+Query: CHEMBL243061 - c1cc(NC2=NCCN2)cc2c1OCO2
+Results (2)
+CHEMBL243061
+CHEMBL555383
+Query: CHEMBL212054 - Fc1ccc2c(c1)n[nH]c2-c1nc2cc(N3CCC(N4CCCCC4)CC3)ccc2[nH]1
+Results (1)
+CHEMBL212054
+Query: CHEMBL1718604 - C=CCNC(=O)C1CCCN(S(C)(=O)=O)C1
+Results (1)
+CHEMBL1718604
+Query: CHEMBL1197732 - NC1CCN(C(=O)CC2CCC3(CC2)OOC2(O3)C3CC4CC(C3)CC2C4)CC1
+Results (1)
+CHEMBL1197732
+Query: CHEMBL1411930 - CCCCNC(=O)CN1C(=O)COc2ccc(S(=O)(=O)N3CCCCCC3)cc21
+Results (1)
+CHEMBL1411930
+Query: CHEMBL444483 - CCCC(C)COC(=O)c1cccc(CO)c1
+Results (1)
+CHEMBL444483
+Query: CHEMBL368883 - Cc1nccn1-c1cccnc1
+Results (1)
+CHEMBL368883
+Query: CHEMBL486397 - C=C1C(=O)O[C@@H]2C[C@@H](C)[C@@H]3C=CC(=O)[C@@]3(C)[C@@H](OC(=O)/C(C)=C/C)[C@H]12
+Results (1)
+CHEMBL486397
+Query: CHEMBL622 - CCc1cccc2c3c([nH]c21)C(CC)(CC(=O)O)OCC3
+Results (3)
+CHEMBL1315939
+CHEMBL1716091
+CHEMBL622
+Query: CHEMBL37945 - CCSC(=O)/C=C(C)/C=C/CC(C)CCCC(C)(C)OC(C)=O
+Results (1)
+CHEMBL37945
+Query: CHEMBL2074684 - [Cl-].CN1c2ccccc2O/C1=C\C=C\c1n(Cc2ccc(CCl)cc2)c2cc(Cl)c(Cl)cc2[n+]1Cc1ccc(CCl)cc1
+Results (2)
+CHEMBL2074684
+CHEMBL2078917
+Query: CHEMBL1426106 - O=C(CSc1nc2ccccc2[nH]1)NN=Cc1ccncc1
+Results (1)
+CHEMBL1426106
+Query: CHEMBL175384 - CC(C)[C@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](N)CO)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](C)C(=O)OCc1ccccc1
+Results (9)
+CHEMBL369018
+CHEMBL367462
+CHEMBL175048
+CHEMBL176842
+CHEMBL172320
+CHEMBL172321
+CHEMBL407271
+CHEMBL176054
+CHEMBL175384
+Query: CHEMBL187634 - C=C(C=O)[C@@H]1CC[C@@]2(C)CCC[C@@](C)(O)C2C1
+Results (2)
+CHEMBL594843
+CHEMBL187634
+Query: CHEMBL513515 - COc1ccc2cc3c4c(cc(OC)c(OC)c4c2c1)C(=O)N3CCN1CCCCC1
+Results (1)
+CHEMBL513515
+Query: CHEMBL2414802 - COCCOCOCc1csc2nc(-c3ccccc3NC(=O)c3cnc4ccccc4n3)cn12
+Results (1)
+CHEMBL2414802
+Query: CHEMBL1672287 - N#Cc1cccc(C#Cc2csc(F)n2)c1
+Results (1)
+CHEMBL1672287
+Query: CHEMBL188167 - COc1cc2ncnc(Nc3cc(NC(=O)c4ccnc(N5CCOCC5)c4)ccc3C)c2cc1OCCN1CCCCC1
+Results (2)
+CHEMBL184659
+CHEMBL188167
+Query: CHEMBL1322888 - COc1ccc(CON=Cc2c(C)nc(O)nc2O)cc1
+Results (1)
+CHEMBL1322888
+Query: CHEMBL1316232 - O=C(Nc1ccc(C(F)(F)F)cc1)C1CCC(CNS(=O)(=O)c2cccc3nsnc32)CC1
+Results (1)
+CHEMBL1316232
+Query: CHEMBL2067948 - CNC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.O=C(O)c1cc(NC(=O)c2cc(-c3ccccc3)[nH]c2CC2CCCCCC2)cc(C(=O)O)c1
+Results (1)
+CHEMBL2067948
+Query: CHEMBL15872 - CC(C)(C)Nc1nc(C(F)(F)F)nc2ccccc21
+Results (1)
+CHEMBL15872
+Query: CHEMBL1882328 - CCNC(=O)C1(C)CCCN(Cc2ccccc2-c2ccccc2)C1
+Results (1)
+CHEMBL1882328
+Query: CHEMBL104486 - O=C(O)c1ccc(/C=C/c2ccc3cccccc2-3)cc1
+Results (1)
+CHEMBL104486
+Query: CHEMBL1325183 - CCC(CC)c1nc2ccccc2c(NCCC(=O)O)n1
+Results (1)
+CHEMBL1325183
+Query: CHEMBL1308505 - CC(C(=O)Nc1sc2c(c1C(=O)NCC1CCCO1)CCC2)N1C(=O)c2ccccc2C1=O
+Results (1)
+CHEMBL1308505
+Query: CHEMBL31300 - [Na+].O=C([O-])c1ccc(NCCCc2ccc(Cl)cc2)cc1
+Results (1)
+CHEMBL31300
+Query: CHEMBL587518 - CCNc1cc(C(=O)N[C@@H](Cc2ccc(Cl)cc2)[C@H](O)CNC2CCCCC2)cc(N2CCCCS2(=O)=O)c1
+Results (2)
+CHEMBL587517
+CHEMBL587518
+Query: CHEMBL1586705 - c1ccc2c(c1)cccc2CSCCc1ccncc1
+Results (1)
+CHEMBL1586705
+Query: CHEMBL2180158 - Nc1ccc(C(=O)N2c3ccccc3Oc3ccccc32)cc1
+Results (1)
+CHEMBL2180158
+Query: CHEMBL1390484 - O=C(CCSc1ccc(F)cc1)Nc1ccc(-n2cnnn2)cc1
+Results (1)
+CHEMBL1390484
+Query: CHEMBL62098 - C=CCCCCCCC(O)CN1CCN(C2c3ccccc3CCc3ccccc32)CC1
+Results (1)
+CHEMBL62098
+Query: CHEMBL2336380 - CC(C)[C@@H](N)COc1nc2c(ncn2C(C)C)c(NC(=N)N)n1
+Results (2)
+CHEMBL2336380
+CHEMBL2336382
+Query: CHEMBL1497219 - COC(=O)c1ccc2c(c1)[nH]c(=S)n(CCCN1CCOCC1)c2=O
+Results (1)
+CHEMBL1497219
+Query: CHEMBL1819124 - COc1cc2ncnc(N3CCCC(c4ccccc4)C3)c2cc1OCc1cccnc1
+Results (1)
+CHEMBL1819124
+Query: CHEMBL1511571 - CCOC(=O)c1ccc(NN=Cc2cc(Br)cc([N+](=O)[O-])c2O)cc1
+Results (1)
+CHEMBL1511571
+Query: CHEMBL8715 - C=C1[C@@H]2C[C@H]([C@@H]3c4c(cc(C(C)(C)CCCCCC)cc4O)O[C@H]13)C2(C)C
+Results (2)
+CHEMBL3037843
+CHEMBL8715
+Query: CHEMBL1390307 - Cn1c2ccc(S(=O)(=O)N3CCCC(C(=O)NCC4COc5ccccc5O4)C3)cc2oc1=O
+Results (1)
+CHEMBL1390307
+Query: CHEMBL547758 - O=C(O)C(F)(F)F.O=C(NC1CCCCC1)N(Cc1cccc(-c2cccc(CNC3CCCC3)c2)c1)C1CCN(Cc2ccccc2)CC1
+Results (1)
+CHEMBL547758
+Query: CHEMBL565411 - O=C(CCN1CCCC1)Nc1ccc(NC(=O)c2cccc3c(=O)c4ccccc4[nH]c23)cc1
+Results (1)
+CHEMBL565411
+Query: CHEMBL112020 - CC(C)NC(=O)c1cnc2nc(N3CCC(N)C3)c(F)cc2c1O
+Results (1)
+CHEMBL112020
+Query: CHEMBL447379 - [Br-].[Br-].[Br-].[Br-].Cc1ccc[n+](CCCC#Cc2cc(C#CCCC[n+]3cccc(C)c3)c(C#CCCC[n+]3cccc(C)c3)cc2C#CCCC[n+]2cccc(C)c2)c1
+Results (2)
+CHEMBL447379
+CHEMBL1186053
+Query: CHEMBL1518979 - COC(O)=C1C(C)=NC(C)=C(C(=O)OCC2CCCO2)C1c1cccc(Cl)c1
+Results (1)
+CHEMBL1518979
+Query: CHEMBL1969713 - C=CCN1C(=O)/C(=C/c2ccc(O)c(OC)c2)S/C1=N/c1nccs1
+Results (1)
+CHEMBL1969713
+Query: CHEMBL256906 - COC(=O)CCCC=C(c1cc2c(oc(=O)n2C)c(C)c1)c1cc2c(oc(=O)n2C)c(C)c1
+Results (1)
+CHEMBL256906
+Query: CHEMBL40370 - CN1CCN(C2=Nc3ccccc3Sc3cscc32)CC1
+Results (1)
+CHEMBL40370
+Query: CHEMBL2336092 - CC(C)=CCc1c(O)cc(O)c2c1O[C@@]13C(=C[C@H]4C(=O)C1(CC=C(C)C)OC[C@@H]3[C@H]4COCCO)C2=O
+Results (1)
+CHEMBL2336092
+Query: CHEMBL1200932 - C[C@H](O)C(=O)Nc1c(I)c(C(=O)NC(CO)CO)c(I)c(C(=O)NC(CO)CO)c1I
+Results (1)
+CHEMBL1200932
+Query: CHEMBL1984614 - [Cl-].COc1ccc(C[N+]23C(CC[C@H]2c2ccccc2)CC[C@H]3c2ccccc2)cc1
+Results (2)
+CHEMBL1984614
+CHEMBL2009850
+Query: CHEMBL14598 - COc1ccc(C(=O)/C(=N/O)SCCCN(C)C)cc1.O=C(O)C(=O)O
+Results (1)
+CHEMBL14598
+Query: CHEMBL2178533 - COc1cccc(-c2nc3c(cccc3Nc3ccc(-n4cnc(C)c4)c(OC)c3)n2C)c1
+Results (1)
+CHEMBL2178533
+Query: CHEMBL555598 - Cl.Cl.CCCCCN1CCN(C(Cc2cccc(O)c2)c2ccccc2)CC1
+Results (2)
+CHEMBL555598
+CHEMBL1195928
+Query: CHEMBL1359455 - CC(C)(C)OC(=O)c1c(N)n(CCCN2CCCC2=O)c2nc3ccccc3nc21
+Results (1)
+CHEMBL1359455
+Query: CHEMBL2322264 - Cc1c2oc3c(c2cc2c(C)c(CCC(=O)Nc4cccc(C(F)(F)F)c4)c(=O)oc12)CCCC3
+Results (1)
+CHEMBL2322264
+Query: CHEMBL368173 - COc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(C)(=O)=O)cn2)cc1F
+Results (1)
+CHEMBL368173
+Query: CHEMBL345110 - COc1ccc(S(=O)(=O)Nc2cc(Cl)cc(Cl)c2)cc1N1CCNCC1
+Results (1)
+CHEMBL345110
+Query: CHEMBL1178553 - NCC/N=C(\S)Nc1cccc(Cl)c1Cl
+Results (1)
+CHEMBL1178553
+Query: CHEMBL2303760 - CC(=O)OC[C@H]1O[C@H](OC(=O)NS(=O)(=O)OC[C@H]2O[C@@H](n3ccc(=O)[nH]c3=O)[C@H](OC(C)C)[C@@H]2OC(C)C)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@@H]1OC(C)=O
+Results (1)
+CHEMBL2303760
+Query: CHEMBL249401 - N#CCCc1cc2cc[nH]c(=O)c2c2cc(Br)ccc12
+Results (1)
+CHEMBL249401
+Query: CHEMBL1783516 - CC(C)C1=N[C@H]2CC[C@]34C[C@]35C(=O)C[C@]3(C)[C@@H]([C@H](C)N(C)Cc6ccccc6C(F)(F)F)[C@H](O)C[C@@]3(C)[C@@H]5CC[C@H]4[C@]2(C)CS1
+Results (1)
+CHEMBL1783516
+Query: CHEMBL1605112 - COc1ccc(-c2nc3scc(CCNS(=O)(=O)c4c(C)cc(C)cc4C)n3n2)cc1OC
+Results (1)
+CHEMBL1605112
+Query: CHEMBL2023090 - CCOC(=O)N1CCN(/[N+]([O-])=N/Oc2ccc([N+](=O)[O-])cc2C#N)CC1
+Results (1)
+CHEMBL2023090
+Query: CHEMBL262849 - CS(=O)(=O)c1ccc(C#Cc2cccnc2)cc1
+Results (1)
+CHEMBL262849
+Query: CHEMBL1780216 - CC(C)C[C@H](NC(=O)[C@@H](NC(=O)N[C@H](C(=O)O)C(C)C)[C@@H]1CCNC(=N)N1)C(=O)NCCCN[C@H](C(=O)O)[C@H](O[C@@H]1O[C@H](CN)[C@@H](O)[C@H]1O)[C@H]1O[C@@H](n2ccc(=O)[nH]c2=O)[C@H](O)[C@@H]1O
+Results (2)
+CHEMBL1780216
+CHEMBL1780217
+Query: CHEMBL207728 - COC(=O)CC1CCC(=C(c2ccc(O)cc2)c2ccc(O)cc2)CC1
+Results (1)
+CHEMBL207728
+Query: CHEMBL300701 - C[C@H]1Oc2ccc(OCc3nc4cc(F)ccc4s3)cc2[C@H](O)[C@@H]1Cc1cccc(NS(=O)(=O)C(F)(F)F)c1
+Results (2)
+CHEMBL300701
+CHEMBL415954
+Query: CHEMBL63742 - Cn1c2ccccc2n(C(=O)NC2CC3CCCC(C2)N3C)c1=O
+Results (1)
+CHEMBL63742
+Query: CHEMBL562666 - CC1=C2C[C@H]3[C@@H](CC[C@@H]4Cc5[nH][nH]c(=O)c5C[C@]34C)[C@@H]2CC[C@@]2(C1)O[C@@H]1C[C@H](C)CN[C@H]1[C@H]2C
+Results (1)
+CHEMBL562666
+Query: CHEMBL1484715 - CCCn1c(SCC(=O)Nc2ccccc2C(=O)OC)nc2c1c(=O)n(C)c(=O)n2C
+Results (1)
+CHEMBL1484715
+Query: CHEMBL1443572 - CCn1c(=O)cc(OCC(=O)NCc2cccnc2)c2ccccc21
+Results (1)
+CHEMBL1443572
+Query: CHEMBL2336450 - CCCn1c2ccccc2n2c1nc(N1CCNCC1)cc2=O
+Results (1)
+CHEMBL2336450
+Query: CHEMBL1171279 - OC[C@H]1O[C@H](Oc2ccc(-c3cccnc3)cc2)[C@@H](O)[C@@H](O)[C@@H]1O
+Results (1)
+CHEMBL1171279
+Query: CHEMBL46063 - COc1cccc2c1CC[C@H](c1ccccc1)[C@@H]2NC(=O)C(c1ccccc1)c1ccccc1
+Results (2)
+CHEMBL295841
+CHEMBL46063
+Query: CHEMBL1432616 - CCn1c(S)nnc1-c1cc(-c2cc(C)ccc2C)nc2ccccc21
+Results (1)
+CHEMBL1432616
+Query: CHEMBL185620 - Cc1cnc2c(c1)C(=O)c1cc(C)cnc1C2=O
+Results (1)
+CHEMBL185620
+Query: CHEMBL1895211 - CN(N=O)c1ccc2c(c1)Cc1ccccc1-2
+Results (1)
+CHEMBL1895211
+Query: CHEMBL1357302 - O=C(/C=C/c1ccc(C(F)(F)F)cc1)OCC(=O)NCC1CCCO1
+Results (1)
+CHEMBL1357302
+Query: CHEMBL358993 - COc1ccc2cc3ccccc3c3c2c1C(=O)N(CCN(C)C)C3=O
+Results (1)
+CHEMBL358993
+Query: CHEMBL561262 - COc1ccccc1N1CCN(Cc2c(C)nc3cc(C)ncn32)CC1
+Results (1)
+CHEMBL561262
+Query: CHEMBL57762 - CCN(CC)C(=O)C1=CC2=CCC3C4CC[C@H](C(=O)NC(C)(C)C)[C@@]4(C)CCC3[C@@]2(C)CC1
+Results (1)
+CHEMBL57762
+Query: CHEMBL1420760 - Cc1c2c(nn1-c1ccccc1)c(=O)n(CC(=O)N1CCC(C(N)=O)CC1)nc2C
+Results (1)
+CHEMBL1420760
+Query: CHEMBL38480 - Cc1oc(-c2ccc3ccccc3c2)nc1CCOc1ccc(CC2OC(=O)NC2=O)cc1
+Results (1)
+CHEMBL38480
+Query: CHEMBL220413 - CCCCCn1cc(C(=O)c2cccc3ccccc32)cc1-c1ccc(OC)cc1
+Results (1)
+CHEMBL220413
+Query: CHEMBL319625 - C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H](O)[C@@H](O)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)C(O)CC(=O)O1
+Results (4)
+CHEMBL322196
+CHEMBL103488
+CHEMBL319625
+CHEMBL420284
+Query: CHEMBL1203972 - Cl.c1ccc2c(c1)cnnc2N=NC1=C2CCCN2CCC1
+Results (3)
+CHEMBL1203972
+CHEMBL1214816
+CHEMBL1615576
+Query: CHEMBL1708831 - Cc1ccc(CN2CCC(n3nccc3NC(=O)C3CCOC3)CC2)cc1
+Results (1)
+CHEMBL1708831
+Query: CHEMBL1556917 - O=C(NN=C1CCN(Cc2ccccc2)CC1)c1cc2ccccc2cc1O
+Results (1)
+CHEMBL1556917
+Query: CHEMBL87250 - COc1ccc(NCc2cc(OC)cc(OC)c2)cc1
+Results (1)
+CHEMBL87250
+Query: CHEMBL156187 - CC(C)(C)[C@H](NC(=O)[C@H](CC1CCCC1)CN(O)C=O)C(=O)c1ccc(N2CCN(CCO)CC2)cc1
+Results (1)
+CHEMBL156187
+Query: CHEMBL205146 - Cc1cc(COc2cc(C#N)cc(Cl)n2)ccn1
+Results (1)
+CHEMBL205146
+Query: CHEMBL1485483 - COc1ccccc1C(=O)NC(CCSC)C(=O)NNC(=O)c1ccc(F)cc1
+Results (1)
+CHEMBL1485483
+Query: CHEMBL167287 - CC(C)=CCN1Cc2c3c(ccc2C(N)=O)[nH]c(=O)n3C[C@@H]1C
+Results (1)
+CHEMBL167287
+Query: CHEMBL1457210 - Cl.COc1ccc(CCNCC(=O)Nc2ccc(C)c(Br)c2)cc1OC
+Results (2)
+CHEMBL1457210
+CHEMBL1621378
+Query: CHEMBL154186 - COc1ccc(S(=O)(=O)Nc2cc([N+](=O)[O-])ccc2C)cc1N1CCNCC1
+Results (1)
+CHEMBL154186
+Query: CHEMBL186783 - O=c1c(C2CCCCC2)nc(-c2nccs2)c2n1CCC2
+Results (1)
+CHEMBL186783
+Query: CHEMBL205050 - COc1cccc(Nc2nnc(-c3cccnc3CCc3ccncc3)o2)c1
+Results (1)
+CHEMBL205050
+Query: CHEMBL1535887 - CCn1cc(/C=C(\NC(=O)c2ccc(OC)cc2)C(=O)N2CCN(C)CC2)c2ccccc21
+Results (1)
+CHEMBL1535887
+Query: CHEMBL2022183 - Cl.Cc1ccc(OCC(C)C)c([C@H]2C[C@@H]2CN)c1
+Results (2)
+CHEMBL2022183
+CHEMBL2027966
+Query: CHEMBL416955 - COC(=O)[C@]1(O)C[C@@H](O)[C@@H](O)[C@H](OC(=O)/C=C/c2ccc(O)c(O)c2)C1
+Results (6)
+CHEMBL596924
+CHEMBL1765881
+CHEMBL1765882
+CHEMBL2048503
+CHEMBL2349427
+CHEMBL416955
+Query: CHEMBL1982468 - Cc1ccc(S(=O)(=O)OCC23CCC(C4CC42)C2CC23)cc1
+Results (1)
+CHEMBL1982468
+Query: CHEMBL1406635 - CCCCc1sc(-c2c(C#N)c(N)nc3c2CCCCC3)cc1[N+](=O)[O-]
+Results (1)
+CHEMBL1406635
+Query: CHEMBL1555848 - Cc1ccc2nccc(C(=O)N3CCCC(Nc4ccc(C)c(C)c4)C3)c2c1
+Results (1)
+CHEMBL1555848
+Query: CHEMBL2206395 - Clc1cccc(Cl)c1Cc1ncc[nH]1
+Results (1)
+CHEMBL2206395
+Query: CHEMBL60982 - C[C@H]1Cn2c3c(cc([N+](=O)[O-])cc3CN1CC1CC1)[nH]c2=S
+Results (1)
+CHEMBL60982
+Query: CHEMBL1162202 - CCCC1O[C@@H]2[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]3O[C@H](n4ccc(=O)[nH]c4=O)[C@@H](O)[C@H]3O)O[C@@H](n3ccc(=O)[nH]c3=O)[C@@H]2O1
+Results (1)
+CHEMBL1162202
+Query: CHEMBL193744 - OCC1O[C@@H](O/N=C/c2cccc(OC(F)(F)F)c2)C(O)[C@@H](O)C1O
+Results (1)
+CHEMBL193744
+Query: CHEMBL338393 - CN(CCC1CN=C(c2ccccc2)c2ccccc2N1C)C(=O)c1cccs1
+Results (1)
+CHEMBL338393
+Query: CHEMBL2017579 - COc1cc(-c2cn([C@H]3CC[C@H](c4ccccc4)CN(Cc4ccccc4)C3=O)nn2)ccc1-n1cnc(C)c1
+Results (1)
+CHEMBL2017579
+Query: CHEMBL1491853 - S=P([C@H](c1cccnc1)N1CCCC1)(C1CCCCC1)C1CCCCC1
+Results (2)
+CHEMBL1491853
+CHEMBL1986339
+Query: CHEMBL1683485 - Cl.N[C@@H](CC(=O)N1CCSC1C(=O)NCc1ccc(O)cc1)Cc1cc(F)c(F)cc1F
+Results (2)
+CHEMBL1683485
+CHEMBL1739375
+Query: CHEMBL1604806 - Cc1ccc(Cl)cc1NC(=O)Nc1nnc(N2CCCC(C)C2)s1
+Results (1)
+CHEMBL1604806
+Query: CHEMBL1711913 - CCC(C)c1ccccc1NC(=O)c1cccc(-n2cnnn2)c1
+Results (1)
+CHEMBL1711913
+Query: CHEMBL2087124 - O=C(O[C@H]1CC[C@H](OC(=O)c2cc(O)c(O)c(O)c2)c2ccccc21)c1cc(O)c(O)c(O)c1
+Results (2)
+CHEMBL2087123
+CHEMBL2087124
+Query: CHEMBL268232 - CSc1cnc(=O)n(C2CC(O)C(O)O2)c1
+Results (1)
+CHEMBL268232
+Query: CHEMBL1929524 - O=C1N/C(=N/c2nc3ccccc3s2)S/C1=C\c1cccc(O)c1
+Results (1)
+CHEMBL1929524
+Query: CHEMBL1723762 - CCC1=C(OC(=O)N(CC)CC)N2C(=O)OC(=NCC3CC3)[C@]2(Cc2ccccc2)[C@H]2C1=CC[C@H]1C(=O)N(CC)C(=O)[C@H]12
+Results (2)
+CHEMBL1441255
+CHEMBL1723762
+Query: CHEMBL319423 - C/N=C(\S)n1nccc1N
+Results (1)
+CHEMBL319423
+Query: CHEMBL1704814 - O=C(Nc1ccccc1N1CCCC1)c1ccccc1Cl
+Results (1)
+CHEMBL1704814
+Query: CHEMBL201122 - N#Cc1c(N)nc(Sc2cccc(N)c2)c(C#N)c1-c1ccccc1
+Results (1)
+CHEMBL201122
+Query: CHEMBL54892 - Cc1oc(-c2ccc3ccccc3c2)nc1CCC(=O)c1ccc(CC2SC(=O)NC2=O)cc1
+Results (1)
+CHEMBL54892
+Query: CHEMBL278776 - O=C(O)CCC/C=C\C[C@H]1/C(=N/OC(c2ccccc2)c2ccccc2)CC[C@@H]1NS(=O)(=O)c1ccc(F)cc1
+Results (1)
+CHEMBL278776
+Query: CHEMBL1214621 - C=C1[C@H](O)CC(=C/C=C2\CCC[C@@]3(C)[C@H]2CC[C@@H]3[C@H](C)[C@@H](CC)CCC(C)(C)O)C[C@H]1O
+Results (1)
+CHEMBL1214621
+Query: CHEMBL37915 - CCn1cc(C(=O)N(C)C)c(=O)c2ccc(-c3ccncc3)cc21
+Results (1)
+CHEMBL37915
+Query: CHEMBL2113064 - CO[C@]1(CO)C[C@H]2O[C@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4
+Results (1)
+CHEMBL2113064
+Query: CHEMBL1091570 - Cc1ccc2cc(CC3CCN(C(=O)c4ccnc5ccccc54)CC3)ccc2n1
+Results (1)
+CHEMBL1091570
+Query: CHEMBL27928 - CC(Nc1ccccc1C(=O)c1ccc(Br)cc1)C(=O)O
+Results (1)
+CHEMBL27928
+Query: CHEMBL419582 - NCCCP(=O)(O)C(O)c1ccccc1
+Results (1)
+CHEMBL419582
+Query: CHEMBL1645552 - Cc1nccc2c3ccc(OCc4cccnc4)cc3[nH]c21
+Results (1)
+CHEMBL1645552
+Query: CHEMBL2089061 - O=C(c1nc2ccccc2[nH]1)c1ccncc1
+Results (1)
+CHEMBL2089061
+Query: CHEMBL1726452 - COCC(C)n1c(C)cc(C(=O)CSc2nnc(-c3ccco3)o2)c1C
+Results (1)
+CHEMBL1726452
+Query: CHEMBL1834111 - Nc1c(F)c(NCCc2c[nH]c3ccccc23)c(F)c2c1c(=O)c(C(=O)O)cn2C1CC1
+Results (1)
+CHEMBL1834111
+Query: CHEMBL117226 - CC(C)C[C@H]1NC(=O)[C@H](C)NC(=O)[C@@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@@H](CCCN=C(N)N)NC(=O)[C@H](N)CSSC[C@H](C(N)=O)NC1=O
+Results (1)
+CHEMBL117226
+Query: CHEMBL1711565 - O=C(c1ccccc1)N1CCN(c2nc(-c3ccc(Br)cc3)cs2)CC1
+Results (1)
+CHEMBL1711565
+Query: CHEMBL532081 - O=C(/C=C/c1ccc(Cl)c(Cl)c1)N1CCN(C(=O)Nc2ccc(F)c(Cl)c2)CC1
+Results (1)
+CHEMBL532081
+Query: CHEMBL369492 - CN1C(O)=C(C(=O)Nc2ccc(Cl)cc2)c2cc(Cl)ccc2S1(=O)=O
+Results (1)
+CHEMBL369492
+Query: CHEMBL1801232 - O=C(NO)c1cnc(N2C[C@H]3[C@@H](C2)[C@@H]3NC(=O)c2ccccc2)nc1
+Results (1)
+CHEMBL1801232
+Query: CHEMBL1462135 - COC(=O)C(c1cc(OC)c(O)c(OC)c1)(N1CCNC(C)C1)C(F)(F)F
+Results (1)
+CHEMBL1462135
+Query: CHEMBL349625 - Cc1ccncc1-c1ccc(CO[C@@H]2CC[C@H](N3CCCCCC3)[C@H]2OC/C=C\CCC(=O)O)cc1
+Results (1)
+CHEMBL349625
+Query: CHEMBL1438940 - Cc1ccc(-n2c(=O)c3ccccc3nc2SCC(=O)Nc2ccc(N3CCOCC3)cc2)cc1
+Results (1)
+CHEMBL1438940
+Query: CHEMBL1869098 - Cc1ccc(C2=[N+]([O-])C(C)(C)CC2)cc1
+Results (1)
+CHEMBL1869098
+Query: CHEMBL1939711 - CN(CC[C@H](N)C(=O)NCc1cccc(CNC(=O)[C@@H](N)CCN(C)C[C@H]2O[C@@H](n3cnc4c3ncnc4N)[C@H](O)[C@@H]2O)c1)C[C@H]1O[C@@H](n2cnc3c2ncnc3N)[C@H](O)[C@@H]1O
+Results (1)
+CHEMBL1939711
+Query: CHEMBL1365997 - O=C1CC(c2cccc(Oc3ccccc3)c2)NC(=O)N1
+Results (1)
+CHEMBL1365997
+Query: CHEMBL1379158 - COc1cccc(N2CCN(S(=O)(=O)c3ccc(CN4C(=O)c5cccnc5C4=O)cc3)CC2)c1
+Results (1)
+CHEMBL1379158
+Query: CHEMBL1442030 - Cc1nn(CCCC(=O)Nc2ccc(Br)cc2F)c(C)c1[N+](=O)[O-]
+Results (1)
+CHEMBL1442030
+Query: CHEMBL321020 - CCCNCC(O)CO/N=C1\CCCOc2c3ccccc3ccc21
+Results (1)
+CHEMBL321020
+Query: CHEMBL2323488 - O=C(O)Cc1cn(C(=O)c2ccc(Cl)cc2)c2ccc(F)cc12
+Results (1)
+CHEMBL2323488
+Query: CHEMBL47428 - CCCCC1=NC(C)(C2CCCC2)C(=O)N1Cc1ccc(-c2ccccc2C(=O)O)cc1
+Results (2)
+CHEMBL296492
+CHEMBL47428
+Query: CHEMBL1863870 - Cc1ccc(S(=O)(=O)N(C)C[C@@H]2Oc3c(NC(=O)Nc4ccccc4)cccc3C(=O)N([C@@H](C)CO)C[C@H]2C)cc1
+Results (3)
+CHEMBL1863870
+CHEMBL1870846
+CHEMBL2139532
+Query: CHEMBL1078202 - CC(C)[C@H](NC(=O)CS)C(=O)N[C@@H](CCCNC(=N)N)C(N)=O
+Results (1)
+CHEMBL1078202
+Query: CHEMBL1214358 - O=c1c2ccccc2cc2n1Cc1c-2nc2cc3c(cc2c1CCl)OCCO3
+Results (1)
+CHEMBL1214358
+Query: CHEMBL1450503 - COc1cccc2cc(C(=O)Nc3ccc(C)cc3)c(=O)oc21
+Results (1)
+CHEMBL1450503
+Query: CHEMBL1172320 - COc1cc2c(c(OC)c1)C(=O)/C(=C/c1ccc(O)cc1)O2
+Results (1)
+CHEMBL1172320
+Query: CHEMBL2312125 - COc1ccc(C(CC(=O)N2CCCC2)c2c(O)cc(OC)cc2OC)cc1
+Results (2)
+CHEMBL1530806
+CHEMBL2312125
+Query: CHEMBL589298 - CCCCCOC(=O)N1CCN(C(=O)[C@H](CCC(=O)O)NC(=O)c2cc(N3CCN(C)CC3)cc(-c3ccccc3)n2)CC1
+Results (1)
+CHEMBL589298
+Query: CHEMBL205869 - Cc1ccccc1Nc1nnc(-c2cccnc2CCc2ccncc2)o1
+Results (1)
+CHEMBL205869
+Query: CHEMBL1271127 - NC(=O)c1cc(-c2ccnc(N)n2)[nH]c1-c1ccccn1
+Results (1)
+CHEMBL1271127
+Query: CHEMBL2139189 - O=c1c(NCCc2ccc(Cl)cc2)nccn1-c1ccccc1
+Results (1)
+CHEMBL2139189
+Query: CHEMBL1789294 - Cc1cc[n+](CCCC#Cc2cccc(C#CCCC[n+]3ccc(C)c(C)c3)c2)cc1C
+Results (2)
+CHEMBL1761817
+CHEMBL1789294
+Query: CHEMBL2437208 - Cc1c(C=O)oc2cc(OCc3ccccc3)cc(OCc3ccccc3)c12
+Results (1)
+CHEMBL2437208
+Query: CHEMBL190334 - CCC1(C(=O)O)Cc2cc(OCCCOc3ccc(CC(C)(C)C)cc3Cl)ccc2O1
+Results (1)
+CHEMBL190334
+Query: CHEMBL79666 - NC(Cn1cnc2c1ncnc2O)C(O)CO
+Results (1)
+CHEMBL79666
+Query: CHEMBL95611 - CC(C)(C)NC(=O)[C@H]1CN(S(=O)(=O)c2cccs2)CCN1C[C@H](O)C[C@@H](Cc1ccccc1)C(=O)NC1c2ccccc2C[C@H]1O
+Results (1)
+CHEMBL95611
+Query: CHEMBL280091 - CC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](OC2CC(NC(=O)C(CC(C)C)NC(=O)CN)C(O)C(C)O2)C1)C(=O)c1c(O)cccc1C3=O
+Results (1)
+CHEMBL280091
+Query: CHEMBL558986 - Cl.COc1cccc2c1CCC(Nc1ccc(Cl)cc1)C2
+Results (2)
+CHEMBL558986
+CHEMBL1197003
+Query: CHEMBL2179254 - Cn1c(-c2ccc(O)cc2Cl)cc(-c2ccc(O)cc2)c1-c1ccc(O)cc1
+Results (1)
+CHEMBL2179254
+Query: CHEMBL183327 - CCC(=O)NC(CC(=O)Nc1ccc(Br)cn1)C(=O)Nc1ccc(-c2ccccc2S(N)(=O)=O)cc1
+Results (1)
+CHEMBL183327
+Query: CHEMBL1426740 - COc1ccc(NC(=O)c2c[nH]c(=O)n(-c3ccc(C)c(C)c3)c2=O)cc1OC
+Results (1)
+CHEMBL1426740
+Query: CHEMBL1965809 - COc1cc(-c2nc3ccc(N4CCN(C)CC4)nc3[nH]2)c(OC)c2nc(CO)[nH]c21
+Results (1)
+CHEMBL1965809
+Query: CHEMBL2001333 - CC1(C)Cc2nnsc2C2=C1C(=O)CCS2
+Results (1)
+CHEMBL2001333
+Query: CHEMBL1579455 - O=C1CS/C(=C\[N+](=O)[O-])N1c1ccc(OC(F)(F)F)cc1
+Results (1)
+CHEMBL1579455
+Query: CHEMBL494468 - c1cc2c(cccc2N2CCN([C@H]3CC[C@H](c4c[nH]c5ccccc54)CC3)CC2)[nH]1
+Results (2)
+CHEMBL493037
+CHEMBL494468
+Query: CHEMBL415161 - CCCCCCCCCCCCC(N)C(=O)N[C@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCC(N)=O)C(=O)O)C(C)C)[C@@H](C)CC)[C@@H](C)CC
+Results (1)
+CHEMBL415161
+Query: CHEMBL70849 - CCO/C(O)=C1\C(CSc2ccccc2)=NC(C)=C(C#N)C1c1ccco1
+Results (1)
+CHEMBL70849
+Query: CHEMBL597179 - O=S1(=O)N=CNc2ccc(Cl)cc21
+Results (1)
+CHEMBL597179
+Query: CHEMBL67226 - Nc1nc(/C(=N/O)C(=O)NC2C(=O)N3C(C(=O)O)=C(SCSc4cc(O)nc(N)n4)CSC23)c(Cl)s1
+Results (1)
+CHEMBL67226
+Query: CHEMBL358969 - CC(C)[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)[C@@H](O)[C@H](NCc1ccccc1)C(=O)N[C@H](C(=O)NCc1cccnc1)C(C)C
+Results (3)
+CHEMBL145677
+CHEMBL358969
+CHEMBL341746
+Query: CHEMBL337186 - CN(C)Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NCC2
+Results (1)
+CHEMBL337186
+Query: CHEMBL1288645 - Cc1cc(O)c(C(=O)Cc2ccc(O)c(O)c2)cc1O
+Results (1)
+CHEMBL1288645
+Query: CHEMBL592273 - CN(C)C1CCN(c2ccc(-c3ccccc3)nn2)C1
+Results (1)
+CHEMBL592273
+Query: CHEMBL389134 - CCSc1cc(C#N)c(C(F)(F)F)cc1NC(=O)C1(C)CC(C(F)(F)F)=NN1
+Results (1)
+CHEMBL389134
+Query: CHEMBL525876 - COc1ccccc1C(=O)C1CCCN(C(=O)c2ccccc2C(F)(F)F)C1
+Results (1)
+CHEMBL525876
+Query: CHEMBL525558 - Cc1cc(-c2ccc(C(=O)O)c(O)c2)oc1C=C1C(=O)NC(=S)NC1=O
+Results (1)
+CHEMBL525558
+Query: CHEMBL40628 - O=C(Cn1ccnc1)c1cc2ccccc2o1
+Results (1)
+CHEMBL40628
+Query: CHEMBL181721 - CN/C(=N\c1ccccc1F)SC
+Results (1)
+CHEMBL181721
+Query: CHEMBL1741614 - O=C(O)c1cccc(C(=O)O)c1[S+]([O-])Cc1ccccc1
+Results (1)
+CHEMBL1741614
+Query: CHEMBL1720107 - COc1ccccc1-c1sc2cc3c(cc2c1-c1ccc(OCCN2CCOCC2)cc1)OCO3
+Results (1)
+CHEMBL1720107
+Query: CHEMBL231651 - CCCCN1C(=O)N(Cc2ccccc2F)C2(CCN(Cc3ccc(-n4ccnc4)cc3)CC2)C1=O
+Results (1)
+CHEMBL231651
+Query: CHEMBL1766623 - O=C1c2ccccc2OCC1Cc1ccc(O)cc1
+Results (1)
+CHEMBL1766623
+Query: CHEMBL1522682 - O=C(COc1ccccc1)N(Cc1cccnc1)c1nc2ccc(Cl)cc2s1
+Results (1)
+CHEMBL1522682
+Query: CHEMBL1255707 - CC[C@H](C)[C@H](NC(=O)CNC(=O)CNC(=O)CNC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@H](CCCCN)NC(=O)[C@@H](NC(=O)[C@@H](N)Cc1ccccc1)[C@@H](C)CC)[C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](Cc1ccccc1)C(N)=O
+Results (2)
+CHEMBL1255706
+CHEMBL1255707
+Query: CHEMBL182752 - CCCN(CC1CC1)c1nc(C)nc(C(=O)c2c(CC)cc(CC)cc2CC)c1C
+Results (1)
+CHEMBL182752
+Query: CHEMBL579010 - COc1cc(S(=O)(=O)Nc2cccnc2)c(OC)cc1Cl
+Results (1)
+CHEMBL579010
+Query: CHEMBL1545141 - O=C(c1ccccc1)C1CN(c2ccccc2)CC1c1ccc(Cl)cc1
+Results (2)
+CHEMBL1545141
+CHEMBL409360
+Query: CHEMBL1378234 - COc1ccc(OC)c(/C=C/C(=O)OCC(=O)Nc2ccc3c(c2)OCCO3)c1
+Results (1)
+CHEMBL1378234
+Query: CHEMBL364856 - CC(=O)Nc1ccc([C@H]2CC(=O)N(C)[C@H]2[C@@H](O)c2ccc(-c3ccccc3)s2)cc1
+Results (1)
+CHEMBL364856
+Query: CHEMBL1388077 - COC(=O)CCSCC(=O)N1N=C(c2ccc(OC)cc2)CC1c1cccc(OC)c1OC
+Results (1)
+CHEMBL1388077
+Query: CHEMBL385586 - Cc1nnc(SCC(=O)Nc2ccc(S(N)(=O)=O)cc2Cl)n1-c1ccc(N(C)C)c2ccccc21
+Results (1)
+CHEMBL385586
+Query: CHEMBL1288608 - O=C(CSc1nc2ccccc2[nH]1)Nc1ccccc1
+Results (1)
+CHEMBL1288608
+Query: CHEMBL41710 - c1ccc2c(c1)nc1ccccc1c2NCCNCCNCCNc1c2ccccc2nc2ccccc21
+Results (1)
+CHEMBL41710
+Query: CHEMBL1594873 - NS(=O)(=O)c1ccc(NC(=O)COC(=O)Cc2ccc(Cl)cc2)cc1
+Results (1)
+CHEMBL1594873
+Query: CHEMBL559050 - CC(C)n1c2ccccc2cc(C(=O)N[C@H]2C[C@H]3CC[C@@H](C2)N3CCCN(C)CCCN(C)S(C)(=O)=O)c1=O
+Results (1)
+CHEMBL559050
+Query: CHEMBL1080287 - N#CCCCCCCCCCCCCCC/C=C\CCCCCCc1ccc(C=O)[nH]1
+Results (4)
+CHEMBL1081915
+CHEMBL1082095
+CHEMBL1082096
+CHEMBL1080287
+Query: CHEMBL273339 - O=C(Nc1cc2nc(-c3ccc(NC(=O)C45CC6CC(CC(C6)C4)C5)cc3)[nH]c2cn1)c1ccccn1
+Results (1)
+CHEMBL273339
+Query: CHEMBL155915 - O=C(Cc1ccc(OCc2ccccc2)cc1)N[C@@H](CS)Cc1ccc2ccccc2c1
+Results (1)
+CHEMBL155915
+Query: CHEMBL1928628 - COc1ccc(C(=O)/C=C/c2ccc(OCc3cn(C4C(=O)N(C5CCCCC5)C4/C=C/c4ccccc4)nn3)c(OC)c2)cc1
+Results (1)
+CHEMBL1928628
+Query: CHEMBL2028261 - [Na+].CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)NC(CC(P(=O)([O-])O)P(=O)(O)O)C(=O)O)C(=O)O)cc1
+Results (1)
+CHEMBL2028261
+Query: CHEMBL605790 - C[C@@H]1CN(c2n[nH]c3c2cccc3Cl)[C@@H](C)CN1C(=O)c1cc2c(C(=O)C(=O)N(C)C)cn(C)c2cc1Cl
+Results (1)
+CHEMBL605790
+Query: CHEMBL257012 - O=C(Nc1ccc(C(=O)N2CCC[C@H]3CCCC[C@@H]32)cc1)c1ccc(Cl)cc1
+Results (1)
+CHEMBL257012
+Query: CHEMBL76618 - CCCCCCCCCCCCCCCCCCN(CCCCCCCCCCCCCCCCCC)C(=O)Nc1ccc(C)cc1C
+Results (1)
+CHEMBL76618
+Query: CHEMBL93437 - CC(C)C[C@H](NCc1ccccc1)C(=O)N[C@@H](C=O)Cc1ccccc1
+Results (1)
+CHEMBL93437
+Query: CHEMBL1353041 - COc1ccc(C(=O)NCC(=O)NN=C/C(C)=C/c2ccccc2)cc1OC
+Results (1)
+CHEMBL1353041
+Query: CHEMBL1876542 - O=S(=O)(NCc1ccc(F)cc1)c1ccc(Br)cc1Br
+Results (1)
+CHEMBL1876542
+Query: CHEMBL1163558 - [I-].Cn1cccc1/C=C/c1n(C)cc[n+]1C
+Results (2)
+CHEMBL1163558
+CHEMBL1178808
+Query: CHEMBL1512860 - O=C(COc1ccccc1F)OCc1cc(=O)n2nc(C3CCCCC3)sc2n1
+Results (1)
+CHEMBL1512860
+Query: CHEMBL33102 - CC(=O)c1c(=O)n(CCOC(=O)C(NC(=O)OCc2ccccc2)C2(/N=C(/N)N[N+](=O)[O-])CCC2)nc(-c2ccc(Cl)cc2)c1-c1ccc(Cl)cc1
+Results (1)
+CHEMBL33102
+Query: CHEMBL1531043 - CCN1C(=O)C(CC(=O)Nc2ccc(OC)cc2)N(CCc2ccccc2)C1=S
+Results (1)
+CHEMBL1531043
+Query: CHEMBL1877477 - COCc1ccc(-c2c3cc4c(cc3sc2-c2ccccc2OC)OCO4)cc1
+Results (1)
+CHEMBL1877477
+Query: CHEMBL348018 - O=C(NCc1ccc(O)cc1)c1cc2cccc(O)c2cc1O
+Results (1)
+CHEMBL348018
+Query: CHEMBL15063 - CCNc1nc(Cl)nc(NC(C)C)n1
+Results (1)
+CHEMBL15063
+Query: CHEMBL232875 - CCc1ccc(/C=C2\SC(N[C@@H](C(=O)O)c3ccc(F)cc3)=NC2=O)o1
+Results (2)
+CHEMBL221245
+CHEMBL232875
+Query: CHEMBL427835 - NS(=O)(=O)c1ccc(/N=C/c2ccc(F)cc2)cc1
+Results (2)
+CHEMBL427835
+CHEMBL272622
+Query: CHEMBL1808535 - CCCC(=O)n1nc(C(=O)OCC)c2ccccc21
+Results (1)
+CHEMBL1808535
+Query: CHEMBL336205 - CC(C)C[C@H](NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)N[C@@H](CO)C(=O)O
+Results (1)
+CHEMBL336205
+Query: CHEMBL1834578 - COc1ccc2c(c1)C[C@@H](C)CN(C[C@H](O)[C@@H](Cc1ccccc1)NC(=O)OC(C)(C)C)S2(=O)=O
+Results (2)
+CHEMBL1834578
+CHEMBL1835926
+Query: CHEMBL2159989 - O=C(O)c1cn(C2CC2)c2cc(N3CCN(Cc4ccc5c(c4)OCO5)CC3)c(F)cc2c1=O
+Results (1)
+CHEMBL2159989
+Query: CHEMBL508471 - CN(C)c1ccc(C2CC(c3cccc(O)c3)=Nc3ccccc3S2)cc1
+Results (1)
+CHEMBL508471
+Query: CHEMBL1504267 - Cc1nc2cc(CO)ccc2n1C
+Results (1)
+CHEMBL1504267
+Query: CHEMBL321788 - CCCN(CC1CC1)c1nc(-c2cccc3cc(OC)ccc32)n(C)n1
+Results (1)
+CHEMBL321788
+Query: CHEMBL1762319 - CC(CCNC(=O)c1c(Cl)cncc1Cl)N1CCC(C(Oc2ccccc2Cl)c2ccc(C(F)(F)F)cc2)CC1
+Results (1)
+CHEMBL1762319
+Query: CHEMBL1232443 - NS(=O)(=O)c1cc(C(=O)CSc2nc3cc4c(cc3[nH]2)OCCO4)ccc1Cl
+Results (1)
+CHEMBL1232443
+Query: CHEMBL1568712 - CC(=O)Nc1ccc2c(c1)CCCC2=O
+Results (1)
+CHEMBL1568712
+Query: CHEMBL571556 - CC(=O)c1cccc(Nc2nc(C)nc(Cl)c2N)c1
+Results (1)
+CHEMBL571556
+Query: CHEMBL405618 - CC[C@H](C)[C@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1ccccc1)NC(=O)CNC(=O)CNC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)O
+Results (1)
+CHEMBL405618
+Query: CHEMBL1516344 - COc1ccc(C(=O)COC(=O)CN2C(=O)NC3(CC(C)CC(C)(C)C3)C2=O)c(OC)c1
+Results (1)
+CHEMBL1516344
+Query: CHEMBL1830513 - CCCN(CCC)c1cc(N(CCOC)c2ccc(OC)cc2Cl)nc2ccnn21
+Results (1)
+CHEMBL1830513
+Query: CHEMBL1573234 - CCN(CC)C(=O)Cn1c2ccsc2c(=O)n(CCCCCC(=O)NCc2ccc(C)cc2)c1=O
+Results (1)
+CHEMBL1573234
+Query: CHEMBL1651139 - O=C(CCC1CCN(Cc2ccccc2O)CC1)c1cc2ccn3c2c(c1)CCC3=O
+Results (1)
+CHEMBL1651139
+Query: CHEMBL2136851 - CCOc1ccc(-c2cc(C(=O)NCc3cc(OC)cc(OC)c3)[nH]n2)c(C)c1
+Results (1)
+CHEMBL2136851
+Query: CHEMBL1609853 - COc1ccccc1NC(=O)C(C)NC(c1ccccc1)c1ccccc1
+Results (1)
+CHEMBL1609853
+Query: CHEMBL117057 - CCCCC1Cc2cc(O)ccc2-c2c(C=O)c3cc(O)c(O)cc3n21
+Results (1)
+CHEMBL117057
+Query: CHEMBL1822686 - CCOC(=O)c1nc(-c2ccc[nH]2)n(-c2ccc(C(F)(F)F)cc2)n1
+Results (1)
+CHEMBL1822686
+Query: CHEMBL492559 - C[C@@H](CN1CCC(n2c(=O)[nH]c3cc(Br)ccc32)CC1)NC(=O)c1ccc(F)c(F)c1
+Results (1)
+CHEMBL492559
+Query: CHEMBL1605384 - CC(=O)Nc1ccc(S(=O)(=O)N(C)c2ccc(OCCOc3cccc(C)c3)cc2)cc1
+Results (1)
+CHEMBL1605384
+Query: CHEMBL1884939 - COc1ccccc1C(=O)Nc1nnc([C@H]2C[C@H](O)[C@@H](CO)O2)s1
+Results (1)
+CHEMBL1884939
+Query: CHEMBL1736196 - O=C(CCCC(=O)c1ccccc1)NCCc1ccccc1
+Results (1)
+CHEMBL1736196
+Query: CHEMBL347725 - CCCO[C@@H](C(=O)N[C@H](C(=O)NC)C(C)C)[C@H](O)[C@@H](O)[C@@H](OCCC)C(=O)N[C@H](C(=O)NC)C(C)C
+Results (1)
+CHEMBL347725
+Query: CHEMBL564523 - Cc1cccc(C)c1C(=O)N[C@H](C)c1ccc2ccccc2c1
+Results (1)
+CHEMBL564523
+Query: CHEMBL1791191 - CC(=O)O[C@H]1C[C@@H](CO)O[C@H]1n1ccc(N)nc1=O
+Results (1)
+CHEMBL1791191
+Query: CHEMBL326154 - Cc1cn([C@@H]2C=C[C@H](CO)C2)c(=O)[nH]c1=O
+Results (1)
+CHEMBL326154
+Query: CHEMBL1608396 - COc1ccc(CN2CCNC(=O)C2CC(=O)NCC(C)(C)N2CCOCC2)cc1C
+Results (1)
+CHEMBL1608396
+Query: CHEMBL315958 - CO[C@H]1C(=O)N2C(C(=O)N3CCCC3)=C(COC(C)=O)CS(=O)(=O)[C@H]12
+Results (1)
+CHEMBL315958
+Query: CHEMBL41865 - CCOC(=O)c1cccc(COC(COCc2ccc(OC)cc2)Cn2ccnc2)c1
+Results (1)
+CHEMBL41865
+Query: CHEMBL102918 - Cc1ncccc1C(C#N)N1CCN(C(=O)CC(NC(=O)c2ccccc2)c2ccccc2)CC1
+Results (1)
+CHEMBL102918
+Query: CHEMBL1917123 - S=C=Nc1ccc(-c2nnc(SCc3ccncc3)o2)cc1
+Results (1)
+CHEMBL1917123
+Query: CHEMBL518473 - COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(C4(N(C)C)CC4)cc2)CC3)cc1
+Results (1)
+CHEMBL518473
+Query: CHEMBL18805 - CCCCCCOc1c(OC)cc(NC(C)CCCN)c2ncc(C)cc21
+Results (1)
+CHEMBL18805
+Query: CHEMBL1495916 - CNc1nc(C)nc(NN=Cc2ccccc2)n1
+Results (1)
+CHEMBL1495916
+Query: CHEMBL1417774 - O=C(CSCc1c(F)cccc1Cl)Nc1cccnc1
+Results (1)
+CHEMBL1417774
+Query: CHEMBL376899 - COC(=O)[C@@H]1C2CCC(C[C@H]1c1ccccc1)N2C
+Results (9)
+CHEMBL376899
+CHEMBL390742
+CHEMBL494786
+CHEMBL607111
+CHEMBL119996
+CHEMBL166646
+CHEMBL1790051
+CHEMBL2096856
+CHEMBL83729
+Query: CHEMBL2448395 - C[n+]1cccc(-c2c3ccc(n3)c(-c3ccc[n+](C)c3F)c3ccc([nH]3)c(-c3ccc[n+](C)c3F)c3ccc(n3)c(-c3ccc[n+](C)c3F)c3ccc2[nH]3)c1F.F[B-](F)(F)F.F[B-](F)(F)F.F[B-](F)(F)F.F[B-](F)(F)F
+Results (1)
+CHEMBL2448395
+Query: CHEMBL2078981 - CC(C)(C)c1ccc(C(=O)NC(=S)Nc2ccc(Nc3ccncc3)cc2)cc1
+Results (2)
+CHEMBL2041661
+CHEMBL2078981
+Query: CHEMBL1417224 - Cc1cc([N+](=O)[O-])ccc1NC(c1nnc(-c2ccccc2)o1)c1ccccc1F
+Results (1)
+CHEMBL1417224
+Query: CHEMBL576294 - CC(=O)N1N=C(Nc2nc3ccccc3s2)CC1c1ccccc1
+Results (1)
+CHEMBL576294
+Query: CHEMBL1807131 - O=C(c1ccc(F)cc1)N(/N=N/c1ccc([N+](=O)[O-])cc1Br)c1ccc([N+](=O)[O-])cc1Br
+Results (1)
+CHEMBL1807131
+Query: CHEMBL2208422 - N#Cc1cccc(S(=O)(=O)NC[C@@H](O)CN2CCC(Oc3ccc(Cl)c(Cl)c3)CC2)c1
+Results (1)
+CHEMBL2208422
+Query: CHEMBL1506316 - C#CCOC(=O)CCCC(=O)Nc1ccccc1OC
+Results (1)
+CHEMBL1506316
+Query: CHEMBL1483560 - CCOC(=O)CSc1nc2cc(C)ccn2c(=O)n1
+Results (1)
+CHEMBL1483560
+Query: CHEMBL1454853 - Cc1cccc(/C=C(\C(=O)C(=O)O)c2ccc3ccccc3n2)c1
+Results (1)
+CHEMBL1454853
+Query: CHEMBL316055 - COC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCCCN)N1C(=O)CC[C@H](NC(=O)OCc2ccccc2)C(=O)N[C@@H](Cc2ccccc2)C1=O
+Results (2)
+CHEMBL316055
+CHEMBL313961
+Query: CHEMBL171451 - O=C(C1CCCC2NCCCC21)N1CCN(C2c3ccc(Cl)cc3CCc3cc(Br)cnc32)CC1
+Results (1)
+CHEMBL171451
+Query: CHEMBL406312 - O=C(O)[C@H](Cc1ccccc1)N1C(=O)/C(=C/c2ccc(OCOc3ccc(/C=C4\SC(=S)N([C@@H](Cc5ccccc5)C(=O)O)C4=O)cc3)cc2)SC1=S
+Results (1)
+CHEMBL406312
+Query: CHEMBL1583806 - O=C(/C=C/c1cccs1)c1cc(Cl)ccc1O
+Results (1)
+CHEMBL1583806
+Query: CHEMBL1886020 - O=C(NN1C(=O)C2C3C=CC(C3)C2C1=O)C(O)c1ccccc1
+Results (1)
+CHEMBL1886020
+Query: CHEMBL2042270 - O=C1N(c2cnc3ccccc3c2)c2ccccc2C12CCN(Cc1ncccn1)CC2
+Results (1)
+CHEMBL2042270
+Query: CHEMBL190451 - CCc1cc2c(cc1OS(N)(=O)=O)CC[C@H]1[C@@H]3CCC(=O)[C@@]3(C)CC[C@H]21
+Results (1)
+CHEMBL190451
+Query: CHEMBL1592019 - Cc1nn(S(=O)(=O)c2ccc(Cl)cc2)c(C)c1S(=O)(=O)N1CCCCCC1
+Results (1)
+CHEMBL1592019
+Query: CHEMBL276515 - C/N=C(\NC#N)NCCCCOCn1nc(-c2ccccc2)ccc1=O
+Results (1)
+CHEMBL276515
+Query: CHEMBL134060 - COC(=O)[C@@H]1C(=O)C=C(Nc2cc(Cl)c(Cl)cc2Cl)C[C@H]1C
+Results (1)
+CHEMBL134060
+Query: CHEMBL1223947 - C[C@H]1CC2=C(COC2=O)C[C@@H]2[C@@H](O)[C@](C)(CO)C[C@@]21O
+Results (1)
+CHEMBL1223947
+Query: CHEMBL311665 - Cc1ncccc1C(=O)N[C@@H](Cc1ccc(NC(=O)c2c(Cl)cccc2Cl)cc1)C(=O)O
+Results (1)
+CHEMBL311665
+Query: CHEMBL539919 - COC1=C(C)C(=O)C2=C(C1=O)[C@H](COC(=O)c1cccnc1)N1[C@@H](C#N)[C@@H]3CC4=C(C(=O)C(OC)=C(C)C4=O)[C@H]([C@@H]1C2)N3C
+Results (1)
+CHEMBL539919
+Query: CHEMBL1592498 - CC(C)CCNC(=O)c1ccc(Cn2c(SCC(N)=O)nc3ccccc3c2=O)cc1
+Results (1)
+CHEMBL1592498
+Query: CHEMBL520713 - Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[C@@H](CC(=O)O)C(=O)O)[C@@H](O)[C@H]1O
+Results (1)
+CHEMBL520713
+Query: CHEMBL2316122 - C[C@@H](CO)NC(=O)c1c(O)c2ncc(Cc3ccc(F)cc3)cc2n(C)c1=O
+Results (2)
+CHEMBL2316121
+CHEMBL2316122
+Query: CHEMBL373995 - Cn1c(Cc2c[nH]c3ccccc23)nnc1[C@@H](Cc1c[nH]c2ccccc12)NC(=O)C(C)(C)N
+Results (1)
+CHEMBL373995
+Query: CHEMBL1419867 - Cl.CCCCNCc1cc(Br)c(OC2CCCC2)c(OC)c1
+Results (2)
+CHEMBL1419867
+CHEMBL1620165
+Query: CHEMBL308558 - CCCCCCCC[C@H]1OC(=O)CNC(=O)[C@@H]([C@H](C)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@H](C)CC)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H]1C
+Results (7)
+CHEMBL73922
+CHEMBL308558
+CHEMBL306262
+CHEMBL306587
+CHEMBL307633
+CHEMBL73828
+CHEMBL2371952
+Query: CHEMBL1560960 - Cc1ccc(CNC(=O)[C@]2(C)CCC[C@@]3(C)C4CC[C@@]5(C)C[C@@]4(CC5=O)CCC23)cc1
+Results (1)
+CHEMBL1560960
+Query: CHEMBL475249 - Cc1nc(-c2ccnc(Nc3cc(C)cc(C(F)(F)F)c3)n2)sc1CCO
+Results (1)
+CHEMBL475249
+Query: CHEMBL328555 - O=C(Nc1nccs1)c1ncccc1NC(=O)C(F)(F)F
+Results (1)
+CHEMBL328555
+Query: CHEMBL1728493 - O=C(NCCCN1CCOCC1)c1c(F)c(F)c(F)c(F)c1F
+Results (1)
+CHEMBL1728493
+Query: CHEMBL448867 - CCCCc1ccsc1-c1ccc(O)c(O)c1
+Results (1)
+CHEMBL448867
+Query: CHEMBL1976873 - CCN(CC)CC.O=C(O)C(F)(OC(F)(F)C(F)(OC(F)(F)C(F)(F)C(F)(F)F)C(F)(F)F)C(F)(F)F
+Results (1)
+CHEMBL1976873
+Query: CHEMBL2069797 - Cc1ccc(N2O[C@H]3C(=O)N(c4ccc(C(=O)O)cc4)C(=O)[C@H]3[C@@H]2c2ccc([N+](=O)[O-])cc2)cc1
+Results (2)
+CHEMBL2069775
+CHEMBL2069797
+Query: CHEMBL547908 - Oc1ccc2ccccc2c1CNCC1CCCCC1
+Results (1)
+CHEMBL547908
+Query: CHEMBL1860811 - Clc1ccccc1-c1nc(CN2CC[C@H]3CCCC[C@@H]3C2)co1
+Results (3)
+CHEMBL1860811
+CHEMBL1861221
+CHEMBL1861476
+Query: CHEMBL70796 - CCCc1nc(CN2CCC(c3ccccc3)CC2)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1
+Results (1)
+CHEMBL70796
+Query: CHEMBL288193 - COc1ccc2c(c1)Oc1cscc1C(N1CCN(C)CC1)=N2
+Results (1)
+CHEMBL288193
+Query: CHEMBL2153147 - COc1ccc2c(c1)/C(=C\c1ccc(Cl)cc1Cl)C(=O)CC2
+Results (1)
+CHEMBL2153147
+Query: CHEMBL1968036 - O=C1CC2C=CC(O)C(C1)C2
+Results (1)
+CHEMBL1968036
+Query: CHEMBL578341 - CN(CC1(NC(=O)N[C@H](C(=O)N2C[C@H]3[C@@H]([C@H]2C(=O)NC(CC2CCC2)C(=O)C(N)=O)C3(C)C)C(C)(C)C)CCCCC1)S(=O)(=O)c1ccccc1
+Results (1)
+CHEMBL578341
+Query: CHEMBL2107777 - CCOc1ccc2c(c1)C1(CCC(CCN3CCOCC3)CC1)C(=O)N2S(=O)(=O)c1ccc(C(=O)NC(C)(C)C)cc1OC
+Results (1)
+CHEMBL2107777
+Query: CHEMBL549950 - CCCCC#Cc1nc2c(ncn2CCCCOP(=O)(O)OP(=O)(O)OP(=O)(O)O)c(N)n1
+Results (1)
+CHEMBL549950
+Query: CHEMBL49867 - N#CCCC(N)c1nc2ccccc2o1
+Results (1)
+CHEMBL49867
+Query: CHEMBL2007104 - ClCCSc1c2ccccc2nc2ccccc21
+Results (1)
+CHEMBL2007104
+Query: CHEMBL367347 - Cc1nc(NC(=O)[C@H](C)N)sc1-c1ccccc1
+Results (1)
+CHEMBL367347
+Query: CHEMBL179999 - COc1ccc(-c2cc(-c3ccncc3)nc(N3CCOCC3)n2)c2ccccc12
+Results (1)
+CHEMBL179999
+Query: CHEMBL1946767 - COc1ccccc1CCNCc1ccc(CCNCCc2ccc(O)c3[nH]c(=O)sc32)cc1
+Results (1)
+CHEMBL1946767
+Query: CHEMBL60641 - c1ccc(C2OOC3C4CCC(C4)C3(c3ccccc3)OO2)cc1
+Results (1)
+CHEMBL60641
+Query: CHEMBL1471020 - CCCCCCN1C(=O)C(O)=C(C(C)=O)C1c1ccccc1[N+](=O)[O-]
+Results (1)
+CHEMBL1471020
+Query: CHEMBL60154 - O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ccccn2)CC1
+Results (1)
+CHEMBL60154
+Query: CHEMBL209263 - Cc1ccc2c(c1)C1(CCN(CCc3coc(-c4ccc(F)cc4)n3)CC1)OC(=O)N2
+Results (1)
+CHEMBL209263
+Query: CHEMBL1998116 - CN(/N=C\c1ccnc2ccccc12)c1ccccc1
+Results (1)
+CHEMBL1998116
+Query: CHEMBL141971 - CNC(=O)c1cccc(NC(=O)CC2CCCCC2)c1
+Results (1)
+CHEMBL141971
+Query: CHEMBL1684232 - O=C1c2ccc(C#Cc3ccccc3)cc2C(=O)N1CCc1ccccn1
+Results (1)
+CHEMBL1684232
+Query: CHEMBL1411120 - C=CCOC(=O)C(C#N)c1nc2ccccc2nc1N1CCN(c2ccccc2OC)CC1
+Results (1)
+CHEMBL1411120
+Query: CHEMBL1403173 - COc1ccc(NC(=O)C(=O)NCCc2ccc(OC)c(OC)c2)c(OC)c1
+Results (1)
+CHEMBL1403173
+Query: CHEMBL1683794 - CCNC(=O)Nc1sc2cc(C)ccc2c1C(=O)N1CCN(C2CCN(C(=O)C(C)C)CC2)CC1
+Results (1)
+CHEMBL1683794
+Query: CHEMBL58132 - COC(=O)C(Cc1ccc(OCCc2nc(-c3ccccc3)oc2C)cc1)C(=O)OC
+Results (1)
+CHEMBL58132
+Query: CHEMBL1379910 - C=CCNC(=S)NNC(=O)CC12CC3CC(CC(C3)C1)C2
+Results (1)
+CHEMBL1379910
+Query: CHEMBL383538 - CCCOC(=O)c1[nH]c2ccccc2c1Sc1ccccc1
+Results (1)
+CHEMBL383538
+Query: CHEMBL549719 - O=C(CCCc1ccc([N+](=O)[O-])cc1)NCCOCCNc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+Results (1)
+CHEMBL549719
+Query: CHEMBL1904224 - Cc1ccccc1-c1nnn(CC(=O)N2CCN(C(=O)c3ccco3)CC2)n1
+Results (1)
+CHEMBL1904224
+Query: CHEMBL1384700 - O=C(CC(=O)c1ccccc1O)c1cccc(F)c1
+Results (1)
+CHEMBL1384700
+Query: CHEMBL2430026 - Cn1nc(CC(=O)Nc2nc(-c3ccc(Br)cc3)cs2)c2ccccc2c1=O
+Results (1)
+CHEMBL2430026
+Query: CHEMBL1487337 - Cc1ccc(-c2nc(N)sc2-c2ccc(C)cc2)cc1
+Results (1)
+CHEMBL1487337
+Query: CHEMBL1192196 - CC(C)N1CCN(CC(=O)Nc2ccc3nc(O)c4ccccc4c3n2)CC1
+Results (2)
+CHEMBL543393
+CHEMBL1192196
+Query: CHEMBL420209 - CCOC(=O)[C@]1(Cc2ccccc2)CCCN(C(=O)[C@@H](CCCc2ccccc2)NC(=O)C(C)(C)N)C1
+Results (1)
+CHEMBL420209
+Query: CHEMBL1335420 - Cc1cc(C(=O)N2N=C(C)CC2(O)C(F)(F)F)n(C)n1
+Results (1)
+CHEMBL1335420
+Query: CHEMBL1346216 - O=C(N1CCOCC1)N1CCN(Cc2ccccc2)CC1
+Results (1)
+CHEMBL1346216
+Query: CHEMBL33654 - CC(=O)Oc1ccc(-c2c(C)c3ccc(OC(C)=O)cc3n2C)cc1
+Results (1)
+CHEMBL33654
+Query: CHEMBL598956 - Cc1c(C)c2c(c(C)c1OC(=O)[C@@H](N)CCCCN)CC[C@@](C)(CCCC(C)CCCC(C)CCCC(C)C)O2
+Results (3)
+CHEMBL598956
+CHEMBL1179508
+CHEMBL80787
+Query: CHEMBL1530483 - Cc1cc(C)n2nc(C(=O)N3CCCC(Nc4ccc(F)c(F)c4)C3)cc2n1
+Results (1)
+CHEMBL1530483
+Query: CHEMBL1408310 - O=C(CN1CCOCC1)NN=Cc1ccc(-c2ccc(Br)cc2)o1
+Results (1)
+CHEMBL1408310
+Query: CHEMBL2131452 - Cc1ccc([C@H]2N[C@]3(CCCN(Cc4ccc(Cl)cc4)C3=O)[C@H]3C(=O)N(C)C(=O)[C@@H]23)cc1.O=C(O)C(F)(F)F
+Results (1)
+CHEMBL2131452
+Query: CHEMBL180146 - C[C@@H]1c2c(F)c(O)ccc2O[C@@H](c2ccc(OCCN3CCCCC3)cc2)[C@H]1c1ccc(O)cc1
+Results (3)
+CHEMBL181368
+CHEMBL181369
+CHEMBL180146
+Query: CHEMBL1956293 - COCc1nc2nc(C)cc(Nc3cccc(Cl)c3)n2n1
+Results (1)
+CHEMBL1956293
+Query: CHEMBL1994029 - COCCNC(=O)c1cc2c(c(-c3cccc(-c4cc5ccccc5o4)c3)n1)[C@H](CCO)N(S(=O)C(C)(C)C)C2
+Results (2)
+CHEMBL1884395
+CHEMBL1994029
+Query: CHEMBL433157 - CC(=O)Oc1c(C)c(C)c2c(c1C)CCC(C)(CCN(C)C)O2
+Results (1)
+CHEMBL433157
+Query: CHEMBL1322901 - Cc1cccc(N2C(C)=CC(C)(C)N=C2S)c1
+Results (1)
+CHEMBL1322901
+Query: CHEMBL25948 - CCCCC/C=C/C(=O)CCc1ccc(O)c(OC)c1
+Results (1)
+CHEMBL25948
+Query: CHEMBL240746 - O=C(N[C@H](Cc1c[nH]c2ccccc12)C1=NNC(CCc2ccccc2)N1Cc1cccs1)C1CCNCC1
+Results (1)
+CHEMBL240746
+Query: CHEMBL1487664 - Cc1nn(-c2ccccc2C)c2sc(C(=O)NC3CC3)cc12
+Results (1)
+CHEMBL1487664
+Query: CHEMBL269867 - Cc1cc(=O)oc2c(Br)c(O)ccc12
+Results (1)
+CHEMBL269867
+Query: CHEMBL1933158 - O=Cc1ccc(OCCOc2ccc(Cl)cc2Cl)c(Cl)n1
+Results (1)
+CHEMBL1933158
+Query: CHEMBL1923806 - CCSS/C(CCOC(=O)[C@@H](C)c1ccc2cc(OC)ccc2c1)=C(/C)N(C=O)CC(=O)OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+Results (1)
+CHEMBL1923806
+Query: CHEMBL321363 - CCCCc1nn(-c2ccccc2C(F)(F)F)c(=O)n1Cc1ccc(-c2ccccc2S(=O)(=O)NC(=O)c2sccc2Br)cc1
+Results (1)
+CHEMBL321363
+Query: CHEMBL2003460 - CCOC(=O)c1cccc(/N=N/c2ncc(/C=C/C(=O)OC)[nH]2)c1
+Results (1)
+CHEMBL2003460
+Query: CHEMBL146267 - NC(=O)Cc1c2cc(O)ccc2n(Cc2ccccc2)c1C1CC1
+Results (1)
+CHEMBL146267
+Query: CHEMBL454589 - C/C=C(\C)c1cc(O)c(C)c(O)c1C(=O)Oc1cc(/C(C)=C/C)c(C(=O)O)c(O)c1C
+Results (1)
+CHEMBL454589
+Query: CHEMBL2431930 - N#Cc1cccc(CN(CC(=O)N(Cc2ccc(C3CCCCC3)cc2)c2ccc(C(=O)O)c(O)c2)S(=O)(=O)c2c(F)c(F)c(F)c(F)c2F)c1
+Results (1)
+CHEMBL2431930
+Query: CHEMBL564441 - Fc1cc2c(nc(-c3ccc(-n4cncn4)cc3)n2Cc2cccc(C(F)(F)F)c2)c(F)c1
+Results (1)
+CHEMBL564441
+Query: CHEMBL2011420 - CN1c2cc3c(cc2OS1(=O)=O)CC[C@H]1[C@@H]2CCC(=O)[C@@]2(C)CC[C@H]31
+Results (1)
+CHEMBL2011420
+Query: CHEMBL1161417 - Cc1cc(O)cc(C)c1C[C@H](N)[C@H](O)C/C=C/[C@@H](O)[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1ccccc1)C(N)=O
+Results (5)
+CHEMBL1161414
+CHEMBL1161412
+CHEMBL1161415
+CHEMBL1161416
+CHEMBL1161417
+Query: CHEMBL39604 - C=C1C=C2c3cccc4[nH]cc(c43)C[C@H]2N(C)C1
+Results (1)
+CHEMBL39604
+Query: CHEMBL455550 - Cl.O=C(c1ccc(OCCN2CCCCC2)cc1)N1C/C(=C\c2ccc(Cl)cc2)C(=O)/C(=C/c2ccc(Cl)cc2)C1
+Results (2)
+CHEMBL455550
+CHEMBL1186238
+Query: CHEMBL2370031 - C/C=C1\NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](CCN)NC(=O)[C@@H](NC(=O)CC(O)CCCCCCCCCCC)COC(=O)[C@H]([C@H](O)CCl)NC(=O)[C@H]([C@H](O)C(=O)O)NC1=O
+Results (14)
+CHEMBL407431
+CHEMBL1790210
+CHEMBL1790214
+CHEMBL1790215
+CHEMBL1790220
+CHEMBL1790223
+CHEMBL2370031
+CHEMBL386419
+CHEMBL385627
+CHEMBL261974
+CHEMBL405706
+CHEMBL384185
+CHEMBL412106
+CHEMBL262117
+Query: CHEMBL1712577 - Cc1ccc(C)c(COC(=O)c2cc(S(=O)(=O)N3CCCCC3)ccc2N2CCOCC2)c1
+Results (1)
+CHEMBL1712577
+Query: CHEMBL224704 - CN(C)CCCNC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)c1ccc2c(c1)nc(-c1ccoc1)n2C1CCCCC1
+Results (1)
+CHEMBL224704
+Query: CHEMBL336768 - N=C(N)c1ccc(CNC(=O)Cn2c(=O)c(NCCN)nc(Cl)c2-c2ccccc2)cc1
+Results (1)
+CHEMBL336768
+Query: CHEMBL496288 - Cl.Fc1ccc(-c2ccc3c(c2)CCC3c2ccncc2)cc1
+Results (2)
+CHEMBL496288
+CHEMBL1187273
+Query: CHEMBL63932 - CCOC(=O)c1ccc(C2Oc3cccc(OC)c3-c3ccc(NS(C)(=O)=O)cc32)cc1
+Results (1)
+CHEMBL63932
+Query: CHEMBL107096 - COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2c(C(=O)N(C)C)cccc21
+Results (1)
+CHEMBL107096
+Query: CHEMBL66748 - COc1ccccc1OCCN1CCN(c2ccc(=O)n(CCCCCN3CCN(c4ccccc4OC)CC3)n2)CC1
+Results (4)
+CHEMBL302554
+CHEMBL66450
+CHEMBL66748
+CHEMBL67773
+Query: CHEMBL215418 - Cc1ccc(Oc2ccc(C(=O)NCCN3CCCC3)cc2NC(=O)Nc2ccc(Br)cc2)cc1C
+Results (1)
+CHEMBL215418
+Query: CHEMBL219791 - Cn1c(=O)c(CCO)c(-c2cc(Cl)cc(CC(O)CO)c2O)c2cc(C(F)(F)F)ccc21
+Results (1)
+CHEMBL219791
+Query: CHEMBL1421619 - CCC(COC(=O)Nc1cccc(C)c1)NC(=O)OCC(C)C
+Results (1)
+CHEMBL1421619
+Query: CHEMBL3040734 - CC(N)C1C[C@@H]2CC[C@H]1C2
+Results (1)
+CHEMBL3040734
+Query: CHEMBL409532 - CCC(C)[C@H]1O[C@]2(C=C[C@@H]1C)C[C@@H]1C[C@@H](CC=C(C)[C@@H](O[C@H]3C[C@H](OC)[C@@H](O[C@H]4C[C@H](OC)[C@H](NC(=O)C(C)(C)C)[C@H](C)O4)[C@H](C)O3)[C@@H](C)C=CC=C3CO[C@@H]4[C@H](O)C(C)=C[C@@H](C(=O)O1)[C@]34O)O2
+Results (1)
+CHEMBL409532
+Query: CHEMBL512208 - O=c1sn(CCc2ccccc2)c(=O)n1Cc1ccc(F)cc1
+Results (1)
+CHEMBL512208
+Query: CHEMBL1529612 - Cc1ccc2nc(-c3ccc(NC(=O)COc4c(C)ccc(C)c4C)cc3)sc2c1
+Results (1)
+CHEMBL1529612
+Query: CHEMBL1332356 - CCN(CC)CCCN=C(S)N1CCN(c2nc(-c3ccc(F)cc3)cs2)CC1
+Results (1)
+CHEMBL1332356
+Query: CHEMBL1523577 - Cc1ccc(N2C(=O)c3ccccc3/C(=C/Nc3ccccc3-c3nnc(S)nc3O)C2=O)c(C)c1
+Results (1)
+CHEMBL1523577
+Query: CHEMBL1394999 - Cc1cccn2c1nc(Oc1ccc(Br)cc1)c(/C=C(\C#N)c1nc3ccccc3n1C)c2=O
+Results (1)
+CHEMBL1394999
+Query: CHEMBL1973429 - CC(=O)N/N=C/c1cc(C(C)(C)C)cc(/C=N/NC(C)=O)c1O
+Results (1)
+CHEMBL1973429
+Query: CHEMBL2375134 - [Na+].CC(=O)O[C@@H]1C2=C(C)C(OC(=O)[C@H](OC(=O)CCC(=O)[O-])C(NC(=O)c3ccccc3)c3ccccc3)C[C@@](O)([C@H](OC(=O)c3ccccc3)C3[C@@]4(OC(C)=O)COC4C[C@H](O)[C@@]3(C)C1=O)C2(C)C
+Results (3)
+CHEMBL405540
+CHEMBL386400
+CHEMBL2375134
+Query: CHEMBL1994202 - Cl.CC1=C[C@@H]2Cc3nc4cc(Cl)ccc4c(N)c3[C@H](C1)C2
+Results (6)
+CHEMBL536047
+CHEMBL140476
+CHEMBL1994202
+CHEMBL2007996
+CHEMBL2011499
+CHEMBL2021616
+Query: CHEMBL274893 - CS(=O)(=O)c1ccc(C2=C(c3ccc(F)cc3)CCC2)cc1
+Results (1)
+CHEMBL274893
+Query: CHEMBL1543036 - O=C(NC1CCCC1)c1cccc(Oc2ccccc2)c1
+Results (1)
+CHEMBL1543036
+Query: CHEMBL1480008 - Cc1noc(C)c1C(=O)N1CCC[C@@]2(CCN(CC(C)C)C2)C1
+Results (1)
+CHEMBL1480008
+Query: CHEMBL1524959 - COC(=O)c1ccccc1NC(=O)c1cnc2sccn2c1=O
+Results (1)
+CHEMBL1524959
+Query: CHEMBL231005 - COc1ccc(CN2CCN(C(=O)COc3ccc4c(=O)cc(-c5cc(C(C)(C)C)c(O)c(C(C)(C)C)c5)oc4c3)CC2)c(OC)c1OC
+Results (1)
+CHEMBL231005
+Query: CHEMBL351838 - CC(C)C[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@@H]1CCCN1C(=O)[C@H](C)NC(=O)[C@@H](N)Cc1ccc(O)cc1)C(C)C)C(C)C)C(=O)O
+Results (1)
+CHEMBL351838
+Query: CHEMBL142253 - COc1cc2c(c3c1c(=O)c1ccccc1n3C)[C@@H](OC(C)=O)[C@@H](OC(=O)c1ccccc1)C(C)(C)O2
+Results (1)
+CHEMBL142253
+Query: CHEMBL1529997 - CCOC(=O)c1ccc(NS(C)(=O)=O)cc1
+Results (1)
+CHEMBL1529997
+Query: CHEMBL370813 - CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](C)C(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H](CC(C)C)C(N)=O
+Results (3)
+CHEMBL370813
+CHEMBL380938
+CHEMBL201619
+Query: CHEMBL1935506 - CCc1nnc(S)[nH]1
+Results (1)
+CHEMBL1935506
+Query: CHEMBL36889 - CN1CCC(C)(OC(=O)c2ccccc2CCc2ccccc2)CC1
+Results (1)
+CHEMBL36889
+Query: CHEMBL1548349 - COc1cccc(N2CCN(CC(=O)Nc3nc4c(s3)CC(C)CC4)CC2)c1
+Results (1)
+CHEMBL1548349
+Query: CHEMBL1643906 - COc1c(I)cc(-c2oc3c(OC)c(OC)c(OC)c(O)c3c(=O)c2OC)cc1I
+Results (1)
+CHEMBL1643906
+Query: CHEMBL2028574 - [Na+].O=[N+]([O-])OCCOc1ccc([As](=O)([O-])O)cc1[N+](=O)[O-]
+Results (1)
+CHEMBL2028574
+Query: CHEMBL1987598 - CCCCCCCCCC1C2C(=O)N(c3ccccc3)C(=O)C2c2[nH]c3ccccc3c2C1C
+Results (2)
+CHEMBL1979055
+CHEMBL1987598
+Query: CHEMBL1649939 - CCCC[C@@H](NC(=O)[C@@H](N)Cc1c(C)cc(O)cc1C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N1CCC(N(C(=O)CC)c2ccccc2)CC1
+Results (1)
+CHEMBL1649939
+Query: CHEMBL101842 - CCCCN(CCC)C(=O)[C@@H]1OC(C(=O)O)=C[C@H](N)[C@H]1NC(C)=O
+Results (1)
+CHEMBL101842
+Query: CHEMBL1526047 - COc1ccc(C(CNC(=O)C2CC2)N(C)C)cc1
+Results (1)
+CHEMBL1526047
+Query: CHEMBL1530562 - NC(=O)c1cc([N+](=O)[O-])ccc1NCc1cccnc1
+Results (1)
+CHEMBL1530562
+Query: CHEMBL503987 - Fc1ccc2c(c1)nc(N1CCN(Cc3nnc[nH]3)CC1)c1cccn12
+Results (1)
+CHEMBL503987
+Query: CHEMBL2326103 - CC[C@H](C)[C@H](NC(=O)[C@@H](CC(=O)NC)NC(=O)CNC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](CC(=O)NC)NC(=O)[C@@H](NC(=O)[C@@H](CC(=O)NC)NC(=O)CNC(=O)CNC(=O)[C@H](C)NC(=O)[C@H](NC(=O)[C@@H](N)CCC(=O)NC)C(C)(C)O)[C@@H](C)CC)C(C)(C)C)C(C)(C)O)C(=O)N[C@H](CC(=O)NC)C(=O)N[C@H](C(=O)N[C@H](CC(=O)NC)C(=O)N[C@@H](C)C(=O)N[C@H](CC(=O)NC)C(=O)N[C@H](C(=O)N[C@H](CO)C(=O)N[C@H](C(=O)N[C@H](CC(N)=O)C(=O)N[C@@H](Cc1cn(CCNS(=O)(=O)c2cccc3c2cccc3N(C)C)nn1)C(=O)N[C@H](CC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](C(=O)N[C@H](C(=O)O)[C@@H](C)O)[C@H](C)O)C(C)C)C(C)C)C(C)C
+Results (2)
+CHEMBL2326102
+CHEMBL2326103
+Query: CHEMBL144921 - COCOc1c(-c2ccccc2)cccc1-c1ccc(C(=O)OCC(C)CC(C)(C)C)cc1
+Results (1)
+CHEMBL144921
+Query: CHEMBL320803 - O=C(O)CCC/C=C\C[C@@H]1C(/C=C/[C@H](O)C2Cc3ccccc3C2)[C@H](O)C[C@@H]1O
+Results (2)
+CHEMBL320803
+CHEMBL324690
+Query: CHEMBL1391439 - CCOc1ccc(C=NNc2nncc(-c3ccccc3)n2)cc1OC
+Results (1)
+CHEMBL1391439
+Query: CHEMBL516236 - Nc1ccccc1NC(=O)c1ccc(CNc2nccc(-c3ccc(OCCN4CCOCC4)cc3)n2)cc1
+Results (1)
+CHEMBL516236
+Query: CHEMBL274142 - COc1ccc([C@H](NS(=O)(=O)c2cnccc2N[C@H](CO)Cc2ccccc2)C(=O)N2CCC(CCF)CC2)cc1
+Results (1)
+CHEMBL274142
+Query: CHEMBL252501 - COc1ccc(Cn2c(CCc3c[nH]c4ccccc34)nnc2[C@@H](CC(=O)OCc2ccccc2)NC(=O)C(C)(C)N)cc1
+Results (1)
+CHEMBL252501
+Query: CHEMBL152146 - CCO/C(O)=C1\C(COCCNC2=NC(=O)C(C)(C)N2)=NC(C)=C(C(=O)OC)C1c1cccc(Cl)c1Cl
+Results (1)
+CHEMBL152146
+Query: CHEMBL2030277 - O=S(=O)(Nc1cc(Sc2ncn[nH]2)c(O)c2ccccc12)c1ccc(C2CCCCC2)cc1
+Results (1)
+CHEMBL2030277
+Query: CHEMBL2367637 - C=CC[C@H]1C(=O)N(CCCCCC)[C@H]2CCN(C(=O)OCc3ccccc3)[C@H]12
+Results (1)
+CHEMBL2367637
+Query: CHEMBL453090 - CS[C@H](CCCc1c(N)nc(N)[nH]c1=O)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1
+Results (2)
+CHEMBL452322
+CHEMBL453090
+Query: CHEMBL169934 - CN1CCC(OC(=O)N2CCN(C3c4ccc(Cl)cc4CCc4cc(Br)cnc43)CC2)CC1
+Results (1)
+CHEMBL169934
+Query: CHEMBL1861923 - COc1cccc(Oc2ccc(/C(=N/O)NCc3ccccc3F)cn2)c1
+Results (1)
+CHEMBL1861923
+Query: CHEMBL481407 - COc1cc2ncc(C(N)=O)c(Nc3cccc(Cl)c3C)c2cc1OC
+Results (1)
+CHEMBL481407
+Query: CHEMBL2008980 - COC1=C2CC(C)CC(OC)C(OC(=O)CCCN)C(C)C=C(C)C(OC(N)=O)C(OC)C=CC=C(C)C(=O)NC(=CC1=O)C2=O
+Results (3)
+CHEMBL502231
+CHEMBL1987726
+CHEMBL2008980
+Query: CHEMBL1987240 - Cc1nn(C)c(=O)c(N)c1-c1ccccc1
+Results (1)
+CHEMBL1987240
+Query: CHEMBL375357 - O=C1N[C@]2(CSC3=C2C(=O)c2ccccc2C3=O)C(=O)N[C@H]1CO
+Results (2)
+CHEMBL222341
+CHEMBL375357
+Query: CHEMBL1882218 - COc1ccc(NC=O)c(C(=O)CCNC(C)=O)c1
+Results (1)
+CHEMBL1882218
+Query: CHEMBL2370022 - CC(C)C[C@H](NC(=O)[C@@H](N)CCC(=O)O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N1C(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCCCN)NC(=O)[C@H]1CCCN=C(N)N
+Results (1)
+CHEMBL2370022
+Query: CHEMBL205628 - CN(C)CCC(NC(=O)c1ccc2c(c1)OCO2)c1ccc(Cl)cc1
+Results (1)
+CHEMBL205628
+Query: CHEMBL228111 - O=c1ccn([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H]2O)c(=S)[nH]1
+Results (1)
+CHEMBL228111
+Query: CHEMBL1472261 - CCOC(=O)c1cc2c(s1)-c1ccccc1CC2
+Results (1)
+CHEMBL1472261
+Query: CHEMBL1796817 - COCCCCn1cnc2cc(NCc3ccc(Cl)c(Cl)c3)[nH]c(=O)c21
+Results (2)
+CHEMBL1796817
+CHEMBL1796818
+Query: CHEMBL2152165 - O=C(NC1CCCC1)N[C@@](Cc1ccccc1)(c1cc(F)cc(OC(F)(F)C(F)F)c1)c1ccc(Cl)cn1
+Results (2)
+CHEMBL2152165
+CHEMBL2165682
+Query: CHEMBL1091355 - CN1CCN(C(=O)c2ccc(NC(=O)Nc3ccc(-c4nc(C5CCOCC5)nc(N5C6CCC5COC6)n4)cc3)cc2)CC1
+Results (1)
+CHEMBL1091355
+Query: CHEMBL2010893 - CC1(C)S[C@@H]2[C@H](NC(=O)c3ccc(C(=O)c4ccc([N+](=O)[O-])cc4)cc3)C(=O)N2[C@H]1C(=O)O
+Results (1)
+CHEMBL2010893
+Query: CHEMBL1462316 - Cn1c2ccccc2n(CCCOc2ccc(Br)cc2)c1=O
+Results (1)
+CHEMBL1462316
+Query: CHEMBL1192935 - COc1ccc2cc(CC(=N)N3CCC(c4ccccc4)CC3)ccc2c1
+Results (2)
+CHEMBL544257
+CHEMBL1192935
+Query: CHEMBL33530 - COc1ccc(C2=C(OC(C)=O)c3cccn3-c3ccccc3S2(=O)=O)cc1
+Results (1)
+CHEMBL33530
+Query: CHEMBL1644687 - Brc1cccc(-c2c[nH]c(-c3cccc(CN4CCOCC4)c3)n2)c1
+Results (1)
+CHEMBL1644687
+Query: CHEMBL96264 - O=C(CCCc1ccc2c(c1O)C(=O)c1c(O)cccc1C2)NO
+Results (1)
+CHEMBL96264
+Query: CHEMBL1375898 - CCOC(=O)C1=C(c2ccccc2)N2CCS(=O)(=O)N=C2S1
+Results (1)
+CHEMBL1375898
+Query: CHEMBL1477640 - Cc1[nH]c(N=Nc2ccccc2)nc1N=Nc1ccccc1
+Results (1)
+CHEMBL1477640
+Query: CHEMBL304702 - CC(C)(C)OC(=O)N1CCC[C@@H]1C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(N)=O
+Results (1)
+CHEMBL304702
+Query: CHEMBL170283 - CC(C)(C)CC(N)=O
+Results (1)
+CHEMBL170283
+Query: CHEMBL1472407 - Cc1nc2cccc(C(=O)NCc3ccccc3)c2o1
+Results (1)
+CHEMBL1472407
+Query: CHEMBL1896783 - CCCCN1CC(=O)N2[C@H]3c4cc(Br)ccc4OC[C@@H]3[C@H](C(=O)OCC)[C@]2(C)C1=O
+Results (2)
+CHEMBL1896783
+CHEMBL1898065
+Query: CHEMBL1557625 - CCCCOC(=O)c1ccc(NS(=O)(=O)c2cc(-c3nnnn3CC)ccc2OC)cc1
+Results (1)
+CHEMBL1557625
+Query: CHEMBL1455569 - O=C(/C=C/c1cccc(F)c1)NCc1ccc2c(c1)OCO2
+Results (1)
+CHEMBL1455569
+Query: CHEMBL478072 - CO[C@@H]1O[C@H](CNC(=O)C2CC2)[C@@H]2OC(C)(C)O[C@@H]2[C@H]1O
+Results (1)
+CHEMBL478072
+Query: CHEMBL271265 - O=C(CSc1nc2ccc(NC(=O)c3ccccc3Br)cc2s1)NCCc1ccccc1
+Results (1)
+CHEMBL271265
+Query: CHEMBL1473813 - CN(C)CCCO[C@@H]1[C@H]2OC(C)(C)O[C@@H]2O[C@H]1[C@H](O)CO
+Results (9)
+CHEMBL1256946
+CHEMBL1316321
+CHEMBL1318166
+CHEMBL1473813
+CHEMBL1880858
+CHEMBL1882061
+CHEMBL2002796
+CHEMBL2009010
+CHEMBL3039465
+Query: CHEMBL1540444 - CN(C)C=NC(S)=Nc1ccccc1Cl
+Results (1)
+CHEMBL1540444
+Query: CHEMBL1475944 - Cc1oc2ccc(O)c(CN(C)Cc3ccccc3)c2c1C(=O)Nc1cccc(Cl)c1C
+Results (1)
+CHEMBL1475944
+Query: CHEMBL542160 - Cl.CC(C)C(CO)(CO)NCc1ccc2ccc3cccc4ccc1c2c34
+Results (2)
+CHEMBL542160
+CHEMBL1191110
+Query: CHEMBL556385 - Cl.O=C(O)CCCC1(Cc2ccncc2)c2ccccc2N(c2ccccc2)C1=O
+Results (2)
+CHEMBL556385
+CHEMBL1196293
+Query: CHEMBL561333 - CCCCc1ccc(-c2cc(-c3cn([C@H]4C[C@H](OC(C)=O)[C@@H](COC(C)=O)O4)c(=O)[nH]c3=O)on2)cc1
+Results (1)
+CHEMBL561333
+Query: CHEMBL1367834 - COc1cc(OC)c(-c2cc(C(=O)NCc3ccc(F)cc3)c3c(n[nH]c3-c3ccccc3)n2)cc1OC
+Results (1)
+CHEMBL1367834
+Query: CHEMBL239670 - O=[N+]([O-])c1ccc(CSc2nc(Cl)nc3c2ncn3[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)cc1
+Results (1)
+CHEMBL239670
+Query: CHEMBL1414483 - CCOCCCNc1[nH]cnc2c3ccccc3nc1-2
+Results (1)
+CHEMBL1414483
+Query: CHEMBL108387 - COC(=O)[C@H]1O[C@@H](Oc2ccc([C@@H]3[C@@H](CC[C@H](OC(C)=O)c4ccc(F)cc4)C(=O)N3c3ccc(F)cc3)cc2)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@@H]1OC(C)=O
+Results (1)
+CHEMBL108387
+Query: CHEMBL1345148 - CC(C)(O)C(=O)O
+Results (1)
+CHEMBL1345148
+Query: CHEMBL591489 - NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1
+Results (1)
+CHEMBL591489
+Query: CHEMBL1508064 - CN(C)S(=O)(=O)c1cccc(NC(=O)COC(=O)c2ccc3c(c2)OCO3)c1
+Results (1)
+CHEMBL1508064
+Query: CHEMBL325205 - [Cl-].CC[C@H]1C=CCC[C@@]2(C[C@@H]3CC[C@@H]4[C@H](C(=O)OC/C=C/c5ccccc5)[C@]5(CCC[C@@H](C)O5)NC(=[N+]43)N2)O1
+Results (4)
+CHEMBL1180106
+CHEMBL1183945
+CHEMBL113656
+CHEMBL325205
+Query: CHEMBL1578570 - CC(=O)c1c(C)n(Cc2ccccc2)c(C)c1C(C)=O
+Results (1)
+CHEMBL1578570
+Query: CHEMBL524911 - c1ccc(COc2cncc(N3C[C@H]4CNC[C@H]4C3)c2)cc1
+Results (1)
+CHEMBL524911
+Query: CHEMBL1570410 - O=C(COC(=O)C1CCC1)NCc1ccccc1Cl
+Results (1)
+CHEMBL1570410
+Query: CHEMBL1422546 - COc1ccc(N=C2SC(CC(=O)Nc3ccccc3)C(=O)N2CC2CCCO2)cc1
+Results (1)
+CHEMBL1422546
+Query: CHEMBL1934375 - O=C1NC(=S)N/C1=C/c1csc(-c2ccc3c(c2)COC3=O)n1
+Results (1)
+CHEMBL1934375
+Query: CHEMBL1549884 - CCOC(=O)C(O)(CC(=O)c1ccc(OC)cc1)C(F)(F)F
+Results (1)
+CHEMBL1549884
+Query: CHEMBL2018140 - O=C1/C(=C/c2ccc(O)c(Br)c2)OC(=S)N1c1ccc(Cl)cc1
+Results (1)
+CHEMBL2018140
+Query: CHEMBL1464892 - COc1ccc(C(=O)c2ccc([N+](=O)[O-])cc2)cc1S(=O)(=O)N1CCC(C(=O)O)CC1
+Results (1)
+CHEMBL1464892
+Query: CHEMBL175201 - NCC(=O)CN
+Results (1)
+CHEMBL175201
+Query: CHEMBL573796 - COc1ccc(CCNC(=O)c2nn(-c3ccc(Cl)cc3Cl)c(-n3c(C)ccc3C)c2C)cc1Cl
+Results (1)
+CHEMBL573796
+Query: CHEMBL492531 - CC(C)[C@H](NS(=O)(=O)c1ccc2c(c1)oc1ccc(NC(=O)Oc3ccc(F)cc3)cc12)C(=O)O
+Results (1)
+CHEMBL492531
+Query: CHEMBL2368254 - N[C@H]1C[C@H](c2c[nH]c3ccc(Oc4ccccc4)cc32)C1
+Results (1)
+CHEMBL2368254
+Query: CHEMBL532784 - O=C(Nc1ccc(OC2CCN(Cc3ccc(F)cc3)C2)c(Cl)c1)c1ccccc1
+Results (1)
+CHEMBL532784
+Query: CHEMBL2360750 - C[C@@H](CO)N1C[C@@H](C)[C@H](CN(C)S(=O)(=O)c2ccccc2F)OCc2ccccc2-c2c3ccccc3n(C)c2C1=O
+Results (1)
+CHEMBL2360750
+Query: CHEMBL1397196 - COc1cccc(C2C(C)CCC3C(=O)N(C)C(C(C)C)C(=O)N32)c1
+Results (1)
+CHEMBL1397196
+Query: CHEMBL1352443 - CCOC(=O)c1ccc(NC(=O)c2cc3ccccc3o2)cc1
+Results (1)
+CHEMBL1352443
+Query: CHEMBL1627413 - C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](C(=O)OCCF)[C@@H]2O
+Results (1)
+CHEMBL1627413
+Query: CHEMBL380917 - CCC1=C(C)C(=O)[C@](C)(CN2c3ccccc3[C@]3(O)CCO[C@H]23)C1=O
+Results (1)
+CHEMBL380917
+Query: CHEMBL230922 - Cc1c(CCCC(=O)N2CCOCC2)c2cc(Cl)ccc2n1Cc1ccccc1
+Results (1)
+CHEMBL230922
+Query: CHEMBL105512 - CCCN(CCC)C1CCc2nc(N)sc2C1
+Results (1)
+CHEMBL105512
+Query: CHEMBL2017833 - O=C(CN1c2ccccc2-n2c(-c3ccccc3)nnc2[C@H](Cc2n[nH]c3ccccc32)C1=O)N1CCCCC1Cc1ccccc1
+Results (1)
+CHEMBL2017833
+Query: CHEMBL1900518 - COc1cccc(-c2cc3nc(C)c(C)c(N4CCN(C(=O)c5ccoc5)CC4)n3n2)c1
+Results (1)
+CHEMBL1900518
+Query: CHEMBL1364853 - Cc1c2cc3c(cc2oc(=O)c1CCC(=O)N1CCC(C(=O)O)(c2ccccc2)CC1)oc1c3CCCC1
+Results (1)
+CHEMBL1364853
+Query: CHEMBL1090210 - O=S(=O)(N[C@@H]1CC[C@@]2(S(=O)(=O)c3ccc(Cl)cc3)c3c(F)ccc(F)c3OC[C@H]2C1)C1CC1
+Results (1)
+CHEMBL1090210
+Query: CHEMBL184568 - CCOc1ccc(-c2cc(C#N)ccc2COCc2cncn2Cc2ccc(C#N)cc2)cc1
+Results (1)
+CHEMBL184568
+Query: CHEMBL426572 - O=C(NO)C(Cc1ccccc1)C(=O)N(CCc1ccccc1)Cc1ccccc1
+Results (1)
+CHEMBL426572
+Query: CHEMBL451 - CNC1=Nc2ccc(Cl)cc2C(c2ccccc2)=[N+]([O-])C1
+Results (2)
+CHEMBL1200703
+CHEMBL451
+Query: CHEMBL1349580 - COc1ccccc1N1CCN(CC(=O)c2c(C)n(C)c3ccccc32)CC1
+Results (1)
+CHEMBL1349580
+Query: CHEMBL1921936 - C[C@@](C(=O)O[C@H]1C[N+]2(CCCOc3ccc(F)cc3)CCC1CC2)(c1ccccc1)N1CCCCC1
+Results (1)
+CHEMBL1921936
+Query: CHEMBL1879695 - COc1ccc(CC(=O)Nc2cc(S(C)(=O)=O)ccc2Cl)cc1S(=O)(=O)N1CCOCC1
+Results (1)
+CHEMBL1879695
+Query: CHEMBL232284 - Cn1cncc1CN1CC(N(CC(=O)NC(C)(C)C)S(=O)(=O)CCN2C(=O)c3ccccc3C2=O)Cc2cc(C#N)ccc21
+Results (1)
+CHEMBL232284
+Query: CHEMBL1609419 - CC(=O)OCCNc1cc(Sc2nc3ccccc3[nH]2)c2nonc2c1[N+](=O)[O-]
+Results (1)
+CHEMBL1609419
+Query: CHEMBL604338 - Cc1cc(=O)oc2c3c(ccc12)oc(C(=O)c1ccccc1)c3-c1ccc(Cl)cc1
+Results (1)
+CHEMBL604338
+Query: CHEMBL53088 - CC1=NC(C)=C([N+](=O)[O-])C(c2ncccc2[N+](=O)[O-])/C1=C(/O)OCCc1ccccc1
+Results (1)
+CHEMBL53088
+Query: CHEMBL1376570 - O=C(Nc1ccon1)c1cc2ccccc2oc1=O
+Results (1)
+CHEMBL1376570
+Query: CHEMBL167879 - C/C=C/c1cn([C@H]2CC(O)C(CO)S2)c(=O)[nH]c1=O
+Results (1)
+CHEMBL167879
+Query: CHEMBL1347728 - O=C(NCCCn1ccnc1)C(=O)NCC1OCCCN1S(=O)(=O)c1ccc(F)cc1
+Results (1)
+CHEMBL1347728
+Query: CHEMBL2009986 - N=C(NO)N/N=C\c1ccccc1O
+Results (2)
+CHEMBL1160853
+CHEMBL2009986
+Query: CHEMBL1900919 - COc1ccc(C(O)Cc2nccn2C)cc1
+Results (1)
+CHEMBL1900919
+Query: CHEMBL551224 - CC1C(=NOCc2ccccc2)C(C)C(c2ccccc2)NC1c1ccccc1
+Results (1)
+CHEMBL551224
+Query: CHEMBL223428 - CN(C)c1ccc2c(c1)OC(N)=C(C#N)C2c1cccc(OC(F)(F)F)c1
+Results (1)
+CHEMBL223428
+Query: CHEMBL1313490 - Cc1ccnc(Cc2ccccc2)n1
+Results (1)
+CHEMBL1313490
+Query: CHEMBL57577 - COc1cc(F)ccc1NC(=O)NC1CC2CCC(C1)N2C
+Results (1)
+CHEMBL57577
+Query: CHEMBL2110737 - CCCC(=O)O[C@H]1CN2CC[C@H](O)[C@@H]2[C@@H](O)[C@@H]1O
+Results (2)
+CHEMBL2105801
+CHEMBL2110737
+Query: CHEMBL1529002 - COC(=O)c1cccc(N2C(=O)c3ccccc3S2(=O)=O)c1
+Results (1)
+CHEMBL1529002
+Query: CHEMBL1411791 - O=C(COc1ccc(Cl)cc1)N1CCCCCCC1
+Results (1)
+CHEMBL1411791
+Query: CHEMBL1412057 - CCOC(=O)c1nn(-c2ccc3c(c2)OCCO3)cc1O
+Results (1)
+CHEMBL1412057
+Query: CHEMBL204513 - CN(Cc1ccc(-n2cnn(Cc3ccc(Br)cc3F)c2=O)cc1)CC(O)(Cn1cncn1)c1ccc(F)cc1F
+Results (1)
+CHEMBL204513
+Query: CHEMBL1971295 - N#Cc1c2ccccc2c(Cc2ccc3c(c2)OCCOCCOCCOCCOCCO3)c2ccccc12
+Results (1)
+CHEMBL1971295
+Query: CHEMBL54775 - Cc1ccc2c(c1Br)CCN2C(=O)Nc1ccc(Oc2cccnc2C)nc1
+Results (1)
+CHEMBL54775
+Query: CHEMBL1404895 - COc1ccc(-c2cn3c(C)c(C(=O)N4CCCc5ccccc54)sc3n2)cc1
+Results (1)
+CHEMBL1404895
+Query: CHEMBL1194587 - N=C(N)N/N=C/c1c(Cl)nc2sccn12
+Results (2)
+CHEMBL552905
+CHEMBL1194587
+Query: CHEMBL2337007 - Cc1cccnc1NC(=O)c1ccc(Cl)nc1
+Results (1)
+CHEMBL2337007
+Query: CHEMBL1910606 - Cl.Cc1cn2c(/C=N\NC(=N)N)c(-c3ccc(F)c([N+](=O)[O-])c3)nc2s1
+Results (2)
+CHEMBL1910606
+CHEMBL1962506
+Query: CHEMBL2347958 - CN(C)C/C=C/C(=O)Nc1cc2c(cc1O[C@@H]1CCOC1)ncnc2Nc1ccc(F)c(Cl)c1
+Results (3)
+CHEMBL1173655
+CHEMBL2132902
+CHEMBL2347958
+Query: CHEMBL2146527 - COc1cc2c3cc(OC)c(OC)cc3c3c(c2cc1OC)CCN(Cc1ccc([N+](=O)[O-])cc1)C3
+Results (1)
+CHEMBL2146527
+Query: CHEMBL355216 - OCC(CO)OCn1c(S)nc2cc(Cl)c(Cl)cc21
+Results (1)
+CHEMBL355216
+Query: CHEMBL1542197 - C/C(NNC(=O)c1ccccc1)=C1\C(=O)NC(=O)N(C2CCCCC2)C1=O
+Results (1)
+CHEMBL1542197
+Query: CHEMBL576130 - OC[C@H]1O[C@@H](n2ccc3c2ncnc3-c2ccc[se]2)[C@H](O)[C@@H]1O
+Results (1)
+CHEMBL576130
+Query: CHEMBL2324818 - COc1ccc(/C=N/NC(=S)N[C@@H]2O[C@H](COC(C)=O)[C@H](OC(C)=O)[C@H](OC(C)=O)[C@H]2OC(C)=O)cc1O
+Results (1)
+CHEMBL2324818
+Query: CHEMBL532170 - Nc1nc(N)c2c3ccn(CCCC4CCCNC4)c3ccc2n1
+Results (2)
+CHEMBL532170
+CHEMBL580528
+Query: CHEMBL1590999 - CC1CCCc2sc3nc(SCC(=O)c4ccc(Br)cc4)nc(N)c3c21
+Results (1)
+CHEMBL1590999
+Query: CHEMBL2426645 - CC(C)(C(=O)Nc1nncs1)C(c1ccccc1)c1ccc2c(cnn2-c2ccc(Cl)cc2)c1
+Results (1)
+CHEMBL2426645
+Query: CHEMBL380525 - c1nc(CC2CCN(CCCOc3cccc(CN4CCCCC4)c3)CC2)c[nH]1
+Results (1)
+CHEMBL380525
+Query: CHEMBL1433613 - CC(C)CCNC(=O)CSCc1cnn(-c2ccccc2)c1-n1cccc1
+Results (1)
+CHEMBL1433613
+Query: CHEMBL437009 - CCCCCO[C@@H]1[C@@H]2[C@@H](OC(C)=O)[C@]3(OC2(C)C)[C@](C)(O)CC[C@H](OC(C)=O)[C@@]3(COC(C)=O)[C@@H]1OC(=O)c1ccccc1
+Results (1)
+CHEMBL437009
+Query: CHEMBL424519 - COC1C=COC2(C)Oc3c(c4c(O)c(N5CCC(O)CC5)c(c(O)c4c(O)c3C)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C)C2=O
+Results (1)
+CHEMBL424519
+Query: CHEMBL32857 - COc1cc(OC)c(C(=O)/C=C/c2ccc([N+](=O)[O-])cc2)c(OC)c1
+Results (1)
+CHEMBL32857
+Query: CHEMBL12559 - NCCCC(=O)OCC(O)CO.O=C(O)C(F)(F)F
+Results (1)
+CHEMBL12559
+Query: CHEMBL451798 - CS(=O)(=O)c1ccc(Nc2ncnc(N3CCC(c4nc(C5CC5)no4)CC3)c2[N+](=O)[O-])cc1
+Results (1)
+CHEMBL451798
+Query: CHEMBL314715 - COC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1ccccc1)NC(=O)OCc1ccccc1
+Results (3)
+CHEMBL314715
+CHEMBL129732
+CHEMBL421658
+Query: CHEMBL1331158 - CCOC(=O)CN1C(=O)C2Cc3ccccc3CN2C1=S
+Results (1)
+CHEMBL1331158
+Query: CHEMBL1819563 - CCOC(=O)[C@@H]1CCCN(C(=O)CCC(=O)N(CC(C)(C)C)c2c(OC)cc(Cl)cc2[C@H](O)c2ccccc2OC)C1
+Results (4)
+CHEMBL1819561
+CHEMBL1819562
+CHEMBL1819563
+CHEMBL1819564
+Query: CHEMBL1300753 - Cc1nnc(SCC(=O)Nc2nccs2)o1
+Results (1)
+CHEMBL1300753
+Query: CHEMBL1500837 - O=C(CSc1ccc2ccccc2n1)NCc1ccc2c(c1)OCO2
+Results (1)
+CHEMBL1500837
+Query: CHEMBL1583823 - Cc1c2cc(C)ccc2oc1C(=O)NC1CCS(=O)(=O)C1
+Results (1)
+CHEMBL1583823
+Query: CHEMBL2000056 - O=C1N[C@@H](c2c[nH]c3cc(Br)ccc32)C(=O)N[C@H]1c1c[nH]c2cc(Br)ccc21
+Results (1)
+CHEMBL2000056
+Query: CHEMBL421059 - CCCN1CCN(c2nc3ccccc3n3cccc23)CC1
+Results (1)
+CHEMBL421059
+Query: CHEMBL1516455 - Cc1ccc(S(=O)(=O)CC(=O)NC(C)c2ccccc2)cc1
+Results (1)
+CHEMBL1516455
+Query: CHEMBL1907256 - CN(CCN1CCC2(CC1)C(=O)NCN2c1ccccc1)C(=O)c1ccc2ccccc2c1
+Results (1)
+CHEMBL1907256
+Query: CHEMBL1514528 - CN(C)C(CNC(=O)CCNC(=O)c1ccccc1Cl)c1ccco1
+Results (1)
+CHEMBL1514528
+Query: CHEMBL192284 - Cc1ccc(-c2ccc(C(=O)N=C(N)N)o2)cc1
+Results (1)
+CHEMBL192284
+Query: CHEMBL1378674 - CC1CC(=NNc2ccc([N+](=O)[O-])cc2[N+](=O)[O-])CC(C)(C)C1
+Results (1)
+CHEMBL1378674
+Query: CHEMBL458401 - Cc1cc(C)c(C/C(=N/O)c2cc3ccccc3o2)c(C)c1
+Results (1)
+CHEMBL458401
+Query: CHEMBL353086 - Cc1cc(SC2=C(O)OC(CCc3ccccc3)(C(C)C)CC2=O)c(C(C)(C)C)cc1NS(=O)(=O)c1cccnc1
+Results (1)
+CHEMBL353086
+Query: CHEMBL1643522 - CN1CCC(n2cc(-c3nnc(-c4ccccc4)o3)nn2)CC1
+Results (1)
+CHEMBL1643522
+Query: CHEMBL74841 - COC(=O)C(=O)Nc1cccc(COc2ccc(C(C)=O)c(F)c2)c1
+Results (1)
+CHEMBL74841
+Query: CHEMBL1672758 - CCCCc1nc2oc(=O)cc(CC)c2c(=O)[nH]1
+Results (1)
+CHEMBL1672758
+Query: CHEMBL1488819 - Cn1c2ncn(C[C@@H](O)CO)c2c(=O)n(C)c1=O
+Results (2)
+CHEMBL1752
+CHEMBL1488819
+Query: CHEMBL2431850 - Cc1nc2c(c(N(C)c3ccccc3)n1)C[C@H](C)C2
+Results (2)
+CHEMBL2431842
+CHEMBL2431850
+Query: CHEMBL433520 - CCN(CC)CC(O)CNc1cc2c(cn1)ncnc2Nc1cccc(Br)c1
+Results (1)
+CHEMBL433520
+Query: CHEMBL169322 - CC(C)CN1CCO[C@@H]2c3cc4c(cc3CC[C@H]21)CCO4
+Results (1)
+CHEMBL169322
+Query: CHEMBL1476348 - COc1ncc2nc(C)c(=O)n(-c3ccccc3)c2n1
+Results (1)
+CHEMBL1476348
+Query: CHEMBL88288 - CCCCC(=O)NC1c2cc(C#N)ccc2OC(C)(C)[C@H]1O
+Results (1)
+CHEMBL88288
+Query: CHEMBL407394 - Nc1nc(F)nc2c1ncn2[C@H]1CC[C@@H](CO)C1
+Results (1)
+CHEMBL407394
+Query: CHEMBL297533 - Cc1nc(C(C)C)n2c1c(-c1ccccc1)cnc2Nc1cc[nH]n1
+Results (1)
+CHEMBL297533
+Query: CHEMBL1317110 - COc1ccccc1C(=O)NC(=O)Nc1ccc(-n2nc(C(F)(F)F)cc2C(F)(F)F)cc1
+Results (1)
+CHEMBL1317110
+Query: CHEMBL1978680 - Cc1ccc(C2=Nn3c(=O)c4cc(-c5ccccc5)sc4nc3SC2)cc1
+Results (1)
+CHEMBL1978680
+Query: CHEMBL1352104 - O=C(Nc1ccc(N2CCOCC2)cc1N1CCOCC1)c1cccc([N+](=O)[O-])c1
+Results (1)
+CHEMBL1352104
+Query: CHEMBL603273 - O=[N+]([O-])c1ccc2oc(SCc3ccc(CSc4nc5cc([N+](=O)[O-])ccc5o4)cc3)nc2c1
+Results (1)
+CHEMBL603273
+Query: CHEMBL596646 - COc1cc(/C=C\C(=O)Nc2c3c(nn2-c2ccc(F)cc2)CSC3)cc(OC)c1OC
+Results (2)
+CHEMBL596646
+CHEMBL599961
+Query: CHEMBL285585 - O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@@H]1C(=O)N[C@H]1OC(=O)c1ccccc1)OCc1ccccc1
+Results (1)
+CHEMBL285585
+Counts: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 3 1 1 1 1 5 1 1 1 2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 2 1 1 2 1 1 1 1 2 1 2 1 1 2 1 1 1 3 2 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 6 1 1 1 2 3 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1 1 4 2 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 5 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 2 1 2 1 1 1 1 1 2 1 2 2 1 1 2 1 1 1 1 1 1 2 5 4 1 5 2 2 1 1 1 1 3 1 2 1 1 1 1 1 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 2 1 2 2 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 7 1 4 2 2 2 1 1 2 1 1 2 1 2 1 8 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 12 1 1 1 1 1 1 1 3 1 1 2 1 1 1 1 1 2 1 2 1 1 1 1 1 1 5 2 1 1 1 11 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 1 1 1 1 1 2 1 1 1 2 2 1 1 1 1 2 1 1 1 1 1 1 1 3 1 2 1 9 2 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2 1 1 1 2 1 1 1 1 2 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 4 3 1 1 1 1 1 1 1 2 1 1 1 1 2 6 1 1 1 1 1 1 1 1 1 2 2 1 1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 3 1 1 1 1 2 1 1 1 1 2 1 1 1 1 1 2 1 1 1 1 1 1 2 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1 1 1 4 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 9 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 7 1 1 1 1 1 1 2 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 3 1 1 1 3 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 1 2 14 1 1 1 2 1 1 4 1 1 1 1 1 1 1 1 1 1 1 3 6 1 1 1 1 1 1 1 1 3 1 1 1 1 1 2 1 1 1 1 1 2 1 2 1 1 1 1 1 1 1 2 1 1 1 3 1 2 1 1 1 1 1 2 2 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 1 1 9 1 1 2 2 1 1 1 1 1 1 1 1 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 2 3 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 3 1 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 1 1 1 1 1 1 1 1 1 1 2 1
+Mean: 1.296
+Median: 1.0
+Times: 0.113726854324 0.0388350486755 0.0482201576233 0.068324804306 0.0547790527344 0.0378310680389 0.0453479290009 0.0324540138245 0.0600190162659 0.0553891658783 0.0668640136719 0.0775589942932 0.0283341407776 0.052295923233 0.047091960907 0.0585339069366 0.0466289520264 0.0539498329163 0.0551300048828 0.08016705513 0.0542328357697 0.0537230968475 0.0474720001221 0.0319809913635 0.0466389656067 0.0324399471283 0.0509510040283 0.0424869060516 0.0472180843353 0.0568900108337 0.0563290119171 0.058641910553 0.0527820587158 0.0314819812775 0.058436870575 0.0379190444946 0.0280351638794 0.0986721515656 0.0634310245514 0.0580689907074 0.0633130073547 0.064327955246 0.0582940578461 0.040326833725 0.0494990348816 0.0418801307678 0.0631759166718 0.0688178539276 0.040962934494 0.0686960220337 0.0853011608124 0.082211971283 0.051586151123 0.0718548297882 0.0801389217377 0.025130033493 0.0877039432526 0.0725581645966 0.0738689899445 0.0548229217529 0.0951879024506 0.063807964325 0.0621981620789 0.0507199764252 0.0830879211426 0.0513808727264 0.0597498416901 0.327179908752 0.0881519317627 0.0795950889587 0.0606169700623 0.060604095459 0.0299000740051 0.0543320178986 0.0646998882294 0.0609710216522 0.0475599765778 0.0188949108124 0.0810768604279 0.0333070755005 0.0668981075287 0.0683541297913 0.0853931903839 0.0540678501129 0.0492758750916 0.0529677867889 0.0641958713531 0.0947091579437 0.0778188705444 0.0591559410095 0.0584602355957 0.019700050354 0.0589010715485 0.0471200942993 0.0626969337463 0.0594971179962 0.0612180233002 0.0246860980988 0.0494759082794 0.0890741348267 0.103025197983 0.0776388645172 0.052393913269 0.0661997795105 0.0479278564453 0.04798412323 0.0493800640106 0.0500781536102 0.040834903717 0.0526070594788 0.0888848304749 0.0638909339905 0.0549490451813 0.0289659500122 0.0505731105804 0.0528769493103 0.0634219646454 0.0468349456787 0.0549130439758 0.0653040409088 0.0730118751526 0.0527060031891 0.0537629127502 0.0785138607025 0.13293504715 0.062157869339 0.077898979187 0.0299029350281 0.0429108142853 0.0706429481506 0.0627179145813 0.058886051178 0.0629999637604 0.0395421981812 0.068470954895 0.0649659633636 0.0510609149933 0.0427119731903 0.0637860298157 0.0553228855133 0.0597128868103 0.0448939800262 0.0242810249329 0.0580170154572 0.0603499412537 0.0714440345764 0.0569651126862 0.0531392097473 0.0575590133667 0.0597450733185 0.074481010437 0.0426759719849 0.0598239898682 0.0354580879211 0.0580489635468 0.0621092319489 0.0354650020599 0.0568878650665 0.0537710189819 0.0672459602356 0.0515100955963 0.0458028316498 0.0606150627136 0.0606851577759 0.067656993866 0.0563859939575 0.0661659240723 0.0773048400879 0.084725856781 0.0681331157684 0.0577030181885 0.120980024338 0.0581469535828 0.0695879459381 0.0511689186096 0.084007024765 0.0543849468231 0.0888628959656 0.0633101463318 0.0689709186554 0.0633549690247 0.0633320808411 0.063905954361 0.0633301734924 0.0268981456757 0.0600428581238 0.0909070968628 0.0609180927277 0.0648510456085 0.0416610240936 0.054790019989 0.0842251777649 0.45557808876 0.0536530017853 0.0790421962738 0.0567889213562 0.0566091537476 0.0582609176636 0.0295848846436 0.0531589984894 0.0672228336334 0.0654611587524 0.0552160739899 0.0472769737244 0.0633459091187 0.0609090328217 0.0683870315552 0.0457799434662 0.0626928806305 0.0404539108276 0.0526812076569 0.119922876358 0.0584971904755 0.0682039260864 0.0594770908356 0.123585939407 0.0617589950562 0.0602059364319 0.0551609992981 0.056324005127 0.0637848377228 0.0529220104218 0.0588610172272 0.0836429595947 0.0394320487976 0.0376470088959 0.0613181591034 0.0492208003998 0.048287153244 0.059103012085 0.0518658161163 0.0545749664307 0.0403170585632 0.0531480312347 0.0531539916992 0.0491678714752 0.0847809314728 0.0638909339905 0.0689477920532 0.0664050579071 0.0637249946594 0.0508940219879 0.0400259494781 0.0420999526978 0.105556964874 0.0780808925629 0.0318560600281 0.073912858963 0.0417799949646 0.0707471370697 0.0553741455078 0.0605130195618 0.0715620517731 0.0461349487305 0.0652139186859 0.0633130073547 0.0757908821106 0.0622251033783 0.0325818061829 0.0670261383057 0.0791809558868 0.0586330890656 0.0742340087891 0.0619151592255 0.0273270606995 0.0651190280914 0.0297789573669 0.0392968654633 0.0779280662537 0.0598080158234 0.0443930625916 0.049674987793 0.0731129646301 0.048760175705 0.0567011833191 0.0195121765137 0.066134929657 0.0491909980774 0.0730860233307 0.0748279094696 0.0606181621552 0.0508699417114 0.0503511428833 0.0517809391022 0.0670609474182 0.0574240684509 0.0660059452057 0.0591869354248 0.0710170269012 0.0662169456482 0.0699369907379 0.0677840709686 0.0421230792999 0.0599339008331 0.0598878860474 0.0573251247406 0.0514209270477 0.0673470497131 0.0770070552826 0.059935092926 0.0495409965515 0.0518341064453 0.0583829879761 0.0564661026001 0.0530009269714 0.0606119632721 0.047562122345 0.0749289989471 0.0635981559753 0.0491001605988 0.0578229427338 0.054025888443 0.0791921615601 0.0700218677521 0.0545320510864 0.0669980049133 0.033882856369 0.0560760498047 0.0493230819702 0.0522708892822 0.0616250038147 0.0595650672913 0.0523188114166 0.0501289367676 0.0468850135803 0.0569889545441 0.0266890525818 0.0440258979797 0.0657651424408 0.0956239700317 0.0861129760742 0.0515131950378 0.0671639442444 0.0439422130585 0.0641148090363 0.0536911487579 0.0443000793457 0.199868917465 0.0709669589996 0.0643110275269 0.0467400550842 0.0616869926453 0.0509738922119 0.0695059299469 0.0690951347351 0.0496869087219 0.0655629634857 0.0698988437653 0.0638430118561 0.0679709911346 0.040146112442 0.0551099777222 0.0582039356232 0.0545518398285 0.0499880313873 0.0581960678101 0.0482189655304 0.0620970726013 0.0611369609833 0.0574519634247 0.0287389755249 0.0840950012207 0.063915014267 0.05739402771 0.0715420246124 0.0739550590515 0.048280954361 0.0439779758453 0.0651550292969 0.0304408073425 0.0379958152771 0.0565040111542 0.0579879283905 0.058963060379 0.0459010601044 0.0428609848022 0.0864639282227 0.0503211021423 0.0638558864594 0.0437848567963 0.0606188774109 0.0588037967682 0.0521340370178 0.0489349365234 0.0603151321411 0.0539689064026 0.0528700351715 0.0544891357422 0.084568977356 0.0546050071716 0.0587151050568 0.0386691093445 0.052638053894 0.057694196701 0.0509989261627 0.0560250282288 0.0876150131226 0.0472860336304 0.0581641197205 0.0479319095612 0.0847218036652 0.0399990081787 0.0724771022797 0.0291650295258 0.0611460208893 0.071986913681 0.0566470623016 0.0499229431152 0.0732140541077 0.0675039291382 0.0613160133362 0.0563712120056 0.0615770816803 0.0544710159302 0.0426940917969 0.0454609394073 0.0519070625305 0.0532648563385 0.0464129447937 0.110510110855 0.0628020763397 0.0627179145813 0.0561149120331 0.0584490299225 0.0402188301086 0.0572459697723 0.0600399971008 0.0423769950867 0.0577199459076 0.0474708080292 0.0581600666046 0.0318410396576 0.0581641197205 0.055272102356 0.0717520713806 0.0363550186157 0.0703370571136 0.0536720752716 0.0385010242462 0.051589012146 0.0631971359253 0.0514380931854 0.0568799972534 0.0655581951141 0.0588550567627 0.0391659736633 0.0459520816803 0.0667190551758 0.0492258071899 0.048898935318 0.0740640163422 0.0412468910217 0.0384600162506 0.0535690784454 0.0360980033875 0.0443539619446 0.0618541240692 0.0513138771057 0.128404140472 0.0411949157715 0.0629489421844 0.0652310848236 0.0490448474884 0.0864610671997 0.0461950302124 0.0666298866272 0.0710711479187 0.0421600341797 0.0513300895691 0.0729560852051 0.0333530902863 0.0570170879364 0.0482800006866 0.0755059719086 0.0522010326385 0.0468990802765 0.0584478378296 0.0602478981018 0.0539360046387 0.058464050293 0.064385175705 0.0597519874573 0.0448179244995 0.0669870376587 0.0789449214935 0.0627830028534 0.0590870380402 0.037223815918 0.0580010414124 0.061292886734 0.038782119751 0.0485517978668 0.0657870769501 0.0413298606873 0.043445110321 0.0538699626923 0.0588440895081 0.052050113678 0.0601029396057 0.0679180622101 0.0639917850494 0.0577349662781 0.0440430641174 0.076425075531 0.0389180183411 0.0659251213074 0.0655698776245 0.061861038208 0.0442361831665 0.0976839065552 0.0366220474243 0.0801758766174 0.0523850917816 0.0475080013275 0.0726268291473 0.0620408058167 0.054563999176 0.0637340545654 0.0593459606171 0.0496098995209 0.0306951999664 0.0390532016754 0.0616240501404 0.0476009845734 0.0583369731903 0.0484750270844 0.0550479888916 0.0658130645752 0.056193113327 0.0459370613098 0.0470509529114 0.0544250011444 0.0548710823059 0.0447509288788 0.069118976593 0.0491659641266 0.0562560558319 0.0498139858246 0.0545909404755 0.0630080699921 0.0521559715271 0.062117099762 0.0619461536407 0.0500411987305 0.0502059459686 0.044291973114 0.0590391159058 0.0634431838989 0.0438668727875 0.057569026947 0.057412147522 0.0596160888672 0.0627799034119 0.067076921463 0.0294439792633 0.0694389343262 0.0606660842896 0.0577371120453 0.0373959541321 0.052540063858 0.0626711845398 0.0737910270691 0.0303509235382 0.106547832489 0.0559089183807 0.0721559524536 0.0691878795624 0.0420460700989 0.0595879554749 0.0575158596039 0.0949048995972 0.0579841136932 0.0389850139618 0.0538589954376 0.0442979335785 0.0460429191589 0.0611128807068 0.0697848796844 0.0630989074707 0.059720993042 0.0483610630035 0.0524799823761 0.0445110797882 0.0679528713226 0.0890960693359 0.0446720123291 0.0749781131744 0.0510559082031 0.0625319480896 0.0569679737091 0.06165599823 0.0508229732513 0.0747020244598 0.0972149372101 0.0523550510406 0.0563888549805 0.0610830783844 0.0543479919434 0.0563900470734 0.087504863739 0.0609040260315 0.0496301651001 0.0514578819275 0.0396912097931 0.0501730442047 0.066722869873 0.0435199737549 0.0677402019501 0.0803561210632 0.0565960407257 0.0425369739532 0.0636351108551 0.0684289932251 0.060898065567 0.0434169769287 0.0504479408264 0.0590739250183 0.370926856995 0.0531849861145 0.0241408348083 0.0484390258789 0.0798661708832 0.0664751529694 0.0411219596863 0.0409259796143 0.0506889820099 0.0517930984497 0.046658039093 0.0574429035187 0.028076171875 0.0391960144043 0.0673429965973 0.0642538070679 0.0377688407898 0.0610659122467 0.290530920029 0.0476598739624 0.0541520118713 0.0467820167542 0.0620470046997 0.0612821578979 0.0702860355377 0.0763590335846 0.0631279945374 0.0558788776398 0.0597531795502 0.0615930557251 0.0558440685272 0.0644381046295 0.0592889785767 0.0823791027069 0.0796971321106 0.0652079582214 0.0535600185394 0.0880961418152 0.0537109375 0.0606391429901 0.050938129425 0.0320498943329 0.0545840263367 0.0837199687958 0.0596570968628 0.0587658882141 0.0525410175323 0.0230989456177 0.0501270294189 0.0479981899261 0.0515580177307 0.0934710502625 0.0689899921417 0.066468000412 0.0557489395142 0.0345501899719 0.0539889335632 0.0726528167725 0.0780699253082 0.0599989891052 0.0463740825653 0.298283100128 0.062135219574 0.0453081130981 0.0707221031189 0.065505027771 0.0549550056458 0.0489220619202 0.0547120571136 0.0576429367065 0.0623428821564 0.062618970871 0.0593569278717 0.0798709392548 0.0326931476593 0.0521340370178 0.0463349819183 0.0443580150604 0.0572938919067 0.0557169914246 0.0611410140991 0.067234992981 0.0432848930359 0.0596318244934 0.0598540306091 0.0485048294067 0.057158946991 0.057079076767 0.0490469932556 0.0570120811462 0.0634911060333 0.0471119880676 0.0574171543121 0.0672249794006 0.0576031208038 0.0572140216827 0.0513918399811 0.0985419750214 0.0661520957947 0.0639441013336 0.0521790981293 0.0324649810791 0.0669090747833 0.0595209598541 0.0518200397491 0.0542199611664 0.0367259979248 0.0397019386292 0.0654690265656 0.0710210800171 0.0688140392303 0.0540528297424 0.0609312057495 0.072093963623 0.0576272010803 0.0715899467468 0.0524210929871 0.0622520446777 0.0517680644989 0.0497419834137 0.0439038276672 0.0457909107208 0.0665690898895 0.0513169765472 0.0589549541473 0.0718200206757 0.0546278953552 0.0494809150696 0.0265820026398 0.0854721069336 0.080069065094 0.0430760383606 0.0415380001068 0.0424890518188 0.047315120697 0.0623910427094 0.0531389713287 0.0343308448792 0.0589988231659 0.0582129955292 0.061733007431 0.0434069633484 0.055645942688 0.0537919998169 0.058874130249 0.0522701740265 0.0680711269379 0.0579750537872 0.0388729572296 0.0533299446106 0.0824329853058 0.0663528442383 0.0540280342102 0.0564880371094 0.0413219928741 0.0606310367584 0.0704448223114 0.0346479415894 0.07701587677 0.0453388690948 0.0522229671478 0.0533089637756 0.060720205307 0.0728960037231 0.0672211647034 0.0523509979248 0.0708270072937 0.0456340312958 0.036848783493 0.0572249889374 0.0747001171112 0.0483310222626 0.0372109413147 0.0472130775452 0.0785140991211 0.0866639614105 0.0509490966797 0.0557858943939 0.0465149879456 0.0841701030731 0.0666098594666 0.0502979755402 0.06653881073 0.0475721359253 0.0662610530853 0.0962109565735 0.0685000419617 0.0814738273621 0.0696008205414 0.0535118579865 0.0652279853821 0.0685670375824 0.0674619674683 0.0636310577393 0.0710291862488 0.0490429401398 0.0303781032562 0.074089050293 0.0488741397858 0.0622880458832 0.0557570457458 0.0577719211578 0.061546087265 0.0397109985352 0.116903066635 0.0418679714203 0.0403549671173 0.0874099731445 0.0483701229095 0.051017999649 0.0777380466461 0.217540979385 0.0686020851135 0.0682401657104 0.210175991058 0.0342538356781 0.0524220466614 0.0681710243225 0.0460479259491 0.0416610240936 0.0616397857666 0.0786509513855 0.053719997406 0.0503299236298 0.0485570430756 0.0630860328674 0.136249065399 0.0518629550934 0.0621750354767 0.0617427825928 0.0755729675293 0.0736870765686 0.0790810585022 0.0726461410522 0.0569100379944 0.0626540184021 0.0671298503876 0.0571269989014 0.0612289905548 0.0546200275421 0.0651071071625 0.0452978610992 0.0433340072632 0.0446560382843 0.149654150009 0.0577530860901 0.0562009811401 0.043890953064 0.0675880908966 0.058454990387 0.0733788013458 0.0613660812378 0.0532968044281 0.0510900020599 0.0511901378632 0.0598380565643 0.0529749393463 0.0416750907898 0.0379149913788 0.060310125351 0.0191600322723 0.0462260246277 0.0679759979248 0.0686831474304 0.0549070835114 0.0384328365326 0.0650210380554 0.0431649684906 0.0395550727844 0.066074848175 0.0444190502167 0.0525968074799 0.0787029266357 0.0674510002136 0.0806050300598 0.0581409931183 0.0764310359955 0.0257909297943 0.0666480064392 0.0651209354401 0.0353610515594 0.0455629825592 0.0503380298615 0.0541698932648 0.061644077301 0.0482220649719 0.0395040512085 0.0557949542999 0.053407907486 0.0235261917114 0.0682590007782 0.06285405159 0.0461831092834 0.0673489570618 0.0805270671844 0.0550282001495 0.0721981525421 0.0627481937408 0.0357758998871 0.0643398761749 0.0345931053162 0.0779740810394 0.0639491081238 0.0674388408661 0.0571050643921 0.0659930706024 0.0558669567108 0.0540859699249 0.0612280368805 0.0660240650177 0.0590951442719 0.0729229450226 0.0604131221771 0.0575342178345 0.0586240291595 0.0531361103058 0.0551061630249 0.0612938404083 0.0426969528198 0.0488572120667 0.0467710494995 0.056715965271 0.0417718887329 0.0580570697784 0.0306680202484 0.0527768135071 0.0958559513092 0.0517790317535 0.0745820999146 0.0436339378357 0.0664381980896 0.0655210018158 0.0388610363007 0.0465149879456 0.0633370876312 0.080913066864 0.0581121444702 0.0339710712433 0.0564270019531 0.0517609119415 0.0658509731293 0.0599410533905 0.0626139640808 0.0621001720428 0.0611848831177 0.0531280040741 0.0746810436249 0.0760509967804 0.0495181083679 0.0518369674683 0.062047958374 0.181121110916 0.050684928894 0.0862889289856 0.0435779094696 0.0624639987946 0.0438470840454 0.0452349185944 0.0561971664429 0.0503618717194 0.057715177536 0.057000875473 0.0465869903564 0.057501077652 0.0469059944153 0.0777690410614 0.0537281036377 0.0491709709167 0.0366098880768 0.041937828064 0.0425851345062 0.0664999485016 0.0401930809021 0.0445079803467 0.0661840438843 0.0398261547089 0.0506110191345 0.0623679161072 0.0471088886261 0.0624780654907 0.0504848957062 0.0610659122467 0.0651431083679
+Mean: 0.0600690462589
+Median: 0.0576151609421
+95th Percentile: 0.0853971362114
