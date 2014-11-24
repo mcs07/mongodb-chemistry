@@ -12,3 +12,10 @@ http://blog.rguha.net/?p=1300
 http://datablend.be/?p=254  
 http://datablend.be/?p=256  
 http://datablend.be/?p=265
+
+
+## Installation
+
+    brew install rdkit
+    pip install -r requirements.txt
+    
