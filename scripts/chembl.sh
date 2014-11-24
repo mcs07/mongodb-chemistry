@@ -4,7 +4,7 @@
 curl -o chembl_19.sdf.gz ftp://ftp.ebi.ac.uk//pub/databases/chembl/ChEMBLdb/releases/chembl_19/chembl_19.sdf.gz
 
 # Load chembl_19.sdf.gz into a MongoDB collection called chembl
-mchem load chembl_19.sdf.gz --coll chembl --id chembl_id
+mchem load chembl_19.sdf.gz --collection chembl --id chembl_id
 
 # Add fingerprints
 mchem addfp --collection chembl --fp morgan --radius 2
