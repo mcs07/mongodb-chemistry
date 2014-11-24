@@ -19,3 +19,12 @@ http://datablend.be/?p=265
     brew install rdkit
     pip install -r requirements.txt
     
+
+## Usage
+
+A simple example:
+
+    mchem load mymols.sdf
+    mchem addfp
+    mchem countfp
+    mchem similar O=C(Oc1ccccc1C(=O)O)C
