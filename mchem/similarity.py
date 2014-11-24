@@ -15,8 +15,6 @@ from __future__ import division
 import logging
 from math import ceil
 
-from rdkit import Chem
-
 
 log = logging.getLogger(__name__)
 

@@ -21,8 +21,6 @@ from bson import Binary
 import pymongo
 from rdkit import Chem
 
-from . import errors
-
 
 log = logging.getLogger(__name__)
 
