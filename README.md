@@ -18,6 +18,7 @@ http://datablend.be/?p=265
 
     brew install rdkit
     pip install -r requirements.txt
+    python setup.py install
     
 
 ## Usage
