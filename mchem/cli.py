@@ -15,7 +15,7 @@ import pymongo
 from rdkit import Chem
 
 from . import __version__
-from . import build, fps, similarity
+from . import build, fps, similarity, profile
 
 
 MONGODB_URI = 'mongodb://localhost:27017'
@@ -151,3 +151,20 @@ def similar(db, smiles, collection, threshold, fp, radius, length):
     results = similarity.similarity_search(mol, fingerprinter, fp_collection, threshold, count_collection)
     for result in results:
         print result['_id']
+
+
+@cli.command()
+@click.argument('test', type=click.Choice(['constraints', 'folding', 'sample']), required=True)
+@click.pass_obj
+def test(db, test):
+    """Run various profiling tests. Lots of hardcoded stuff here that needs fixing."""
+    click.echo('mchem.profile')
+    if test == 'constraints':
+        profile.test_constraints(db, 'all', reqbits=True, counts=True, rarest=True)
+        profile.test_constraints(db, 'counts', reqbits=False, counts=True, rarest=False)
+        profile.test_constraints(db, 'rarest', reqbits=True, counts=False, rarest=True)
+        profile.test_constraints(db, 'reqbits', reqbits=True, counts=False, rarest=False)
+    elif test == 'folding':
+        profile.test_folding(db)
+    elif test == 'sample':
+        profile.choose_sample(db)
