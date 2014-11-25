@@ -56,7 +56,7 @@ def build_postgres():
 
 
 def profile_postgres(db):
-    conn = psycopg2.connect("host=127.0.0.1 dbname=chembl user=postgres ")
+    conn = psycopg2.connect("host=127.0.0.1 dbname=chembl user=postgres")
     cur = conn.cursor()
     with open('../data/sample_chembl_1000.txt') as f:
         chembl_ids = f.read().strip().split('\n')

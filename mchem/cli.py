@@ -15,7 +15,7 @@ import pymongo
 from rdkit import Chem
 
 from . import __version__
-from . import build, fps, similarity, profile, plot, postgres
+from . import build, fps, similarity, profile, plot
 
 
 MONGODB_URI = 'mongodb://localhost:27017'
@@ -197,6 +197,7 @@ def results(db, test):
 @click.pass_obj
 def pg(db, test):
     """Build and benchmark PostgreSQL."""
+    from . import postgres
     click.echo('mchem.postgres')
     if test == 'build':
         postgres.build_postgres()
