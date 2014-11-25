@@ -109,6 +109,42 @@ def plot_folding(db):
     plt.savefig('img/folding.svg', dpi=100)  # facecolor='#f2f2f2'
 
 
+def plot_radius(db):
+    r2results = list(db.profile.radius.find({'radius': 2}).sort('threshold'))
+    r2thresholds = np.array([0] + [r['threshold'] for r in r2results])
+    r2discard = np.array([0] + [1 - r['mean_remaining'] / r['total'] for r in r2results])
+    #plt.plot(r2thresholds, r2discard, 'ow', markeredgewidth=1)
+    xfit = np.linspace(0, 1, 1000)
+    spl = interpolate.UnivariateSpline(r2thresholds, r2discard, s=0)
+    plt.plot(xfit, spl(xfit), linewidth=1.5, color='k', label='Morgan radius 2')
+
+    r3results = list(db.profile.radius.find({'radius': 3}).sort('threshold'))
+    r3thresholds = np.array([0] + [r['threshold'] for r in r3results])
+    r3discard = np.array([0] + [1 - r['mean_remaining'] / r['total'] for r in r3results])
+    #plt.plot(r3thresholds, r3discard, 'Dw', markeredgewidth=1)
+    xfit = np.linspace(0, 1, 1000)
+    spl = interpolate.UnivariateSpline(r3thresholds, r3discard, s=0)
+    plt.plot(xfit, spl(xfit), linewidth=1.5, color='r', label='Morgan radius 3')
+
+    r4results = list(db.profile.radius.find({'radius': 4}).sort('threshold'))
+    r4thresholds = np.array([0] + [r['threshold'] for r in r4results])
+    r4discard = np.array([0] + [1 - r['mean_remaining'] / r['total'] for r in r4results])
+    #plt.plot(r4thresholds, r4discard, '^w', markeredgewidth=1)
+    xfit = np.linspace(0, 1, 1000)
+    spl = interpolate.UnivariateSpline(r4thresholds, r4discard, s=0)
+    plt.plot(xfit, spl(xfit), linewidth=1.5, color='b', label='Morgan radius 4')
+
+    plt.ylabel('Discard fraction')
+    plt.xlabel('Similarity threshold')
+    plt.axis([0, 1, 0, 1])
+    plt.grid(True)
+    #plt.show()
+    #fig = plt.gcf()
+    #fig.set_size_inches(10, 6)
+    plt.legend(loc='lower right', numpoints=1)
+    plt.savefig('img/radius.svg', dpi=100)  # facecolor='#f2f2f2'
+
+
 def plot_radius_hist(db):
 
     response = db.chembl.m2.aggregate([{'$group': {'_id': '$count', 'total': {'$sum': 1}}}])

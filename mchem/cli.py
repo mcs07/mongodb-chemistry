@@ -15,7 +15,7 @@ import pymongo
 from rdkit import Chem
 
 from . import __version__
-from . import build, fps, similarity, profile, plot
+from . import build, fps, similarity, profile, plot, postgres
 
 
 MONGODB_URI = 'mongodb://localhost:27017'
@@ -170,14 +170,14 @@ def test(db, test):
         #profile.test_folding(db, db.chembl.m2l1024, db.chembl.m2l2048.counts, 1024)
         profile.test_folding(db, db.chembl.m2l512, db.chembl.m2l512.counts, 512)
     elif test == 'radius':
-        #profile.test_radius(db, db.chembl.m2l512, db.chembl.m2l512.counts, 2)
-        profile.test_radius(db, db.chembl.m2l512, db.chembl.m2l512.counts, 3)
-        profile.test_radius(db, db.chembl.m2l512, db.chembl.m2l512.counts, 4)
+        #profile.test_radius(db, db.chembl.m2, db.chembl.m2.counts, 2)
+        profile.test_radius(db, db.chembl.m3, db.chembl.m3.counts, 3)
+        profile.test_radius(db, db.chembl.m4, db.chembl.m4.counts, 4)
     elif test == 'sample':
         profile.choose_sample(db)
 
 @cli.command()
-@click.argument('test', type=click.Choice(['constraints', 'rhist', 'folding']), required=True)
+@click.argument('test', type=click.Choice(['constraints', 'rhist', 'folding', 'radius']), required=True)
 @click.pass_obj
 def results(db, test):
     """Run various profiling tests. Lots of hardcoded stuff here that needs fixing."""
@@ -188,3 +188,18 @@ def results(db, test):
         plot.plot_radius_hist(db)
     elif test == 'folding':
         plot.plot_folding(db)
+    elif test == 'radius':
+        plot.plot_radius(db)
+
+
+@cli.command()
+@click.argument('test', type=click.Choice(['build', 'profile']), required=True)
+@click.pass_obj
+def pg(db, test):
+    """Build and benchmark PostgreSQL."""
+    click.echo('mchem.postgres')
+    if test == 'build':
+        postgres.build_postgres()
+    elif test == 'profile':
+        postgres.profile_postgres(db)
+
