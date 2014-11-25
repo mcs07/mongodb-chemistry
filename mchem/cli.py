@@ -15,7 +15,7 @@ import pymongo
 from rdkit import Chem
 
 from . import __version__
-from . import build, fps, similarity, profile
+from . import build, fps, similarity, profile, plot
 
 
 MONGODB_URI = 'mongodb://localhost:27017'
@@ -154,17 +154,37 @@ def similar(db, smiles, collection, threshold, fp, radius, length):
 
 
 @cli.command()
-@click.argument('test', type=click.Choice(['constraints', 'folding', 'sample']), required=True)
+@click.argument('test', type=click.Choice(['constraints', 'folding', 'radius', 'sample']), required=True)
 @click.pass_obj
 def test(db, test):
     """Run various profiling tests. Lots of hardcoded stuff here that needs fixing."""
-    click.echo('mchem.profile')
+    click.echo('mchem.test')
     if test == 'constraints':
         profile.test_constraints(db, 'all', reqbits=True, counts=True, rarest=True)
         profile.test_constraints(db, 'counts', reqbits=False, counts=True, rarest=False)
         profile.test_constraints(db, 'rarest', reqbits=True, counts=False, rarest=True)
         profile.test_constraints(db, 'reqbits', reqbits=True, counts=False, rarest=False)
     elif test == 'folding':
-        profile.test_folding(db)
+        #profile.test_folding(db, db.chembl.m2, db.chembl.m2.counts)
+        #profile.test_folding(db, db.chembl.m2l2048, db.chembl.m2l2048.counts, 2048)
+        #profile.test_folding(db, db.chembl.m2l1024, db.chembl.m2l2048.counts, 1024)
+        profile.test_folding(db, db.chembl.m2l512, db.chembl.m2l512.counts, 512)
+    elif test == 'radius':
+        #profile.test_radius(db, db.chembl.m2l512, db.chembl.m2l512.counts, 2)
+        profile.test_radius(db, db.chembl.m2l512, db.chembl.m2l512.counts, 3)
+        profile.test_radius(db, db.chembl.m2l512, db.chembl.m2l512.counts, 4)
     elif test == 'sample':
         profile.choose_sample(db)
+
+@cli.command()
+@click.argument('test', type=click.Choice(['constraints', 'rhist', 'folding']), required=True)
+@click.pass_obj
+def results(db, test):
+    """Run various profiling tests. Lots of hardcoded stuff here that needs fixing."""
+    click.echo('mchem.results')
+    if test == 'constraints':
+        plot.plot_constraints(db)
+    elif test == 'rhist':
+        plot.plot_radius_hist(db)
+    elif test == 'folding':
+        plot.plot_folding(db)

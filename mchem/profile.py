@@ -46,11 +46,11 @@ def load_query_mols(db):
 
 def test_constraints(db, name, reqbits=True, counts=True, rarest=True):
     """Test how different constraints can screen the molecule collection."""
-    qmols = load_query_mols(db)
+    qmols = load_query_mols(db)[:100]
     fingerprinter = MorganFingerprinter(radius=2, length=None)
     result_fields = {'name': name, 'fingerprint': 'morgan', 'radius': 2, 'sample': 'chembl_1000', 'total': db.chembl.m2.count()}
-    remaining = []
-    for threshold in [0.9, 0.8, 0.7, 0.6]:
+    for threshold in [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]:
+        remaining = []
         result = result_fields.copy()
         log.info('Threshold: %s' % threshold)
         result['threshold'] = threshold
@@ -63,9 +63,42 @@ def test_constraints(db, name, reqbits=True, counts=True, rarest=True):
         db.profile.constraint.insert(result)
 
 
-def test_folding(db):
+def test_folding(db, fp_collection, count_collection, length=None):
     """Analyse the proportion of molecules that are screened for fingerprints folded to different sizes."""
-    pass
+    qmols = load_query_mols(db)[:100]
+    fingerprinter = MorganFingerprinter(radius=2, length=length)
+    result_fields = {'length': length, 'fingerprint': 'morgan', 'radius': 2, 'sample': 'chembl_1000', 'total': db.chembl.m2.count()}
+    for threshold in [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]:
+        remaining = []
+        result = result_fields.copy()
+        log.info('Threshold: %s' % threshold)
+        result['threshold'] = threshold
+        for i, qmol in enumerate(qmols):
+            remain = screen(qmol, fingerprinter, fp_collection, threshold, count_collection)
+            log.debug('Query molecule %s of %s: %s remaining' % (i+1, len(qmols), remain))
+            remaining.append(remain)
+        result['median_remaining'] = np.median(remaining)
+        result['mean_remaining'] = np.mean(remaining)
+        db.profile.folding.insert(result)
+
+
+def test_radius(db, fp_collection, count_collection, radius=2):
+    """Analyse the proportion of molecules that are screened for fingerprints of different radius."""
+    qmols = load_query_mols(db)[:100]
+    fingerprinter = MorganFingerprinter(radius=radius)
+    result_fields = {'radius': radius, 'fingerprint': 'morgan', 'sample': 'chembl_1000', 'total': db.chembl.m2.count()}
+    for threshold in [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]:
+        remaining = []
+        result = result_fields.copy()
+        log.info('Threshold: %s' % threshold)
+        result['threshold'] = threshold
+        for i, qmol in enumerate(qmols):
+            remain = screen(qmol, fingerprinter, fp_collection, threshold, count_collection)
+            log.debug('Query molecule %s of %s: %s remaining' % (i+1, len(qmols), remain))
+            remaining.append(remain)
+        result['median_remaining'] = np.median(remaining)
+        result['mean_remaining'] = np.mean(remaining)
+        db.profile.radius.insert(result)
 
 
 def screen(mol, fingerprinter, fp_collection, threshold=0.8, count_collection=None, reqbits=True, counts=True, rarest=True):
@@ -86,73 +119,3 @@ def screen(mol, fingerprinter, fp_collection, threshold=0.8, count_collection=No
         query['count'] = {'$gte': qmin, '$lte': qmax}
     remaining = fp_collection.find(query).count()
     return remaining
-
-
-
-# Screened percentage as a function of tanimoto threshold
-# TNa⩽Nb⩽Na/T constraint
-# Na−TNa+1 constraint
-# Rarest bits for Na−TNa+1 constraint
-
-# Once settled on the best constraint method:
-# unfolded, 2048, 1024, 512 folded
-# radius 2, 3, 4
-
-# Benchmarks:
-# Re-check all, in case other factors affect performance even though screening is better
-
-# Note the impact on results - folded has small negative effect, increased radius has effect, subjective?
-
-#
-
-
-# Scale with RAM:
-# Do folded fingerprints do better when RAM constrained?
-# Try with fixed machine with low RAM, then scale up the size of the database?
-
-
-
-
-#
-# def profile_mongodb():
-#     """"""
-#
-#     db = pymongo.MongoClient().chem
-#     for threshold in [0.95, 0.9, 0.85, 0.8, 0.75, 0.7]:
-#         report = []
-#         times = []
-#         counts = []
-#         # Perform the queries
-#         for chembl_id in chembl_ids:
-#             print(chembl_id)
-#             qmol = db.molecules.find_one({'chembl_id': chembl_id})
-#             report.append('Query: {} - {}'.format(qmol['chembl_id'], qmol['smiles']))
-#             start = time.time()
-#             results = similarity4(qmol['mfp2']['bits'], threshold)
-#             end = time.time()
-#             counts.append(len(results))
-#             report.append('Results ({})'.format(len(results)))
-#             print(report[-1])
-#             for r in results:
-#                 report.append('{}: {}'.format(r['tanimoto'], r['chembl_id']))
-#                 print(report[-1])
-#             times.append(end - start)
-#
-#         # Produce a report of the results
-#         report.append('Counts: {}'.format(' '.join(str(c) for c in counts)))
-#         report.append('Mean: {}'.format(np.mean(counts)))
-#         report.append('Median: {}'.format(np.median(counts)))
-#         report.append('Times: {}'.format(' '.join(str(t) for t in times)))
-#         report.append('Mean: {}'.format(np.mean(times)))
-#         report.append('Median: {}'.format(np.median(times)))
-#         report.append('95th Percentile: {}'.format(np.percentile(times, 95)))
-#         report = '\n'.join(report)
-#         print(report)
-#         with open('benchmarks/{}-{}-{}-{}.txt'.format('unfolded', 'agg', threshold, datetime.datetime.utcnow()), 'w') as f:
-#             f.write(report)
-
-# You can profile individual queries using built in MongoDB profiling:
-#db.set_profiling_level(pymongo.ALL)
-#db.set_profiling_level(pymongo.OFF)
-# But this isn't so useful for searches made up of multiple database queries (it will underestimate)
-
