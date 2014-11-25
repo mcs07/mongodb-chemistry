@@ -27,7 +27,7 @@ def build_postgres():
     # Start by creating the database and loading the chembl dump via the command line:
     # createdb chembl
     # psql chembl < chembl_19.pgdump.sql
-    conn = psycopg2.connect("host=127.0.0.1 dbname=chembl user=matt")
+    conn = psycopg2.connect("host=127.0.0.1 dbname=chembl user=postgres")
     cur = conn.cursor()
     cur.execute('create extension if not exists rdkit;')
     cur.execute('create schema rdk;')
@@ -56,7 +56,7 @@ def build_postgres():
 
 
 def profile_postgres(db):
-    conn = psycopg2.connect("host=127.0.0.1 dbname=chembl user=matt")
+    conn = psycopg2.connect("host=127.0.0.1 dbname=chembl user=postgres ")
     cur = conn.cursor()
     with open('../data/sample_chembl_1000.txt') as f:
         chembl_ids = f.read().strip().split('\n')
