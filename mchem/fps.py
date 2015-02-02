@@ -12,6 +12,7 @@ Functions for generating fingerprints using RDKit.
 from __future__ import print_function
 from __future__ import unicode_literals
 from __future__ import division
+from collections import defaultdict
 import logging
 
 import pymongo
@@ -34,7 +35,6 @@ def generate(mol_collection, fp_collection, fingerprinter):
     :param fp_collection: MongoDB database collection to store fingerprints.
     :param fingerprinter: fingerprinter instance to generate fingerprint for each molecule.
     """
-    #fp_collection = mol_collection.database['%s.%s' % (mol_collection.name, fingerprinter.name)]
     log.info('Generating %s fingerprints for %s into %s' % (fingerprinter.name, mol_collection.name, fp_collection.name))
     success, skip = 0, 0
     for molecule in mol_collection.find(timeout=False):
@@ -60,18 +60,16 @@ def generate(mol_collection, fp_collection, fingerprinter):
 
 def count(fp_collection, count_collection):
     """Build collection containing total counts of all occurrences of each fingerprint bit."""
-    counts = {}
+    counts = defaultdict(int)
     count_collection.drop()
     log.info('Counting fingerprint bits in %s' % count_collection.name)
     for fp in fp_collection.find(timeout=False):
         log.debug('Processing %s' % fp['_id'])
         for bit in fp['bits']:
-            counts[bit] = counts.get(bit, 0) + 1
+            counts[bit] += 1
     for k, v in counts.items():
         log.debug('Saving count %s: %s' % (k, v))
         count_collection.insert({'_id': k, 'count': v})
-
-    # TODO: Index on {'_id', 'count'}
 
 
 class Fingerprinter(object):
