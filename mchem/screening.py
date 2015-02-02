@@ -17,6 +17,8 @@ from math import ceil
 
 import numpy as np
 
+from .similarity import similarity_search
+
 
 log = logging.getLogger(__name__)
 
@@ -65,3 +67,20 @@ def test_screening(mols, fingerprinter, fp_collection, result_collection, thresh
     result_collection.insert(result)
 
 
+def test_ideal(mols, fingerprinter, fp_collection, result_collection, threshold=0.8, count_collection=None):
+    """Run exact similarity search to find the ideal theoretical maximum screening ability."""
+    log.info('Testing ideal screening: fp: %s Threshold: %s' % (fingerprinter.name, threshold))
+    result = {
+        'fp': fingerprinter.name,
+        'threshold': threshold,
+        'remaining': [],
+        'total': fp_collection.count(),
+        'ideal': True
+    }
+    for i, qmol in enumerate(mols):
+        remain = len(similarity_search(qmol, fingerprinter, fp_collection, threshold, count_collection))
+        log.debug('Query molecule %s of %s: %s remaining' % (i+1, len(mols), remain))
+        result['remaining'].append(remain)
+    result['median_remaining'] = np.median(result['remaining'])
+    result['mean_remaining'] = np.mean(result['remaining'])
+    result_collection.insert(result)
