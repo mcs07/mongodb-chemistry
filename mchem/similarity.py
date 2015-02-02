@@ -52,6 +52,17 @@ def similarity_search(mol, fingerprinter, fp_collection, threshold=0.8, count_co
     :param count_collection: MongoDB collection containing fingerprint bit frequencies
     """
     qfp = fingerprinter.generate(mol)
+    return similarity_search_fp(qfp, fp_collection, threshold=threshold, count_collection=count_collection)
+
+
+def similarity_search_fp(qfp, fp_collection, threshold=0.8, count_collection=None):
+    """Perform a similarity search using aggregation framework.
+
+    :param qfp: The query fingerprint
+    :param fp_collection: MongoDB fingerprint collection to query
+    :param threshold: The tanimoto threshold
+    :param count_collection: MongoDB collection containing fingerprint bit frequencies
+    """
     qn = len(qfp)                           # Number of bits in query fingerprint
     qmin = int(ceil(qn * threshold))        # Minimum number of bits in results fingerprints
     qmax = int(qn / threshold)              # Maximum number of bits in results fingerprints

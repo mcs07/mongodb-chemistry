@@ -16,7 +16,7 @@ import pymongo
 from rdkit import Chem
 
 from . import __version__
-from . import build, fps, similarity, screening, plot
+from . import build, fps, similarity, screening, profile, plot
 
 
 MONGODB_URI = 'mongodb://localhost:27017'
@@ -205,6 +205,26 @@ def analyse(db, test, collection, sample, fp, radius, length):
             screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection, counts=False)
         elif test == 'ideal':
             screening.test_ideal(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
+
+
+@cli.command()
+@click.option('--collection', '-c', default=MONGODB_COLL, envvar='MCHEM_MONGODB_COLL', help='Molecule collection (default: mols).')
+@click.option('--sample', type=click.File('r'), help='File containing sample ids.')
+@click.option('--fp', default='morgan', type=click.Choice(['morgan']), help='Fingerprint type (default: morgan).')
+@click.option('--radius', default=2, help='Radius for morgan fingerprint (default: 2).')
+@click.option('--length', type=click.IntRange(0), help='Fold length for fingerprint (default: no folding).')
+@click.pass_obj
+def benchmark(db, collection, sample, fp, radius, length):
+    """Run benchmarks for similarity searching."""
+    click.echo('mchem.test')
+    mols = load_sample_mols(db, collection, sample)
+    fingerprinter = get_fingerprinter(fp, radius, length)
+    fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
+    count_collection = db['%s.counts' % fp_collection.name]
+    result_collection = db['%s.profile' % collection]
+    thresholds = [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
+    for threshold in thresholds:
+        profile.profile_similarity(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
 
 
 @cli.command()
