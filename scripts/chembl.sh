@@ -21,3 +21,18 @@ mchem countfp --collection chembl --fp morgan --radius 4
 mchem countfp --collection chembl --fp morgan --radius 2 --length 512
 mchem countfp --collection chembl --fp morgan --radius 2 --length 1024
 mchem countfp --collection chembl --fp morgan --radius 2 --length 2048
+
+# Create random sample of 1000 molecules
+mchem sample --collection chembl --size 1000 --seed 201405291515 data/sample_chembl_1000.txt
+
+# Test the different screening methods
+mchem analyse screening --collection chembl --sample data/sample_chembl_1000.txt
+
+# Test different fingerprint folding
+mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --length 2048
+mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --length 1024
+mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --length 512
+
+# Test different fingerprint radius
+mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --radius 3
+mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --radius 4

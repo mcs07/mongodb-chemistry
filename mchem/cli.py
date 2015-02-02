@@ -9,13 +9,14 @@ Command line interface for the mongodb-chemistry project.
 :license: MIT, see LICENSE file for more details.
 """
 import logging
+import random
 
 import click
 import pymongo
 from rdkit import Chem
 
 from . import __version__
-from . import build, fps, similarity, profile, plot
+from . import build, fps, similarity, screening, plot
 
 
 MONGODB_URI = 'mongodb://localhost:27017'
@@ -62,7 +63,7 @@ def drop(db, collection):
         click.echo('Dropped the collection %s!' % collection.name)
 
 
-def get_fingerprinter(name, radius, length):
+def get_fingerprinter(name, radius, length=None):
     fingerprinter = {
         'morgan': fps.MorganFingerprinter(radius=radius, length=length)
         # Add other fingerprinters here in future
@@ -154,27 +155,56 @@ def similar(db, smiles, collection, threshold, fp, radius, length):
 
 
 @cli.command()
-@click.argument('test', type=click.Choice(['constraints', 'folding', 'radius', 'sample']), required=True)
+@click.option('--collection', '-c', default=MONGODB_COLL, envvar='MCHEM_MONGODB_COLL', help='Molecule collection (default: mols).')
+@click.option('--size', type=click.IntRange(0), default=1000, help='Sample size.')
+@click.option('--seed', default=201405291515, help='Random seed.')
+@click.argument('output', type=click.File('w'), required=True)
 @click.pass_obj
-def test(db, test):
-    """Run various profiling tests. Lots of hardcoded stuff here that needs fixing."""
+def sample(db, collection, size, seed, output):
+    """Choose a random sample of molecules from a collection."""
+    click.echo('mchem.sample')
+    # TODO: I think this will break down for larger collections.
+    # Instead assign random number field to molecules when creating?
+    ids = [m['_id'] for m in db[collection].find().sort('_id')]
+    random.seed(seed)
+    rands = random.sample(ids, size)
+    for rand in rands:
+        output.write('%s\n' % rand)
+
+
+def load_sample_mols(db, collection, f):
+    ids = f.read().strip().split('\n')
+    return [Chem.Mol(mol['rdmol']) for mol in db[collection].find({'_id': {'$in': ids}})]
+
+
+@cli.command()
+@click.argument('test', type=click.Choice(['screening', 'fingerprint']), required=True)
+@click.option('--collection', '-c', default=MONGODB_COLL, envvar='MCHEM_MONGODB_COLL', help='Molecule collection (default: mols).')
+@click.option('--sample', type=click.File('r'), help='File containing sample ids.')
+@click.option('--fp', default='morgan', type=click.Choice(['morgan']), help='Fingerprint type (default: morgan).')
+@click.option('--radius', default=2, help='Radius for morgan fingerprint (default: 2).')
+@click.option('--length', type=click.IntRange(0), help='Fold length for fingerprint (default: no folding).')
+@click.pass_obj
+def analyse(db, test, collection, sample, fp, radius, length):
+    """Analyse different screening methods."""
     click.echo('mchem.test')
-    if test == 'constraints':
-        profile.test_constraints(db, 'all', reqbits=True, counts=True, rarest=True)
-        profile.test_constraints(db, 'counts', reqbits=False, counts=True, rarest=False)
-        profile.test_constraints(db, 'rarest', reqbits=True, counts=False, rarest=True)
-        profile.test_constraints(db, 'reqbits', reqbits=True, counts=False, rarest=False)
-    elif test == 'folding':
-        #profile.test_folding(db, db.chembl.m2, db.chembl.m2.counts)
-        #profile.test_folding(db, db.chembl.m2l2048, db.chembl.m2l2048.counts, 2048)
-        #profile.test_folding(db, db.chembl.m2l1024, db.chembl.m2l2048.counts, 1024)
-        profile.test_folding(db, db.chembl.m2l512, db.chembl.m2l512.counts, 512)
-    elif test == 'radius':
-        #profile.test_radius(db, db.chembl.m2, db.chembl.m2.counts, 2)
-        profile.test_radius(db, db.chembl.m3, db.chembl.m3.counts, 3)
-        profile.test_radius(db, db.chembl.m4, db.chembl.m4.counts, 4)
-    elif test == 'sample':
-        profile.choose_sample(db)
+    mols = load_sample_mols(db, collection, sample)
+    fingerprinter = get_fingerprinter(fp, radius, length)
+    fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
+    count_collection = db['%s.counts' % fp_collection.name]
+    result_collection = db['%s.test' % collection]
+    thresholds = [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
+
+    for threshold in thresholds:
+        screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
+        # Test alternative screening methods
+        if test == 'screening':
+            screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, reqbits=False)
+            screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, counts=False)
+            screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection, counts=False)
+
+
+
 
 @cli.command()
 @click.argument('test', type=click.Choice(['constraints', 'rhist', 'folding', 'radius']), required=True)
