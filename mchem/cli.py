@@ -178,7 +178,7 @@ def load_sample_mols(db, collection, f):
 
 
 @cli.command()
-@click.argument('test', type=click.Choice(['screening', 'fingerprint']), required=True)
+@click.argument('test', type=click.Choice(['screening', 'fingerprint', 'ideal']), required=True)
 @click.option('--collection', '-c', default=MONGODB_COLL, envvar='MCHEM_MONGODB_COLL', help='Molecule collection (default: mols).')
 @click.option('--sample', type=click.File('r'), help='File containing sample ids.')
 @click.option('--fp', default='morgan', type=click.Choice(['morgan']), help='Fingerprint type (default: morgan).')
@@ -196,30 +196,31 @@ def analyse(db, test, collection, sample, fp, radius, length):
     thresholds = [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
 
     for threshold in thresholds:
-        screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
-        # Test alternative screening methods
-        if test == 'screening':
+        if test == 'fingerprint':
+            screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
+        elif test == 'screening':
+            screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
             screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, reqbits=False)
             screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, counts=False)
             screening.test_screening(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection, counts=False)
-
-
+        elif test == 'ideal':
+            screening.test_ideal(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
 
 
 @cli.command()
-@click.argument('test', type=click.Choice(['constraints', 'rhist', 'folding', 'radius']), required=True)
+@click.argument('test', type=click.Choice(['screening', 'folding', 'radius']), required=True)
+@click.option('--collection', '-c', default=MONGODB_COLL, envvar='MCHEM_MONGODB_COLL', help='Molecule collection (default: mols).')
 @click.pass_obj
-def results(db, test):
-    """Run various profiling tests. Lots of hardcoded stuff here that needs fixing."""
+def results(db, test, collection):
+    """Plot test results."""
     click.echo('mchem.results')
-    if test == 'constraints':
-        plot.plot_constraints(db)
-    elif test == 'rhist':
-        plot.plot_radius_hist(db)
+    result_collection = db['%s.test' % collection]
+    if test == 'screening':
+        plot.plot_screening(result_collection)
     elif test == 'folding':
-        plot.plot_folding(db)
+        plot.plot_folding(result_collection)
     elif test == 'radius':
-        plot.plot_radius(db)
+        plot.plot_radius(result_collection)
 
 
 @cli.command()

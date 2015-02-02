@@ -45,8 +45,11 @@ def similarity_client(mol, fingerprinter, fp_collection,  threshold=0.8, count_c
 def similarity_search(mol, fingerprinter, fp_collection, threshold=0.8, count_collection=None):
     """Perform a similarity search using aggregation framework.
 
-    :param qfp: The query fingerprint
+    :param mol: The query molecule
+    :param fingerprinter: The Fingerprinter to use
+    :param fp_collection: MongoDB fingerprint collection to query
     :param threshold: The tanimoto threshold
+    :param count_collection: MongoDB collection containing fingerprint bit frequencies
     """
     qfp = fingerprinter.generate(mol)
     qn = len(qfp)                           # Number of bits in query fingerprint
