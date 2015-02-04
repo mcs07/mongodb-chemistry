@@ -27,7 +27,7 @@ def plot_screen(results, label, style):
     discard = np.array([0] + [1 - r['mean_remaining'] / r['total'] for r in results])
     log.info(thresholds)
     log.info(discard)
-    plt.plot(thresholds, discard, 'ow', markeredgewidth=1)
+    #plt.plot(thresholds, discard, 'ow', markeredgewidth=1)
     xfit = np.linspace(0, 1, 1000)
     spl = interpolate.UnivariateSpline(thresholds, discard, s=0)
     plt.plot(xfit, spl(xfit), style, linewidth=1.5, label=label)
@@ -35,15 +35,15 @@ def plot_screen(results, label, style):
 
 def plot_screening(result_collection):
     """Plot screening ability of different screening methods."""
-    idealresults = list(result_collection.find({'ideal': True}).sort('threshold'))
-    plot_screen(idealresults, 'Ideal', 'k--')
-    allresults = list(result_collection.find({'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
-    plot_screen(allresults, 'Combined', 'k')
+    #idealresults = list(result_collection.find({'ideal': True}).sort('threshold'))
+    allresults = list(result_collection.find({'fp': 'm2', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
     countresults = list(result_collection.find({'counts': True, 'reqbits': False, 'rarest': False}).sort('threshold'))
-    plot_screen(countresults, 'Counts', 'g')
     reqresults = list(result_collection.find({'counts': False, 'reqbits': True, 'rarest': False}).sort('threshold'))
-    plot_screen(reqresults, 'Required', 'b')
     rareresults = list(result_collection.find({'counts': False, 'reqbits': True, 'rarest': True}).sort('threshold'))
+    #plot_screen(idealresults, 'Ideal', 'k--')
+    plot_screen(allresults, 'Combined', 'k')
+    plot_screen(countresults, 'Counts', 'g')
+    plot_screen(reqresults, 'Required', 'b')
     plot_screen(rareresults, 'Rarest', 'r')
     plt.ylabel('Discard fraction')
     plt.xlabel('Similarity threshold')
@@ -76,12 +76,12 @@ def plot_folding(result_collection):
     plt.savefig('img/folding.svg', dpi=100)  # facecolor='#f2f2f2'
 
 
-def plot_radius(db):
-    r2results = list(db.profile.radius.find({'fp': 'm2', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
+def plot_radius(result_collection):
+    r2results = list(result_collection.find({'fp': 'm2', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
     plot_screen(r2results, 'Morgan radius 2', 'k')
-    r3results = list(db.profile.radius.find({'fp': 'm3', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
+    r3results = list(result_collection.find({'fp': 'm3', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
     plot_screen(r3results, 'Morgan radius 3', 'r')
-    r4results = list(db.profile.radius.find({'fp': 'm4', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
+    r4results = list(result_collection.find({'fp': 'm4', 'counts': True, 'reqbits': True, 'rarest': True}).sort('threshold'))
     plot_screen(r4results, 'Morgan radius 4', 'b')
     plt.ylabel('Discard fraction')
     plt.xlabel('Similarity threshold')
