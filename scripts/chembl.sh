@@ -25,6 +25,9 @@ mchem countfp --collection chembl --fp morgan --radius 2 --length 2048
 # Create random sample of 1000 molecules
 mchem sample --collection chembl --size 1000 --seed 201405291515 data/sample_chembl_1000.txt
 
+# Or download the sample
+#curl -o sample_chembl_1000.txt https://raw.githubusercontent.com/mcs07/mongodb-chemistry/master/data/sample_chembl_1000.txt
+
 # Test the different screening methods
 mchem analyse screening --collection chembl --sample data/sample_chembl_1000.txt
 
@@ -36,3 +39,12 @@ mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.t
 # Test different fingerprint radius
 mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --radius 3
 mchem analyse fingerprint --collection chembl --sample data/sample_chembl_1000.txt --radius 4
+
+# Benchmark the speed of similarity queries
+mchem benchmark --collection chembl --sample data/sample_chembl_1000.txt
+mchem benchmark --collection chembl --sample data/sample_chembl_1000.txt --radius 3
+
+# Plot results
+mchem results screening --collection chembl
+mchem results radius --collection chembl
+mchem results folding --collection chembl
