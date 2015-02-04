@@ -222,7 +222,7 @@ def benchmark(db, collection, sample, fp, radius, length):
     fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
     count_collection = db['%s.counts' % fp_collection.name]
     result_collection = db['%s.profile' % collection]
-    thresholds = [1.0, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
+    thresholds = [1.0, 0.95, 0.9, 0.85, 0.8, 0.75, 0.7, 0.65, 0.6, 0.55, 0.5]
     for threshold in thresholds:
         profile.profile_similarity(mols, fingerprinter, fp_collection, result_collection, threshold, count_collection)
 
