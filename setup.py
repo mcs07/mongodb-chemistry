@@ -14,7 +14,7 @@ setup(
     description='Proof of concept for a MongoDB chemical database',
     keywords='chemistry cheminformatics rdkit',
     zip_safe=False,
-    entry_points={'console_scripts': ['mchem = mchem.cli:cli']},
+    entry_points={'console_scripts': ['mchem = mchem.cli:cli', 'pgchem = mchem.postgres:cli']},
     install_requires=['Click', 'pymongo'],
     classifiers=[
         'Environment :: Console',
