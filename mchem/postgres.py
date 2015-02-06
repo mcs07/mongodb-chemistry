@@ -49,7 +49,7 @@ def load(conn):
     cur = conn.cursor()
     cur.execute('create extension if not exists rdkit;')
     cur.execute('create schema rdk;')
-    cur.execute('drop table biotherapeutics, drug_mechanism, activities, assays, assay_parameters, compound_records, compound_properties, molecule_hierarchy, ligand_eff, predicted_binding_domains, molecule_synonyms, docs, formulations, molecule_atc_classification cascade;')
+    cur.execute('drop table if exists biotherapeutics, drug_mechanism, activities, assays, assay_parameters, compound_records, compound_properties, molecule_hierarchy, ligand_eff, predicted_binding_domains, molecule_synonyms, docs, formulations, molecule_atc_classification cascade;')
     cur.execute('select * into rdk.mols from (select molregno,mol_from_ctab(molfile::cstring) m  from compound_structures) tmp where m is not null;')
     cur.execute('create index molidx on rdk.mols using gist(m);')
     cur.execute('alter table rdk.mols add primary key (molregno);')
