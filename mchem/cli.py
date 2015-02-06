@@ -63,12 +63,7 @@ def drop(db, collection):
         click.echo('Dropped the collection %s!' % collection.name)
 
 
-def get_fingerprinter(name, radius, length=None):
-    fingerprinter = {
-        'morgan': fps.MorganFingerprinter(radius=radius, length=length)
-        # Add other fingerprinters here in future
-    }[name]
-    return fingerprinter
+
 
 
 @cli.command()
@@ -80,7 +75,7 @@ def get_fingerprinter(name, radius, length=None):
 def addfp(db, collection, fp, radius, length):
     """Generate a fingerprint for every molecule in a MongoDB collection."""
     click.echo('mchem.addfp')
-    fingerprinter = get_fingerprinter(fp, radius, length)
+    fingerprinter = fps.get_fingerprinter(fp, radius, length)
     fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
     if fp_collection.count() > 0:
         click.confirm('Add %s fingerprints to existing %s collection?' % (collection, fp_collection.name), abort=True)
@@ -96,7 +91,7 @@ def addfp(db, collection, fp, radius, length):
 def countfp(db, collection, fp, radius, length):
     """Pre-calculate count of each fingerprint bit for a specific fingerprint in a specific molecule collection."""
     click.echo('mchem.countfp')
-    fingerprinter = get_fingerprinter(fp, radius, length)
+    fingerprinter = fps.get_fingerprinter(fp, radius, length)
     fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
     count_collection = db['%s.counts' % fp_collection.name]
     fps.count(fp_collection, count_collection)
@@ -145,7 +140,7 @@ class FloatRange(click.ParamType):
 def similar(db, smiles, collection, threshold, fp, radius, length):
     """Perform a similarity search."""
     click.echo('mchem.similar')
-    fingerprinter = get_fingerprinter(fp, radius, length)
+    fingerprinter = fps.get_fingerprinter(fp, radius, length)
     fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
     count_collection = db['%s.counts' % fp_collection.name]
     mol = Chem.MolFromSmiles(smiles.encode())
@@ -189,7 +184,7 @@ def analyse(db, test, collection, sample, fp, radius, length):
     """Analyse different screening methods."""
     click.echo('mchem.test')
     mols = load_sample_mols(db, collection, sample)
-    fingerprinter = get_fingerprinter(fp, radius, length)
+    fingerprinter = fps.get_fingerprinter(fp, radius, length)
     fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
     count_collection = db['%s.counts' % fp_collection.name]
     result_collection = db['%s.test' % collection]
@@ -218,7 +213,7 @@ def benchmark(db, collection, sample, fp, radius, length):
     """Run benchmarks for similarity searching."""
     click.echo('mchem.test')
     mols = load_sample_mols(db, collection, sample)
-    fingerprinter = get_fingerprinter(fp, radius, length)
+    fingerprinter = fps.get_fingerprinter(fp, radius, length)
     fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
     count_collection = db['%s.counts' % fp_collection.name]
     result_collection = db['%s.profile' % collection]
@@ -241,17 +236,3 @@ def results(db, test, collection):
         plot.plot_folding(result_collection)
     elif test == 'radius':
         plot.plot_radius(result_collection)
-
-
-@cli.command()
-@click.argument('test', type=click.Choice(['build', 'profile']), required=True)
-@click.pass_obj
-def pg(db, test):
-    """Build and benchmark PostgreSQL."""
-    from . import postgres
-    click.echo('mchem.postgres')
-    if test == 'build':
-        postgres.build_postgres()
-    elif test == 'profile':
-        postgres.profile_postgres(db)
-

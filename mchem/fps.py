@@ -116,3 +116,10 @@ class MorganFingerprinter(Fingerprinter):
             n = '%sl%s' % (n, self.length)
         return n
 
+
+def get_fingerprinter(name, radius, length=None):
+    fingerprinter = {
+        'morgan': MorganFingerprinter(radius=radius, length=length)
+        # Add other fingerprinters here in future
+    }[name]
+    return fingerprinter
