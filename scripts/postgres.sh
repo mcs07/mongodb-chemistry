@@ -55,3 +55,9 @@ sudo service postgresql restart
 
 # Set up fingerprints etc.
 pgchem -v --db chembl_19 load
+
+# Get sample mols
+curl -o sample_chembl_1000.txt https://raw.githubusercontent.com/mcs07/mongodb-chemistry/master/data/sample_chembl_1000.txt
+
+# Run benchmarks
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt

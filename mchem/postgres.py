@@ -18,6 +18,7 @@ import time
 import click
 import numpy as np
 import psycopg2
+from psycopg2.extensions import AsIs
 
 
 log = logging.getLogger(__name__)
@@ -70,6 +71,7 @@ def load(conn):
     cur.execute('create index fps_m2l2048_idx on rdk.fps using gist(m2l2048);')
     cur.execute('create index fps_m2l512_idx on rdk.fps using gist(m2l512);')
     cur.execute('alter table rdk.fps add primary key (molregno);')
+    conn.commit()
     cur.close()
     conn.close()
 
@@ -89,13 +91,13 @@ def profile(conn, sample, fp):
             # ARGH! The CHEMBL ID vs. molregno thing is a nightmare
             cur.execute("select entity_id from chembl_id_lookup where chembl_id = %s", (mol_id,))
             molregno = cur.fetchone()[0]
-            cur.execute("select m from rdk.mols where molregno = %s", (molregno,))
-            smiles = cur.fetchone()[0]
-            cur.execute("select %s from rdk.fps where molregno = %s", (fp, molregno,))
+            #cur.execute("select m from rdk.mols where molregno = %s", (molregno,))
+            #smiles = cur.fetchone()[0]
+            cur.execute("select %s from rdk.fps where molregno = %s", (AsIs(fp), molregno,))
             qfp = cur.fetchone()[0]
             log.debug(mol_id)
             start = time.time()
-            cur.execute("select molregno from rdk.fps where %s%%%s", (fp, qfp,))
+            cur.execute("select molregno from rdk.fps where %s%%%s", (AsIs(fp), qfp,))
             #cur.execute("select molregno from rdk.fps where %s%%morganbv_fp(%s)", (fp, smiles,))  # using smiles
             results = cur.fetchall()
             end = time.time()
