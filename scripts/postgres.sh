@@ -51,5 +51,7 @@ sed -i "s/^#*shared_buffers \=.*/shared_buffers = 256MB/" "/etc/postgresql/9.3/m
 sed -i "s/^#*work_mem \=.*/work_mem = 128MB/" "/etc/postgresql/9.3/main/postgresql.conf"
 
 # Restart PostgreSQL
-sudo service postgresql stop
-sudo service postgresql start
+sudo service postgresql restart
+
+# Set up fingerprints etc.
+pgchem -v --db chembl_19 load
