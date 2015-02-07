@@ -77,38 +77,39 @@ def load(conn):
 
 
 @cli.command()
-@click.option('--sample', type=click.File('r'), help='File containing sample ids.')
-@click.option('--fp', default='m2', type=click.Choice(['m2', 'm3', 'm2l2048', 'm2l512', 'm3l2048', 'm3l512']), help='Fingerprint type (default: m2).')
+@click.option('--sample', '-s', type=click.File('r'), help='File containing sample ids.')
+@click.option('--fp', '-f', default='m2', type=click.Choice(['m2', 'm3', 'm2l2048', 'm2l512', 'm3l2048', 'm3l512']), help='Fingerprint type (default: m2).')
+@click.option('--threshold', '-t', default=0.8, help='Tanimoto threshold (default: 0.8).')
+
 @click.pass_obj
-def profile(conn, sample, fp):
+def profile(conn, sample, fp, threshold):
     cur = conn.cursor()
     mol_ids = sample.read().strip().split('\n')
-    for threshold in [1, 0.95, 0.9, 0.85, 0.8, 0.75, 0.7, 0.65, 0.6, 0.5]:
-        times = []
-        cur.execute("set rdkit.tanimoto_threshold=%s;", (threshold,))
-        for i, mol_id in enumerate(mol_ids[:100]):
-            log.debug('Query molecule %s of %s: %s' % (i+1, len(mol_ids), mol_id))
-            # ARGH! The CHEMBL ID vs. molregno thing is a nightmare
-            cur.execute("select entity_id from chembl_id_lookup where chembl_id = %s", (mol_id,))
-            molregno = cur.fetchone()[0]
-            #cur.execute("select m from rdk.mols where molregno = %s", (molregno,))
-            #smiles = cur.fetchone()[0]
-            cur.execute("select %s from rdk.fps where molregno = %s", (AsIs(fp), molregno,))
-            qfp = cur.fetchone()[0]
-            log.debug(mol_id)
-            start = time.time()
-            cur.execute("select molregno from rdk.fps where %s%%%s", (AsIs(fp), qfp,))
-            #cur.execute("select molregno from rdk.fps where %s%%morganbv_fp(%s)", (fp, smiles,))  # using smiles
-            results = cur.fetchall()
-            end = time.time()
-            times.append(end - start)
-        # Save results
-        result = {
-            'median_time': np.median(times),
-            'mean_time': np.mean(times),
-            'fp': fp,
-            'threshold': threshold
-        }
-        log.info(result)
+    times = []
+    cur.execute("set rdkit.tanimoto_threshold=%s;", (threshold,))
+    for i, mol_id in enumerate(mol_ids[:100]):
+        log.debug('Query molecule %s of %s: %s' % (i+1, len(mol_ids), mol_id))
+        # ARGH! The CHEMBL ID vs. molregno thing is a nightmare
+        cur.execute("select entity_id from chembl_id_lookup where chembl_id = %s", (mol_id,))
+        molregno = cur.fetchone()[0]
+        #cur.execute("select m from rdk.mols where molregno = %s", (molregno,))
+        #smiles = cur.fetchone()[0]
+        cur.execute("select %s from rdk.fps where molregno = %s", (AsIs(fp), molregno,))
+        qfp = cur.fetchone()[0]
+        log.debug(mol_id)
+        start = time.time()
+        cur.execute("select molregno from rdk.fps where %s%%%s", (AsIs(fp), qfp,))
+        #cur.execute("select molregno from rdk.fps where %s%%morganbv_fp(%s)", (fp, smiles,))  # using smiles
+        results = cur.fetchall()
+        end = time.time()
+        times.append(end - start)
+    # Save results
+    result = {
+        'median_time': np.median(times),
+        'mean_time': np.mean(times),
+        'fp': fp,
+        'threshold': threshold
+    }
+    log.info(result)
     cur.close()
     conn.close()

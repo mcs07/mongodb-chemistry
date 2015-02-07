@@ -60,4 +60,14 @@ pgchem -v --db chembl_19 load
 curl -o sample_chembl_1000.txt https://raw.githubusercontent.com/mcs07/mongodb-chemistry/master/data/sample_chembl_1000.txt
 
 # Run benchmarks
-pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 1.0
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.95
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.9
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.85
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.8
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.75
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.7
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.65
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.6
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.55
+pgchem -v --db chembl_19 profile --fp m2l2048 --sample sample_chembl_1000.txt --threshold 0.5
