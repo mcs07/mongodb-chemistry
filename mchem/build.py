@@ -66,8 +66,14 @@ def load_sdf(sdf, collection, idfield):
             log.debug('Failed to read molecule')
             fail += 1
             continue
+        try:
+            smiles = Chem.MolToSmiles(rdmol, isomericSmiles=True)
+        except ValueError:
+            log.debug('Failed to generate SMILES')
+            fail += 1
+            continue
         mol = {
-            'smiles': Chem.MolToSmiles(rdmol, isomericSmiles=True),
+            'smiles': smiles,
             'rdmol': Binary(rdmol.ToBinary()),
         }
         if idfield:
