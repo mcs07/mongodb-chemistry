@@ -68,7 +68,7 @@ def load_sdf(sdf, collection, idfield):
             continue
         try:
             smiles = Chem.MolToSmiles(rdmol, isomericSmiles=True)
-        except ValueError:
+        except (ValueError, RuntimeError):
             log.debug('Failed to generate SMILES')
             fail += 1
             continue
