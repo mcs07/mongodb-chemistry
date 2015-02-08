@@ -146,7 +146,30 @@ def similar(db, smiles, collection, threshold, fp, radius, length):
     mol = Chem.MolFromSmiles(smiles.encode())
     results = similarity.similarity_search(mol, fingerprinter, fp_collection, threshold, count_collection)
     for result in results:
-        print result['_id']
+        click.echo(result['_id'])
+
+
+@cli.command()
+@click.option('--sample', type=click.File('r'), help='File containing sample ids.')
+@click.option('--collection', '-c', default=MONGODB_COLL, envvar='MCHEM_MONGODB_COLL', help='Molecule collection (default: mols).')
+@click.option('--threshold', default=0.8, type=FloatRange(0, 1), help='Similarity search threshold (default 0.8).')
+@click.option('--fp', default='morgan', type=click.Choice(['morgan']), help='Fingerprint type (default: morgan).')
+@click.option('--radius', default=2, help='Radius for morgan fingerprint (default: 2).')
+@click.option('--length', type=click.IntRange(0), help='Fold length for fingerprint (default: no folding).')
+@click.pass_obj
+def samplesim(db, sample, collection, threshold, fp, radius, length):
+    """Perform a similarity search on every molecule in sample and print results."""
+    click.echo('mchem.similar')
+    fingerprinter = fps.get_fingerprinter(fp, radius, length)
+    fp_collection = db['%s.%s' % (collection, fingerprinter.name)]
+    count_collection = db['%s.counts' % fp_collection.name]
+    mol_ids = sample.read().strip().split('\n')
+    for i, mol_id in enumerate(mol_ids):
+        click.echo('Query: %s (%s of %s)' % (mol_id, i+1, len(mol_ids)))
+        qmol = Chem.Mol(db[collection].find_one({'_id': mol_id})['rdmol'])
+        result_mols = similarity.similarity_search(qmol, fingerprinter, fp_collection, threshold, count_collection)
+        click.echo([r['_id'] for r in result_mols])
+
 
 
 @cli.command()

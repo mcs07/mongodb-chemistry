@@ -119,14 +119,14 @@ def profile(conn, sample, fp, threshold):
 @click.option('--fp', default='m2', type=click.Choice(['m2', 'm3', 'm2l2048', 'm2l512', 'm3l2048', 'm3l512']), help='Fingerprint type (default: m2).')
 @click.option('--threshold', default=0.8, help='Similarity search threshold (default 0.8).')
 @click.pass_obj
-def similar(conn, sample, threshold, fp):
+def samplesim(conn, sample, threshold, fp):
     """Perform a similarity search on every molecule in sample and print results."""
-    log.info('Fingerprint: %s, Threshold: %s' % (fp, threshold))
+    click.echo('Fingerprint: %s, Threshold: %s' % (fp, threshold))
     cur = conn.cursor()
     mol_ids = sample.read().strip().split('\n')
     cur.execute("set rdkit.tanimoto_threshold=%s;", (threshold,))
     for i, mol_id in enumerate(mol_ids[:100]):
-        log.info('Query: %s (%s of %s)' % (mol_id, i+1, len(mol_ids)))
+        click.echo('Query: %s (%s of %s)' % (mol_id, i+1, len(mol_ids)))
         cur.execute("select entity_id from chembl_id_lookup where chembl_id = %s", (mol_id,))
         molregno = cur.fetchone()[0]
         cur.execute("select %s from rdk.fps where molregno = %s", (AsIs(fp), molregno,))
@@ -135,8 +135,8 @@ def similar(conn, sample, threshold, fp):
         results = [r[0] for r in cur.fetchall()]
         chembl_ids = []
         for mrn in results:
-            cur.execute("select chembl_id from chembl_id_lookup where entity_id = %s", (mrn,))
+            cur.execute("select chembl_id from chembl_id_lookup where entity_id = %s and entity_type = 'COMPOUND'", (mrn,))
             chembl_ids.append(cur.fetchone()[0])
-        log.info(chembl_ids)
+        click.echo(chembl_ids)
     cur.close()
     conn.close()
