@@ -80,7 +80,6 @@ def load(conn):
 @click.option('--sample', '-s', type=click.File('r'), help='File containing sample ids.')
 @click.option('--fp', '-f', default='m2', type=click.Choice(['m2', 'm3', 'm2l2048', 'm2l512', 'm3l2048', 'm3l512']), help='Fingerprint type (default: m2).')
 @click.option('--threshold', '-t', default=0.8, help='Tanimoto threshold (default: 0.8).')
-
 @click.pass_obj
 def profile(conn, sample, fp, threshold):
     cur = conn.cursor()
@@ -111,5 +110,30 @@ def profile(conn, sample, fp, threshold):
         'threshold': threshold
     }
     log.info(result)
+    cur.close()
+    conn.close()
+
+
+@cli.command()
+@click.option('--sample', '-s', type=click.File('r'), help='File containing sample ids.')
+@click.option('--fp', default='m2', type=click.Choice(['m2', 'm3', 'm2l2048', 'm2l512', 'm3l2048', 'm3l512']), help='Fingerprint type (default: m2).')
+@click.option('--threshold', default=0.8, help='Similarity search threshold (default 0.8).')
+@click.pass_obj
+def similar(conn, sample, threshold, fp):
+    """Perform a similarity search."""
+    cur = conn.cursor()
+    mol_ids = sample.read().strip().split('\n')
+    times = []
+    cur.execute("set rdkit.tanimoto_threshold=%s;", (threshold,))
+    for i, mol_id in enumerate(mol_ids[:100]):
+        log.debug('Query molecule %s of %s: %s' % (i+1, len(mol_ids), mol_id))
+        cur.execute("select entity_id from chembl_id_lookup where chembl_id = %s", (mol_id,))
+        molregno = cur.fetchone()[0]
+        cur.execute("select %s from rdk.fps where molregno = %s", (AsIs(fp), molregno,))
+        qfp = cur.fetchone()[0]
+        cur.execute("select molregno from rdk.fps where %s%%%s", (AsIs(fp), qfp,))
+        #cur.execute("select molregno from rdk.fps where %s%%morganbv_fp(%s)", (fp, smiles,))  # using smiles
+        results = cur.fetchall()
+        log.info(results)
     cur.close()
     conn.close()
